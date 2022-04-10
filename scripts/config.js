@@ -29,13 +29,13 @@ Hooks.on("renderSettingsConfig", (app, html, data) => {
   if(!game.user.isGM) return;
   const menuSetting = html.find(`input[name="theripper-premium-hub.checkDisabled"]`).closest(".form-group");
   const button = $(`
+  ${game.theripperpremiumhub.announcementsHtml}
   <div class="form-group">
   <a style="text-align: center;" href="https://theripper93.com/" target="_blank" rel="nofollow" title="https://theripper93.com/"><i class="fas fa-globe"></i> Visit my Website</a>
       <button type="button">
           <i class="fas fa-cogs"></i>
           <label>Check for Updates</label>
       </button>
-      
   </div>
   `);
   button.find("button").click((e) => {

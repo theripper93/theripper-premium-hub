@@ -1,6 +1,7 @@
 class TheRipperPremiumHUB {
   constructor() {
     this.outdatedModules = {};
+    this.announcementsHtml = ""
     this._debug = false;
     this.init();
   }
@@ -52,10 +53,7 @@ class TheRipperPremiumHUB {
 
   async displayAnnouncements() {
     const announcements = this.announcements;
-    if (!announcements){
-      this.announcementsHtml = "" 
-      return;
-    }
+    if (!announcements) return;
     const ids = Object.keys(announcements);
     const viewedAnnouncements = game.settings.get("theripper-premium-hub", "viewedAnnouncements") ?? "";
     const allViewed = ids.every(id => viewedAnnouncements.includes(id));
@@ -64,7 +62,7 @@ class TheRipperPremiumHUB {
       announcements
     );
     this.announcementsHtml = html;
-    if (allViewed) return;
+    if (allViewed && !this._debug) return;
     game.settings.set("theripper-premium-hub", "viewedAnnouncements", ids.join(","));
     Dialog.prompt({
       title: "TheRipper93 Premium HUB - Announcement!",
