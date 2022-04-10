@@ -1,5 +1,9 @@
 {
     "announcements": {
+        "wallheightmigrate": {
+            "title": "Wall Height - Ruler Movement Update",
+            "description": "If you recently updated WallHeight make sure you are on version 4.2.4+ since the previous releases had an issue that caused ruler movement to go through walls!"
+        }
     },
     "choices": {
         "title": "Visual Novel Choices",
