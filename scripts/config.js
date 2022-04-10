@@ -19,7 +19,7 @@ Hooks.on("init", () => {
 });
 
 Hooks.on("renderSettingsConfig", (app, html, data) => {
-  const menuSetting = html.find(`input[name="theripper-premium-hub.autoCheck"]`).closest(".form-group");
+  const menuSetting = html.find(`input[name="theripper-premium-hub.checkDisabled"]`).closest(".form-group");
   const button = $(`
   <div class="form-group">
   <a style="text-align: center;" href="https://theripper93.com/" target="_blank" rel="nofollow" title="https://theripper93.com/"><i class="fas fa-globe"></i> Visit my Website</a>

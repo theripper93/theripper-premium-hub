@@ -1,6 +1,7 @@
 class TheRipperPremiumHUB {
   constructor() {
     this.outdatedModules = {};
+    this._debug = false;
     this.init();
   }
 
@@ -20,7 +21,7 @@ class TheRipperPremiumHUB {
     for (let [k, v] of Object.entries(this.moduleData)) {
       const installedModule = game.modules.get(k);
       if (!checkDisabled && !installedModule?.active) continue;
-      if (isNewerVersion(v.version, installedModule.data.version)) {
+      if (isNewerVersion(v.version, installedModule.data.version) || this._debug) {
         this.outdatedModules[k] = v;
         this.outdatedModules[k].title = installedModule.data.title;
         this.outdatedModules[k].currentVersion = installedModule.data.version;
@@ -40,6 +41,7 @@ class TheRipperPremiumHUB {
     Dialog.prompt({
       title: "TheRipper93 Premium HUB - Updates Available!",
       content: html,
+      rejectClose: false,
       callback: () => {},
       close: () => {},
     });
