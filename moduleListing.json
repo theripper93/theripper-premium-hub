@@ -1,10 +1,107 @@
 {
+    "choices": {
+        "title": "Visual Novel Choices",
+        "version": "0.6",
+        "downloadURL": ""
+    },
+    "config-presets": {
+        "title": "Config Presets",
+        "version": "0.6",
+        "downloadURL": ""
+    },
+    "damage-numbers": {
+        "title": "RPG Damage Numbers",
+        "version": "1.7.5",
+        "downloadURL": ""
+    },
+    "filepicker-plus": {
+        "title": "Filepicker +",
+        "version": "0.9.4",
+        "downloadURL": ""
+    },
     "foundry-taskbar": {
-        "version": "3.0.0",
+        "title": "Taskbar",
+        "version": "2.3",
+        "downloadURL": ""
+    },
+    "hover-distance": {
+        "title": "Hover Distance",
+        "version": "1.1",
         "downloadURL": ""
     },
     "image-context": {
-        "version": "1.0.0",
+        "title": "Image Context",
+        "version": "0.1",
         "downloadURL": "https://www.google.com/"
+    },
+    "inactive-tokens-lmao": {
+        "title": "Inactive Tokens",
+        "version": "0.3",
+        "downloadURL": ""
+    },
+    "journal-drop": {
+        "title": "journal-drop",
+        "version": "0.2",
+        "downloadURL": ""
+    },
+    "levels-3d-preview": {
+        "title": "3D Canvas",
+        "version": "2.4.1",
+        "downloadURL": ""
+    },
+    "levelsautocover": {
+        "title": "Levels - Automatic Cover Calculator",
+        "version": "0.9.2",
+        "downloadURL": ""
+    },
+    "levelsvolumetrictemplates": {
+        "title": "Levels - Volumetric Templates",
+        "version": "0.7.2",
+        "downloadURL": ""
+    },
+    "light-switch": {
+        "title": "Light Switch",
+        "version": "0.4",
+        "downloadURL": ""
+    },
+    "progress-tracker": {
+        "title": "Progress Tracker",
+        "version": "0.4",
+        "downloadURL": ""
+    },
+    "quick-doors": {
+        "title": "Quick Doors",
+        "version": "0.8.2",
+        "downloadURL": ""
+    },
+    "quickdraw": {
+        "title": "Quickdraw",
+        "version": "0.2",
+        "downloadURL": ""
+    },
+    "situational-shortcuts": {
+        "title": "Situational Shortcuts",
+        "version": "0.5",
+        "downloadURL": ""
+    },
+    "socketmacros": {
+        "title": "Socket Macros",
+        "version": "0.4",
+        "downloadURL": ""
+    },
+    "tile-sort": {
+        "title": "Tile Sort",
+        "version": "0.7",
+        "downloadURL": ""
+    },
+    "token-notes": {
+        "title": "Token Notes",
+        "version": "0.2",
+        "downloadURL": ""
+    },
+    "tokenflip": {
+        "title": "Token Flip",
+        "version": "0.2.1",
+        "downloadURL": ""
     }
 }

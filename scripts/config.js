@@ -7,12 +7,22 @@ Hooks.on("init", () => {
       type: Boolean,
       default: true,
     });
+
+    game.settings.register("theripper-premium-hub", "checkDisabled", {
+      name: "Check Modules not Enabled",
+      hint: "Check for updates on modules that are installed but not enabled.",
+      scope: "world",
+      config: true,
+      type: Boolean,
+      default: true,
+    });
 });
 
 Hooks.on("renderSettingsConfig", (app, html, data) => {
   const menuSetting = html.find(`input[name="theripper-premium-hub.autoCheck"]`).closest(".form-group");
   const button = $(`
   <div class="form-group">
+  <a style="text-align: center;" href="https://theripper93.com/" target="_blank" rel="nofollow" title="https://theripper93.com/"><i class="fas fa-globe"></i> Visit my Website</a>
       <button type="button">
           <i class="fas fa-cogs"></i>
           <label>Check for Updates</label>
