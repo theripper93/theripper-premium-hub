@@ -7,6 +7,8 @@ class TheRipperPremiumHUB {
 
   async init() {
     this.moduleData = await this.fetchData();
+    this.announcements = this.moduleData.announcements;
+    delete this.moduleData.announcements;
     this.getOutdatedModules();
     if (game.settings.get("theripper-premium-hub", "autoCheck")) {
       this.displayOutdated(false);
@@ -49,7 +51,7 @@ class TheRipperPremiumHUB {
   }
 
   async displayAnnouncements() {
-    const announcements = this.moduleData.announcements;
+    const announcements = this.announcements;
     if (!announcements){
       this.announcementsHtml = "" 
       return;

@@ -26,6 +26,7 @@ Hooks.on("init", () => {
 });
 
 Hooks.on("renderSettingsConfig", (app, html, data) => {
+  if(!game.user.isGM) return;
   const menuSetting = html.find(`input[name="theripper-premium-hub.checkDisabled"]`).closest(".form-group");
   const button = $(`
   <div class="form-group">
