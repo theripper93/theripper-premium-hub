@@ -66,7 +66,8 @@ class TheRipperPremiumHUB {
     game.settings.set("theripper-premium-hub", "viewedAnnouncements", ids.join(","));
     Dialog.prompt({
       title: "TheRipper93 Premium HUB - Announcement!",
-      content: html,
+      content: html + `    <p style="text-align: center;">Want to support me and get access to premium modules?</p><hr>
+      <p style="text-align: center;"><a href="https://theripper93.com/" target="_blank" rel="nofollow" title="https://theripper93.com/">Check out my Website</a></p>`,
       rejectClose: false,
       callback: () => {},
       close: () => {},
