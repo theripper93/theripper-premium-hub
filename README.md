@@ -2,7 +2,7 @@
 
 Automatically check for my premium modules updates and recive notifications for Critical Updates on my Free Modules and new Free and Premium Releases.
 
-**Note that new releases are rare and you won't get notified about premium releases more than 1 time per month (most likely less)
+**Note that new releases are rare and you won't get notified about premium releases more than 1 time per month (most likely less)**
 
 ## What is it for?
 
