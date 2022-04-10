@@ -1,6 +1,13 @@
 # TheRipper93's Premium Hub
 
-Automatically check for my premium modules updates.
+Automatically check for my premium modules updates and recive notifications for Critical Updates on my Free Modules and new Premium Releases.
+
+## Notifications
+
+Recive critical notifications on my free and paid modules and new Premium Releases.
+
+![image](https://user-images.githubusercontent.com/1346839/162640908-41e20721-eff5-4070-a7fb-d801cb06e666.png)
+
 
 ## Downloading
 
