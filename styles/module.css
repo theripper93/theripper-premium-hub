@@ -1,0 +1,14 @@
+#theripper-premium-hub ol{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    padding-bottom: 1rem;
+}
+
+#theripper-premium-hub ol li:not(:last-child){
+    border-bottom: 1px solid var(--color-border-dark-5);
+}
+
+#theripper-premium-hub a{
+    text-align: right;
+}

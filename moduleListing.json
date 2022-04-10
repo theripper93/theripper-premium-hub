@@ -1,10 +1,10 @@
 {
     "foundry-taskbar": {
-        "version": "1.0.0",
+        "version": "3.0.0",
         "downloadURL": ""
     },
     "image-context": {
         "version": "1.0.0",
-        "downloadURL": ""
+        "downloadURL": "google.com"
     }
 }
