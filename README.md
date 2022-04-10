@@ -5,6 +5,7 @@ Automatically check for my premium modules updates.
 ## Downloading
 
 Currently the download option is non functional but in the future it will bring you to the patreon post for the download - no update of this module is required when the function goes live.
+If you see an update is availeble please check the discord https://theripper93.com/
 
 ## Options
 
