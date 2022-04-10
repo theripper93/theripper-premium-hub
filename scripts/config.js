@@ -16,6 +16,13 @@ Hooks.on("init", () => {
       type: Boolean,
       default: true,
     });
+
+    game.settings.register("theripper-premium-hub", "viewedAnnouncements", {
+      scope: "world",
+      config: false,
+      type: String,
+      default: "",
+    });
 });
 
 Hooks.on("renderSettingsConfig", (app, html, data) => {

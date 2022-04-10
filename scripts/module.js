@@ -11,6 +11,7 @@ class TheRipperPremiumHUB {
     if (game.settings.get("theripper-premium-hub", "autoCheck")) {
       this.displayOutdated(false);
     }
+    this.displayAnnouncements();
   }
 
   getOutdatedModules() {
@@ -40,6 +41,31 @@ class TheRipperPremiumHUB {
     );
     Dialog.prompt({
       title: "TheRipper93 Premium HUB - Updates Available!",
+      content: html,
+      rejectClose: false,
+      callback: () => {},
+      close: () => {},
+    });
+  }
+
+  async displayAnnouncements() {
+    const announcements = this.moduleData.announcements;
+    if (!announcements){
+      this.announcementsHtml = "" 
+      return;
+    }
+    const ids = Object.keys(announcements);
+    const viewedAnnouncements = game.settings.get("theripper-premium-hub", "viewedAnnouncements") ?? "";
+    const allViewed = ids.every(id => viewedAnnouncements.includes(id));
+    const html = await renderTemplate(
+      "modules/theripper-premium-hub/templates/announcements.hbs",
+      announcements
+    );
+    this.announcementsHtml = html;
+    if (allViewed) return;
+    game.settings.set("theripper-premium-hub", "viewedAnnouncements", ids.join(","));
+    Dialog.prompt({
+      title: "TheRipper93 Premium HUB - Announcement!",
       content: html,
       rejectClose: false,
       callback: () => {},
