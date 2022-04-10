@@ -1,6 +1,13 @@
 # TheRipper93's Premium Hub
 
-Automatically check for my premium modules updates and recive notifications for Critical Updates on my Free Modules and new Premium Releases.
+Automatically check for my premium modules updates and recive notifications for Critical Updates on my Free Modules and new Free and Premium Releases.
+
+**Note that new releases are rare and you won't get notified about premium releases more than 1 time per month (most likely less)
+
+## What is it for?
+
+If you are not a patreon supporter you get notified by module updates that can potentially save your impending game from disaster (because of my mistakes ehm..) since the module will notify immediately when you enter your foundry world. 
+If you are a patreon supporter it will save you the effort of having to check the discord for new updates as well!
 
 ## Notifications
 
