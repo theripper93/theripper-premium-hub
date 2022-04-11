@@ -8,106 +8,101 @@
     "choices": {
         "title": "Visual Novel Choices",
         "version": "0.6",
-        "downloadURL": ""
+        "downloadURL": "https://www.patreon.com/posts/64996294"
     },
     "config-presets": {
         "title": "Config Presets",
         "version": "0.6",
-        "downloadURL": ""
+        "downloadURL": "https://www.patreon.com/posts/64996336"
     },
     "damage-numbers": {
         "title": "RPG Damage Numbers",
         "version": "1.7.5",
-        "downloadURL": ""
+        "downloadURL": "https://www.patreon.com/posts/64996971"
     },
     "filepicker-plus": {
         "title": "Filepicker +",
-        "version": "0.9.4",
-        "downloadURL": ""
+        "version": "0.9.5",
+        "downloadURL": "https://www.patreon.com/posts/64996391"
     },
     "foundry-taskbar": {
         "title": "Taskbar",
         "version": "2.3",
-        "downloadURL": ""
+        "downloadURL": "https://www.patreon.com/posts/64997105"
     },
     "hover-distance": {
         "title": "Hover Distance",
-        "version": "1.1",
-        "downloadURL": ""
+        "version": "1.2",
+        "downloadURL": "https://www.patreon.com/posts/64996430"
     },
     "image-context": {
         "title": "Image Context",
-        "version": "0.1",
-        "downloadURL": "https://www.google.com/"
+        "version": "0.2",
+        "downloadURL": "https://www.patreon.com/posts/64996471"
     },
     "inactive-tokens-lmao": {
         "title": "Inactive Tokens",
-        "version": "0.3",
-        "downloadURL": ""
+        "version": "0.4",
+        "downloadURL": "https://www.patreon.com/posts/64996512"
     },
     "journal-drop": {
         "title": "journal-drop",
-        "version": "0.2",
-        "downloadURL": ""
+        "version": "0.3",
+        "downloadURL": "https://www.patreon.com/posts/64996558"
     },
     "levels-3d-preview": {
         "title": "3D Canvas",
         "version": "2.4.1",
-        "downloadURL": ""
+        "downloadURL": "https://www.patreon.com/posts/64703500"
     },
     "levelsautocover": {
         "title": "Levels - Automatic Cover Calculator",
         "version": "0.9.2",
-        "downloadURL": ""
+        "downloadURL": "https://www.patreon.com/posts/64996641"
     },
     "levelsvolumetrictemplates": {
         "title": "Levels - Volumetric Templates",
         "version": "0.7.2",
-        "downloadURL": ""
+        "downloadURL": "https://www.patreon.com/posts/64996670"
     },
     "light-switch": {
         "title": "Light Switch",
-        "version": "0.4",
-        "downloadURL": ""
+        "version": "0.5",
+        "downloadURL": "https://www.patreon.com/posts/64996723"
     },
     "progress-tracker": {
         "title": "Progress Tracker",
-        "version": "0.4",
-        "downloadURL": ""
+        "version": "0.5",
+        "downloadURL": "https://www.patreon.com/posts/64996776"
     },
     "quick-doors": {
         "title": "Quick Doors",
-        "version": "0.8.2",
-        "downloadURL": ""
+        "version": "0.8.3",
+        "downloadURL": "https://www.patreon.com/posts/64996852"
     },
     "quickdraw": {
         "title": "Quickdraw",
-        "version": "0.2",
-        "downloadURL": ""
+        "version": "0.3",
+        "downloadURL": "https://www.patreon.com/posts/64996926"
     },
     "situational-shortcuts": {
         "title": "Situational Shortcuts",
-        "version": "0.5",
-        "downloadURL": ""
+        "version": "0.6",
+        "downloadURL": "https://www.patreon.com/posts/64997028"
     },
     "socketmacros": {
         "title": "Socket Macros",
-        "version": "0.4",
-        "downloadURL": ""
-    },
-    "tile-sort": {
-        "title": "Tile Sort",
-        "version": "0.7",
-        "downloadURL": ""
+        "version": "0.5",
+        "downloadURL": "https://www.patreon.com/posts/64997063"
     },
     "token-notes": {
         "title": "Token Notes",
         "version": "0.2",
-        "downloadURL": ""
+        "downloadURL": "https://www.patreon.com/posts/63995504"
     },
     "tokenflip": {
         "title": "Token Flip",
         "version": "0.2.1",
-        "downloadURL": ""
+        "downloadURL": "https://www.patreon.com/posts/61535353"
     }
 }
