@@ -24,6 +24,7 @@ class TheRipperPremiumHUB {
     );
     for (let [k, v] of Object.entries(this.moduleData)) {
       const installedModule = game.modules.get(k);
+      if(!installedModule) continue;
       if (!checkDisabled && !installedModule?.active) continue;
       if (isNewerVersion(v.version, installedModule.data.version) || this._debug) {
         this.outdatedModules[k] = v;
