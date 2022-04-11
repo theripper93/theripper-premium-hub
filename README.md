@@ -3,6 +3,7 @@
 Automatically check for my premium modules updates and recive notifications for Critical Updates on my Free Modules and new Free and Premium Releases.
 
 **Note that new releases are rare and you won't get notified about premium releases more than 1 time per month (most likely less)**
+You can check out my website if you want to view my premium modules offering - https://theripper93.com/
 
 ## What is it for?
 
@@ -18,8 +19,7 @@ Recive critical notifications on my free and paid modules and new Premium Releas
 
 ## Downloading
 
-Currently the download option is non functional but in the future it will bring you to the patreon post for the download - no update of this module is required when the function goes live.
-If you see an update is availeble please check the discord https://theripper93.com/
+Whenever an update for a premium module is detected you will be notified about it and prompted with a dowload link that will bring you to the Patreon post.
 
 ## Options
 
