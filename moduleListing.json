@@ -1,12 +1,8 @@
 {
     "announcements": {
-        "wallheightmigrate": {
-            "title": "Wall Height - Ruler Movement Update",
-            "content": "If you recently updated WallHeight make sure you are on version 4.2.4+ since the previous releases had an issue that caused ruler movement to go through walls!"
-        },
-        "wallheightdr": {
-            "title": "Wall Height - Update Drag Ruler",
-            "content": "If you updated WallHeight to version 4.2.5+, or Drag Ruler 1.12.8+ Remember that both Drag Ruler and Wall Height need to be updated to their respective latest versions or you will experience issues with ruler movement!"
+        "wallheightlosud": {
+            "title": "Wall Height - Important Update",
+            "content": "An Issue that could cause Sight too leak under specific circumstances was just fixed, please update Wall Height to 4.2.7+!"
         }
     },
     "choices": {
