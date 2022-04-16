@@ -1,4 +1,4 @@
-# TheRipper93's Premium Hub
+# TheRipper93's Module Hub
 
 Automatically check for my premium modules updates and recive notifications for Critical Updates on my Free Modules and new Free and Premium Releases.
 
