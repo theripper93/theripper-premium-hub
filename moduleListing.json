@@ -1,8 +1,8 @@
 {
     "announcements": {
-        "wallheightlosud": {
-            "title": "Wall Height - Important Update",
-            "content": "An Issue that could cause Sight too leak under specific circumstances was just fixed, please update Wall Height to 4.2.7+!"
+        "depthblurannouncement": {
+            "title": "New Release! Levels: Depth Blur",
+            "content": "This module adds an automatic depth effect to your levels ma check the website or discord to know more!"
         }
     },
     "choices": {
