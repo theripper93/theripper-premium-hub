@@ -52,8 +52,8 @@
     },
     "levels-3d-preview": {
         "title": "3D Canvas",
-        "version": "2.5",
-        "downloadURL": "https://www.patreon.com/posts/65899110"
+        "version": "2.6",
+        "downloadURL": "https://www.patreon.com/posts/66036805"
     },
     "levelsautocover": {
         "title": "Levels - Automatic Cover Calculator",
@@ -99,6 +99,11 @@
         "title": "Socket Macros",
         "version": "0.5",
         "downloadURL": "https://www.patreon.com/posts/64997063"
+    },
+    "three-actor-portrait": {
+        "title": "3D Portraits",
+        "version": "0.1",
+        "downloadURL": "https://www.patreon.com/posts/63995504"
     },
     "token-notes": {
         "title": "Token Notes",
