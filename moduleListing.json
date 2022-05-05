@@ -3,6 +3,10 @@
         "depthblurannouncement": {
             "title": "New Release! Levels: Depth Blur",
             "content": "This module adds an automatic depth effect to your levels maps check the website or discord to know more!"
+        },
+        "threeportraitannouncement": {
+            "title": "New Release! 3D Portraits",
+            "content": "This module lets you turn your actor portraits and items into 3D Models, with HeroForge integration!"
         }
     },
     "choices": {
@@ -103,7 +107,7 @@
     "three-actor-portrait": {
         "title": "3D Portraits",
         "version": "0.1",
-        "downloadURL": "https://www.patreon.com/posts/63995504"
+        "downloadURL": "https://www.patreon.com/posts/66045458"
     },
     "token-notes": {
         "title": "Token Notes",
