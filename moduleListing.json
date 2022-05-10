@@ -1,5 +1,9 @@
 {
     "announcements": {
+        "levelsconfigfix": {
+            "title": "Levels Drawing Config Fix",
+            "description": "The 2.8.5 release had a broken drawing config, if you use Levels make sure it's updated."
+        },
         "depthblurannouncement": {
             "title": "New Release! Levels: Depth Blur",
             "content": "This module adds an automatic depth effect to your levels maps check the website or discord to know more!"
