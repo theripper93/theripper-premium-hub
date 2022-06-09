@@ -39,15 +39,32 @@ class TheRipperPremiumHUB {
       return notify
         ? ui.notifications.info(`No outdated modules found.`)
         : null;
+    let displayUpdated = {}
+    if(!notify) {
+      const viewedUpdates = game.settings.get("theripper-premium-hub", "viewedUpdates");
+      for(let [k, v] of Object.entries(this.outdatedModules)) {
+        if(viewedUpdates[k] && v.version === viewedUpdates[k]) continue;
+        displayUpdated[k] = v;
+      }
+    }else{
+      displayUpdated = this.outdatedModules;
+    }
+    if (Object.keys(displayUpdated).length === 0) return null;
     const html = await renderTemplate(
       "modules/theripper-premium-hub/templates/modlist.hbs",
-      this.outdatedModules
+      displayUpdated
     );
     Dialog.prompt({
       title: "TheRipper93 Premium HUB - Updates Available!",
       content: html,
       rejectClose: false,
-      callback: () => {},
+      callback: () => {
+        const viewedUpdates = game.settings.get("theripper-premium-hub", "viewedUpdates");
+        for(let [k, v] of Object.entries(this.outdatedModules)){
+          viewedUpdates[k] = v.version;
+        }
+        game.settings.set("theripper-premium-hub", "viewedUpdates", viewedUpdates);
+      },
       close: () => {},
     });
   }

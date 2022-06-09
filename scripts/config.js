@@ -23,6 +23,13 @@ Hooks.on("init", () => {
       type: String,
       default: "",
     });
+
+    game.settings.register("theripper-premium-hub", "viewedUpdates", {
+      scope: "world",
+      config: false,
+      type: Object,
+      default: {},
+    });
 });
 
 Hooks.on("renderSettingsConfig", (app, html, data) => {
