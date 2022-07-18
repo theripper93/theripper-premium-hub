@@ -1,8 +1,8 @@
 {
     "announcements": {
-        "updatevten": {
-            "title": "Premium Modules V10",
-            "description": "The full list of premium modules for Foundry V10 will be availeble starting August 1st. A pack containing all premium modules will be released for a quick update! Remember to update all my free modules, including the HUB after updating to V10!"
+        "vtenmegapack": {
+            "title": "Premium Modules V10 Megapack",
+            "description": "A single ZIP containing all V10 Ready versions of my premium modules is availeble on Patreon!"
         }
     },
     "choices": {

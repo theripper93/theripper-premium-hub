@@ -26,10 +26,10 @@ class TheRipperPremiumHUB {
       const installedModule = game.modules.get(k);
       if(!installedModule) continue;
       if (!checkDisabled && !installedModule?.active) continue;
-      if (isNewerVersion(v.version, installedModule.data.version) || this._debug) {
+      if (isNewerVersion(v.version, installedModule.version) || this._debug) {
         this.outdatedModules[k] = v;
-        this.outdatedModules[k].title = installedModule.data.title;
-        this.outdatedModules[k].currentVersion = installedModule.data.version;
+        this.outdatedModules[k].title = installedModule.title;
+        this.outdatedModules[k].currentVersion = installedModule.version;
       }
     }
   }
@@ -94,7 +94,7 @@ class TheRipperPremiumHUB {
 
   async fetchData() {
     return await fetch(
-      `https://raw.githubusercontent.com/theripper93/theripper-premium-hub/master/moduleListing.json`, { cache: "no-cache" }
+      `https://raw.githubusercontent.com/theripper93/theripper-premium-hub/master/moduleListingV10.json`, { cache: "no-cache" }
     )
       .then((response) => response.json())
       .then((data) => data);
@@ -103,10 +103,10 @@ class TheRipperPremiumHUB {
   _getdataforfile() {
     const mods = {};
     game.modules.forEach((v, k) => {
-      if(v.data.authors && v.data.authors.some(a => a.name === "theripper93") && (!v.data?.download || v.data?.url === "https://github.com/theripper93/name")){
+      if(v.authors && v.authors.some(a => a.name === "theripper93") && (!v.data?.download || v.data?.url === "https://github.com/theripper93/name")){
         mods[k] = {
-          title: v.data.title,
-          version: v.data.version,
+          title: v.title,
+          version: v.version,
           downloadURL: this.moduleData[k]?.downloadURL ?? ""
         };
       }
