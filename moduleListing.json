@@ -7,6 +7,10 @@
         "knotdefined": {
             "title": "'k is not defined' Error",
             "description": "This error will pop up because V9 does not recognize V10 only manifests. It just means a V10 ready version of the module is ready but you can't install it since you are on V9, you can safely ignore this error. This error will be possibly handled by foundry in the final V9 Release to properly display that V10 is required for the update."
+        },
+        "freevtenvnine": {
+            "title": "Free Modules - V10",
+            "description": "All my free modules have been updated to V10. You can update normally using the Foundry Module Installer when you update to V10. 'Changelogs & Conflicts', 'Go to Player' and 'Weather Blocker' are now deprecated."
         }
     },
     "choices": {
