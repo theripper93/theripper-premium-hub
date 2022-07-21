@@ -2,11 +2,11 @@
     "announcements": {
         "vtenmegapack": {
             "title": "Premium Modules V10 Megapack",
-            "description": "A single ZIP containing all V10 Ready versions of my premium modules is availeble on Patreon!"
+            "content": "A single ZIP containing all V10 Ready versions of my premium modules is availeble on Patreon!"
         },
         "freevten": {
             "title": "Free Modules - V10",
-            "description": "All my free modules have been updated to V10. You can update normally using the Foundry Module Installer when you update to V10. 'Changelogs & Conflicts', 'Go to Player' and 'Weather Blocker' are now deprecated."
+            "content": "All my free modules have been updated to V10. You can update normally using the Foundry Module Installer when you update to V10. 'Changelogs & Conflicts', 'Go to Player' and 'Weather Blocker' are now deprecated."
         }
     },
     "choices": {
