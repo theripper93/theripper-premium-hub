@@ -31,5 +31,8 @@
   "compatibility": {
     "minimum": "10",
     "verified": "10"
-  }
+  },
+
+  "name": "theripper-premium-hub",
+  "minimumCoreVersion": "10"
 }
