@@ -11,112 +11,107 @@
     },
     "choices": {
         "title": "Visual Novel Choices",
-        "version": "0.6",
-        "downloadURL": "https://www.patreon.com/posts/64996294"
+        "version": "0.7",
+        "downloadURL": "https://www.patreon.com/posts/71412245"
     },
     "config-presets": {
         "title": "Config Presets",
-        "version": "0.6.1",
-        "downloadURL": "https://www.patreon.com/posts/67575262"
+        "version": "0.7",
+        "downloadURL": "https://www.patreon.com/posts/71412288"
     },
     "damage-numbers": {
         "title": "RPG Damage Numbers",
-        "version": "1.7.6",
-        "downloadURL": "https://www.patreon.com/posts/66711412"
+        "version": "1.8",
+        "downloadURL": "https://www.patreon.com/posts/71412318"
     },
     "filepicker-plus": {
         "title": "Filepicker +",
-        "version": "1.1",
-        "downloadURL": "https://www.patreon.com/posts/68098024"
+        "version": "1.2",
+        "downloadURL": "https://www.patreon.com/posts/71412340"
     },
     "foundry-taskbar": {
         "title": "Taskbar",
-        "version": "2.6",
-        "downloadURL": "https://www.patreon.com/posts/67596193"
+        "version": "3.0",
+        "downloadURL": "https://www.patreon.com/posts/71412364"
     },
     "hover-distance": {
         "title": "Hover Distance",
-        "version": "1.5.1",
-        "downloadURL": "https://www.patreon.com/posts/68759561"
+        "version": "1.7",
+        "downloadURL": "https://www.patreon.com/posts/71412408"
     },
     "image-context": {
         "title": "Image Context",
-        "version": "0.2",
-        "downloadURL": "https://www.patreon.com/posts/64996471"
+        "version": "0.3",
+        "downloadURL": "https://www.patreon.com/posts/71412426"
     },
     "inactive-tokens-lmao": {
         "title": "Inactive Tokens",
-        "version": "0.4",
-        "downloadURL": "https://www.patreon.com/posts/64996512"
-    },
-    "journal-drop": {
-        "title": "journal-drop",
-        "version": "0.3",
-        "downloadURL": "https://www.patreon.com/posts/64996558"
+        "version": "0.5",
+        "downloadURL": "https://www.patreon.com/posts/71412451"
     },
     "levels-3d-preview": {
         "title": "3D Canvas",
-        "version": "3.5.8",
-        "downloadURL": "https://www.patreon.com/posts/69076560"
+        "version": "4.1.0",
+        "downloadURL": "https://www.patreon.com/posts/71412495"
     },
     "levelsautocover": {
         "title": "Levels - Automatic Cover Calculator",
-        "version": "0.9.4",
-        "downloadURL": "https://www.patreon.com/posts/65170990"
+        "version": "1.0",
+        "downloadURL": "https://www.patreon.com/posts/71412547"
     },
     "levelsvolumetrictemplates": {
         "title": "Levels - Volumetric Templates",
-        "version": "0.7.4",
-        "downloadURL": "https://www.patreon.com/posts/66622053"
+        "version": "0.8",
+        "downloadURL": "https://www.patreon.com/posts/71412572"
     },
     "levels-layer-effects": {
         "title": "Levels - Depth Blur",
-        "version": "0.1",
-        "downloadURL": "https://www.patreon.com/posts/65896917"
+        "version": "0.2",
+        "downloadURL": "https://www.patreon.com/posts/71412588"
     },
     "light-switch": {
         "title": "Light Switch",
-        "version": "0.5",
-        "downloadURL": "https://www.patreon.com/posts/64996723"
+        "version": "0.6",
+        "downloadURL": "https://www.patreon.com/posts/71412617"
     },
     "progress-tracker": {
         "title": "Progress Tracker",
-        "version": "0.5",
-        "downloadURL": "https://www.patreon.com/posts/64996776"
+        "version": "0.7",
+        "downloadURL": "https://www.patreon.com/posts/71412698"
     },
     "quick-doors": {
         "title": "Quick Doors",
-        "version": "0.8.3",
-        "downloadURL": "https://www.patreon.com/posts/64996852"
+        "version": "1.0",
+        "downloadURL": "https://www.patreon.com/posts/71412712"
     },
     "quickdraw": {
         "title": "Quickdraw",
-        "version": "0.3",
-        "downloadURL": "https://www.patreon.com/posts/64996926"
+        "version": "0.4",
+        "downloadURL": "https://www.patreon.com/posts/71412731"
     },
     "situational-shortcuts": {
         "title": "Situational Shortcuts",
-        "version": "0.7",
-        "downloadURL": "https://www.patreon.com/posts/68510392"
+        "version": "0.8",
+        "downloadURL": "https://www.patreon.com/posts/71412747"
     },
     "socketmacros": {
         "title": "Socket Macros",
-        "version": "0.5",
-        "downloadURL": "https://www.patreon.com/posts/64997063"
+        "version": "0.6",
+        "downloadURL": "https://www.patreon.com/posts/71412772"
     },
     "three-actor-portrait": {
         "title": "3D Portraits",
-        "version": "0.7.2",
-        "downloadURL": "https://www.patreon.com/posts/69076632"
+        "version": "0.8",
+        "downloadURL": "https://www.patreon.com/posts/71412791"
     },
     "token-notes": {
         "title": "Token Notes",
-        "version": "0.2.1",
-        "downloadURL": "https://www.patreon.com/posts/68098221"
+        "version": "0.3",
+        "downloadURL": "https://www.patreon.com/posts/71412829"
     },
     "tokenflip": {
         "title": "Token Flip",
-        "version": "0.2.3",
-        "downloadURL": "https://www.patreon.com/posts/68098172"
+        "version": "0.3",
+        "downloadURL": "https://www.patreon.com/posts/71412812"
     }
 }
