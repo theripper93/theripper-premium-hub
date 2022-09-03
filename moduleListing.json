@@ -1,12 +1,8 @@
 {
     "announcements": {
-        "updatevten": {
-            "title": "Premium Modules V10",
-            "content": "The full list of premium modules for Foundry V10 will be availeble starting August 1st. A pack containing all premium modules will be released for a quick update! Remember to update all my free modules, including the HUB after updating to V10!"
-        },
-        "freevtenvnine": {
-            "title": "Free Modules - V10",
-            "content": "All my free modules have been updated to V10. You can update normally using the Foundry Module Installer when you update to V10. 'Changelogs & Conflicts', 'Go to Player' and 'Weather Blocker' are now deprecated."
+        "mastercraftedann": {
+            "title": "Mastercrafted",
+            "content": "New Premium module for V10! A simple yet effective crafting module for any system, create books, recipes, export and share! Make recipes with different outcomes or that can require alternate ingredients! Set permissions to specific players, require tools to craft and more!"
         }
     },
     "choices": {
