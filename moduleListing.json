@@ -1,8 +1,8 @@
 {
     "announcements": {
-        "mastercraftedann": {
-            "title": "Mastercrafted",
-            "content": "New Premium module for V10! A simple yet effective crafting module for any system, create books, recipes, export and share! Make recipes with different outcomes or that can require alternate ingredients! Set permissions to specific players, require tools to craft and more!"
+        "gathererann": {
+            "title": "Gatherer",
+            "content": "New Premium module for V10! Gather, Hunt and Scavenge with a simple to use, Rollable Table based custom Journal Page. With skill/tool checks, automated uses reset based on time and a minigame option!"
         }
     },
     "choices": {
