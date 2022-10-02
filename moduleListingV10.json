@@ -30,6 +30,11 @@
         "version": "3.2",
         "downloadURL": "https://www.patreon.com/posts/71593707"
     },
+    "gatherer": {
+        "title": "Gatherer",
+        "version": "1.0",
+        "downloadURL": ""
+    },
     "hover-distance": {
         "title": "Hover Distance",
         "version": "1.8",
