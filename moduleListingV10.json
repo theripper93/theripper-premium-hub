@@ -5,6 +5,11 @@
             "content": "New Premium module for V10! Gather, Hunt and Scavenge with a simple to use, Rollable Table based custom Journal Page. With skill/tool checks, automated uses reset based on time and a minigame option!"
         }
     },
+    "megapack": {
+        "title": "V10 Megapack",
+        "version": "0",
+        "downloadURL": "https://www.patreon.com/posts/74120532"
+    },
     "choices": {
         "title": "Visual Novel Choices",
         "version": "0.7",
