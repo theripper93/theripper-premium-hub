@@ -34,6 +34,26 @@ Hooks.on("init", () => {
 
 Hooks.on("renderSettingsConfig", (app, html, data) => {
   if(!game.user.isGM) return;
+
+  //Add wiki buttons
+
+  html[0].querySelectorAll(".tab.category").forEach((el) => {
+    const moduleId = el.getAttribute("data-tab");
+    const module = game.modules.get(moduleId);
+    if(!module) return;
+    if(!Array.from(module.authors).some(a => a.name === "theripper93")) return;
+    const title = el.querySelector("h2");
+    const wikiButton = document.createElement("a");
+    wikiButton.style.marginLeft = "0.5rem";
+    wikiButton.classList.add("wiki-button");
+    wikiButton.setAttribute("href", `https://theripper93.com/wiki/index.php?search=${module.title}`);
+    wikiButton.setAttribute("target", "_blank");
+    wikiButton.innerHTML = `<i data-tooltip="Open Documentation" class="fas fa-book"></i>`;
+    title.appendChild(wikiButton);
+  });
+
+
+
   const menuSetting = html.find(`input[name="theripper-premium-hub.checkDisabled"]`).closest(".form-group");
   const button = $(`
   ${game.theripperpremiumhub.announcementsHtml}
