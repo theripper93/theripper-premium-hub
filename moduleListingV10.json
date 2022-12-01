@@ -1,8 +1,8 @@
 {
     "announcements": {
-        "gathererann": {
-            "title": "Gatherer",
-            "content": "New Premium module for V10! Gather, Hunt and Scavenge with a simple to use, Rollable Table based custom Journal Page. With skill/tool checks, automated uses reset based on time and a minigame option!"
+        "macrowheel": {
+            "title": "Macro Wheel",
+            "content": "New Premium module for V10! A new way to manage your macros! Turn macro folders in to wheels for easy access of hundreds of macros!"
         }
     },
     "megapack": {
@@ -79,6 +79,11 @@
         "title": "Light Switch",
         "version": "0.7",
         "downloadURL": "https://www.patreon.com/posts/73307132"
+    },
+    "macro-wheel": {
+        "title": "Macro Wheel",
+        "version": "1.0",
+        "downloadURL": "https://www.patreon.com/posts/75363888"
     },
     "mastercrafted": {
         "title": "Mastercrafted",
