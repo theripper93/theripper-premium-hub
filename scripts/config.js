@@ -46,7 +46,8 @@ Hooks.on("renderSettingsConfig", (app, html, data) => {
     const wikiButton = document.createElement("a");
     wikiButton.style.marginLeft = "0.5rem";
     wikiButton.classList.add("wiki-button");
-    wikiButton.setAttribute("href", `https://theripper93.com/wiki/index.php?search=${module.title}`);
+    const status = module.download ? "paid" : "free";
+    wikiButton.setAttribute("href", `https://api.theripper93.com/modulewiki/${moduleId}/${status}`);
     wikiButton.setAttribute("target", "_blank");
     wikiButton.innerHTML = `<i data-tooltip="Open Documentation" class="fas fa-book"></i>`;
     title.appendChild(wikiButton);
