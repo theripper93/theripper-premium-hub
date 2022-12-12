@@ -94,7 +94,7 @@ class TheRipperPremiumHUB {
 
   async fetchData() {
     return await fetch(
-      `http://api.theripper93.com/moduleListing/latest`, { cache: "no-cache" }
+      `https://api.theripper93.com/moduleListing/latest`, { cache: "no-cache" }
     )
       .then((response) => response.json())
       .then((data) => data);
