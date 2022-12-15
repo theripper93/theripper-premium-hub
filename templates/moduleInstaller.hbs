@@ -1,0 +1,14 @@
+<form action="submit">
+    <input type="text" name="secret" id="" placeholder="Secret Key">
+    <ul style="padding: 0; height: 280px; overflow-y: scroll;">
+    {{#each moduleData}}
+    <li style="display: flex; place-items: center;">
+        <input type="checkbox" name="modules.{{@key}}" id=""> {{title}}
+    </li>
+    {{/each}}
+    </ul>
+    <div style="display: flex;">
+    <button><i class="fa-duotone fa-key"></i> Update Keys</button>
+    <button type="submit"><i class="fa-duotone fa-cloud-arrow-down"></i> Install</button>
+    </div>
+</form>
