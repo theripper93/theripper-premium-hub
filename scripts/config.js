@@ -33,7 +33,51 @@ Hooks.on("init", () => {
 });
 
 Hooks.on("renderSettingsConfig", (app, html, data) => {
-  if(!game.user.isGM) return;
+  if (!game.user.isGM) return;
+  
+  function generateSupportReport(moduleId) {
+    const supportInfo = SupportDetails.generateSupportReport();
+    const supportOutput = {
+      "Core Version": supportInfo.coreVersion,
+      "System": supportInfo.systemVersion,
+      "Client": supportInfo.client,
+      "GPU": supportInfo.gpu,
+      "Module Count": supportInfo.activeModuleCount,
+    };
+    const module = game.modules.get(moduleId);
+    supportOutput[module.title] = module.version;
+    const dependencies = new Set();
+    const addDependecies = (module) => {
+      const moduleDependencies = Array.from(module.relationships.requires).map((m) => game.modules.get(m.id));
+      moduleDependencies.forEach((m) => {
+        dependencies.add(m);
+        addDependecies(m);
+      });
+    };
+    addDependecies(module);
+    dependencies.forEach((m) => {
+      supportOutput[m.title] = m.version;
+    });
+
+    const tableHtml = Object.keys(supportOutput).map((key) => {
+      return `<tr><td>${key}</td><td>${supportOutput[key]}</td></tr>`;
+    }
+    ).join("");
+    const html = `<table>${tableHtml}</table>`;
+
+    Dialog.prompt({
+      title: "Support Report",
+      content: html,
+      label: "Copy to Clipboard",
+      callback: (html) => {
+        const text = Object.entries(supportOutput)
+            .map(([k, v]) => `${k}: ${v}`)
+            .join("\n");
+        game.clipboard.copyPlainText("```" + text + "```");
+        ui.notifications.info("Copied to Clipboard, please paste it along with your support request on discord.");
+      }
+    });
+  }
 
   //Add wiki buttons
 
@@ -43,14 +87,25 @@ Hooks.on("renderSettingsConfig", (app, html, data) => {
     if(!module) return;
     if(!Array.from(module.authors).some(a => a.name === "theripper93")) return;
     const title = el.querySelector("h2");
+    title.style.display = "flex";
     const wikiButton = document.createElement("a");
-    wikiButton.style.marginLeft = "0.5rem";
+    wikiButton.style.marginLeft = "auto";
     wikiButton.classList.add("wiki-button");
     const status = module.download ? "free" : "paid";
     wikiButton.setAttribute("href", `https://api.theripper93.com/modulewiki/${moduleId}/${status}`);
     wikiButton.setAttribute("target", "_blank");
     wikiButton.innerHTML = `<i data-tooltip="Open Documentation" class="fas fa-book"></i>`;
     title.appendChild(wikiButton);
+
+    const supportButton = document.createElement("a");
+    supportButton.style.marginLeft = "0.5rem";
+    supportButton.classList.add("wiki-button");
+    supportButton.innerHTML = `<i data-tooltip="Generate Support Report" class="fas fa-question-circle"></i>`;
+    supportButton.addEventListener("click", (e) => {
+      e.preventDefault();
+      generateSupportReport(moduleId);
+    });
+    title.appendChild(supportButton);
   });
 
 
