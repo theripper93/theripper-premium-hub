@@ -16,4 +16,4 @@ export async function patreonLogin() {
 
 
 
-const CLIENTID = "J2NDts4wxpFqKvmJY_x3B7QDCICwHps5UA5HVCmfi3_pzoWapSjdYQwF0XrR_YHg"
+const CLIENTID = ""
