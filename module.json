@@ -17,9 +17,11 @@
     }
   ],
   "scripts": [
-    "scripts/main.js",
     "scripts/config.js",
     "scripts/module.js"
+  ],
+  "esmodules": [
+    "scripts/main.js"
   ],
   "styles": [
     "styles/module.css"
