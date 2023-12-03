@@ -7,6 +7,7 @@ class TheRipperPremiumHUB {
   }
 
   async init() {
+    debugger;
     this.moduleData = await this.fetchData();
     this.announcements = this.moduleData.announcements;
     delete this.moduleData.announcements;
@@ -93,6 +94,36 @@ class TheRipperPremiumHUB {
   }
 
   async fetchData() {
+    const premiumIds = game.modules.filter((v) => v.authors && v.authors.some(a => a.name === "theripper93") && v.manifest.includes("foundryvtt")).map((m) => m.id);
+    const announcements = await this.fetchAnnouncements();
+    const promises = premiumIds.map((id) => this.fetchModuleData(id));
+    
+    const obj = {};
+    
+    await Promise.all(promises).then((data) => {
+      data.forEach((d) => {
+        if (d.package) {          
+          obj[d.package.id] = {
+            title: d.package.title,
+            version: d.package.latest,
+          }
+        }
+      });
+    });
+    obj.announcements = announcements.announcements;
+    return obj;
+
+  }
+
+  async fetchModuleData(moduleId) {
+    return await fetch(
+      `https://forge-vtt.com/api/bazaar/package/${moduleId}`
+    )
+      .then((response) => response.json())
+      .then((data) => data);
+  }
+
+  async fetchAnnouncements() {
     return await fetch(
       `https://api.theripper93.com/moduleListing/latest`, { cache: "no-cache" }
     )
@@ -103,7 +134,7 @@ class TheRipperPremiumHUB {
   _getdataforfile() {
     const mods = {};
     game.modules.forEach((v, k) => {
-      if(v.authors && v.authors.some(a => a.name === "theripper93") && (!v.data?.download || v.data?.url === "https://github.com/theripper93/name")){
+      if(v.authors && v.authors.some(a => a.name === "theripper93") && v.manifest.includes("foundryvtt")){
         mods[k] = {
           title: v.title,
           version: v.version,
