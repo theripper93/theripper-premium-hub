@@ -7,7 +7,6 @@ class TheRipperPremiumHUB {
   }
 
   async init() {
-    debugger;
     this.moduleData = await this.fetchData();
     this.announcements = this.moduleData.announcements;
     delete this.moduleData.announcements;
