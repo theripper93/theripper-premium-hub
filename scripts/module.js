@@ -93,7 +93,7 @@ class TheRipperPremiumHUB {
   }
 
   async fetchData() {
-    const premiumIds = game.modules.filter((v) => v.authors && v.authors.some(a => a.name === "theripper93") && v.manifest.includes("foundryvtt")).map((m) => m.id);
+    const premiumIds = game.modules.filter((v) => v.authors && v.authors.some(a => a.name === "theripper93") && v.manifest && v.manifest.includes("foundryvtt")).map((m) => m.id);
     const announcements = await this.fetchAnnouncements();
     const promises = premiumIds.map((id) => this.fetchModuleData(id));
     
