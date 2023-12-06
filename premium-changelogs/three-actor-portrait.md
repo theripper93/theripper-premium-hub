@@ -1,3 +1,6 @@
 ## Version 1.9
+- Commit test
+
+## Version 1.9
 - Added Photobooth, you will find a camera icon in the 3D Token field (3D Tab of token configuration). Using this button you will open a simple photobooth where you can generate a 2D Topdown or Portrait image of the 3D Token
 
