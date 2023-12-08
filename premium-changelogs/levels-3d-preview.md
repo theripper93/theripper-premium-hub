@@ -1,3 +1,7 @@
+## Version 5.4.9
+- Fixed wrong localization key for wall collision on movement
+- Added scene setting "Grounding", when enabled players will be prevented from completing movement that would leave them in the air\flying
+
 ## Version 5.4.8
 - Fixed scrolling text scrolling to the left instead of up if no direction was provided- Added logic to allow Splatter to create directional splats
 
