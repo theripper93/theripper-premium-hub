@@ -1,3 +1,6 @@
+## Version 1.8.1
+- Fixed issue with customization data getting unreadable due to missing object paths
+
 ## Version 1.7
 - Added new "Shared Inspiration" setting to the misc tab. When enabled shares an inspiration pool across players in the Resource 3 slot
 
