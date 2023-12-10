@@ -1,3 +1,6 @@
+## Version 0.6
+- Fixed broken release
+
 ## Version 0.5
 
 
