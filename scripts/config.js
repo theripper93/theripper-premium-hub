@@ -164,4 +164,12 @@ Hooks.on("renderSettingsConfig", (app, html, data) => {
         game.theripperpremiumhub.displayOutdated(true);
     });
     menuSetting.after(button);
+
+    html[0].querySelectorAll(".item.category-tab").forEach((el) => {
+        const modId = el.dataset.tab;
+        const outdated = game.theripperpremiumhub.outdatedModules[modId];
+        if (!outdated) return;
+        el.innerHTML = el.innerHTML.replace(outdated.title, `<span><i style="color: var(--color-level-warning)" class="fas fa-circle-info"></i> ${outdated.title}</span>`);
+        el.dataset.tooltip = game.i18n.format("SETUP.UpdateAvailable", { channel: outdated.title, version: outdated.version });
+    });
 });

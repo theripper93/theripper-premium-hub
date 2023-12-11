@@ -12,3 +12,8 @@
 .settings-list .theripper-premium-hub-announcements{
     border: 1px solid var(--color-border-light-2);
 }
+
+#client-settings .item.category-tab.outdated::before{
+    content: "\f071";
+    color:var(--color-level-warning);
+}

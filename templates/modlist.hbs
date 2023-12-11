@@ -3,8 +3,9 @@
         {{#each this}}
         <li>
             <h2>{{title}}</h2>
-            <div class="form-group slim">
-                <label>Version: {{currentVersion}} → {{version}}</label>
+            <div class="form-group slim" style="flex-direction: column;align-items: flex-start;">
+                <label style="font-weight: bold;font-size: medium;">Version: {{currentVersion}} → {{version}}</label>
+                <p>{{{latestChangeLog}}}</p>
             </div>
         </li>
         {{/each}}
