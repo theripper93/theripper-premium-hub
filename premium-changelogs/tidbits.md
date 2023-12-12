@@ -1,3 +1,6 @@
+## Version 1.4
+- Added setting to disable black gradient over the loading screen image and the blur filter
+
 ## Version 1.3
 - Fixed some formatting in the included DND5e tidbits, thanks to <@138685121690730496>
 
