@@ -1,3 +1,6 @@
+## Version 5.5.1.1
+- Fixed textarea input not working correctly
+
 ## Version 5.5.1
 - Added new `Clipping` Shader
 
