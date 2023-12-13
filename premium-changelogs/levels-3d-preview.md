@@ -1,3 +1,6 @@
+## Version 5.5.1
+- Added new `Clipping` Shader
+
 ## Version 5.5.0
 - Fixed Token Base color not getting updated with the correct color
 - Revamped Scene, Tile and Token configurations to be divided into sub-tabs for better organization
