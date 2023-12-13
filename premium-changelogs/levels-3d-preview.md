@@ -1,3 +1,7 @@
+## Version 5.5.0
+- Fixed Token Base color not getting updated with the correct color
+- Revamped Scene, Tile and Token configurations to be divided into sub-tabs for better organization
+
 ## Version 5.4.9
 - Fixed wrong localization key for wall collision on movement
 - Added scene setting "Grounding", when enabled players will be prevented from completing movement that would leave them in the air\flying
