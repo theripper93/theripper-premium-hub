@@ -1,3 +1,7 @@
+## Version 5.5.1.4
+- Polished the new forms with new Position tab for tiles
+- Added Offset (xyz) for tiles, intended to adjust pivot for door animations
+
 ## Version 5.5.1.3
 - Added noise scale to clipping shader
 - Fixed error thrown in refresh token hook (it was harmless but annoying)
