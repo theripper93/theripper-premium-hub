@@ -1,3 +1,7 @@
+## Version 5.5.1.3
+- Added noise scale to clipping shader
+- Fixed error thrown in refresh token hook (it was harmless but annoying)
+
 ## Version 5.5.1.2
 - Added workaround to make scene configuration work in PF2e
 
