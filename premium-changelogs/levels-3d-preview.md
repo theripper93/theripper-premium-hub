@@ -1,3 +1,6 @@
+## Version 5.5.1.2
+- Added workaround to make scene configuration work in PF2e
+
 ## Version 5.5.1.1
 - Fixed textarea input not working correctly
 
