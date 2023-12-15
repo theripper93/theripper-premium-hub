@@ -161,7 +161,7 @@ class TheRipperPremiumHUB {
         const id = module.id;
         const owner = "theripper93";
         const repo = this.repositoryIndex[id] ?? id;
-        const releases = await this.getAllReleasesFromGitHub(owner, repo, isPremium);
+        const releases = await this.getAllReleasesFromGitHub(owner, repo, isPremium, module);
         if (!releases) return null;
         const latestRelease = Object.keys(releases).sort((a, b) => isNewerVersion(b, a))[0];
         return {
@@ -176,7 +176,7 @@ class TheRipperPremiumHUB {
             .then((data) => data);*/
     }
 
-    async getAllReleasesFromGitHub(owner, repo, isPremium) {
+    async getAllReleasesFromGitHub(owner, repo, isPremium, module) {
         if (isPremium) {
             const changelogURL = `https://raw.githubusercontent.com/theripper93/theripper-premium-hub/master/premium-changelogs/${repo}.md`;
             try {
@@ -210,6 +210,13 @@ class TheRipperPremiumHUB {
                 let compiledReleases = {};
 
                 const response = await fetch(`${apiUrl}&page=1`);
+                
+                if (response.status === 404) {
+                    ui.notifications.error(`The module <strong>${module.title}</strong> is still installed using the old manual installation, please switch to the new Foundry/Patreon integration. <a href="https://theripper93.com/info/installation" target="_blank" rel="nofollow">More Information</a>`, { permanent: true });
+                }
+
+
+
                 const releases = await response.json();
                 releases.forEach((release) => {
                     compiledReleases[release.tag_name] = release.body;
