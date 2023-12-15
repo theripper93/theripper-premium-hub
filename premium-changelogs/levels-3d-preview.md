@@ -1,3 +1,6 @@
+## Version 5.5.2
+- added Slide - Side and Slide - Vertical as new door animations
+
 ## Version 5.5.1.4
 - Polished the new forms with new Position tab for tiles
 - Added Offset (xyz) for tiles, intended to adjust pivot for door animations
