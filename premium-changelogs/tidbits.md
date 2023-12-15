@@ -1,4 +1,7 @@
 ## Version 1.4
+
+
+## Version 1.4
 - Added setting to disable black gradient over the loading screen image and the blur filter
 
 ## Version 1.3
