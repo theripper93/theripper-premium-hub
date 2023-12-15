@@ -25,7 +25,7 @@ class TheRipperPremiumHUB {
             levelsvolumetrictemplates: "levelsvolumetrictemplates",
             patrol: "Patrol",
             "damage-numbers": "damage-numbers",
-            smarttarget: "smarttarget",
+            smarttarget: "Smart-Target",
             splatter: "splatter",
             "dnd-randomizer": "dnd-randomizer",
             "tile-sort": "tile-sort",
