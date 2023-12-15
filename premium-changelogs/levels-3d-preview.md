@@ -1,3 +1,6 @@
+## Version 5.5.2.1
+- added Advanced camera calculations option to clipping shader
+
 ## Version 5.5.2
 - added Slide - Side and Slide - Vertical as new door animations
 
