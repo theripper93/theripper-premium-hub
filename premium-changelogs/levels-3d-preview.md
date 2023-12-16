@@ -1,3 +1,6 @@
+## Version 5.5.3
+- Added Particle Effects to Token Effects tab
+
 ## Version 5.5.2.2
 - Added door sounds to tile configuration
 - fixed broken forms after the form rework
