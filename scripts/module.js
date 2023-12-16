@@ -157,7 +157,7 @@ class TheRipperPremiumHUB {
     async fetchModuleData(module) {
         const checkDisabled = game.settings.get("theripper-premium-hub", "checkDisabled");
         if (!checkDisabled && !module.active) return null;
-        const isPremium = module.manifest.includes("foundryvtt");
+        const isPremium = module?.manifest?.includes("foundryvtt");
         const id = module.id;
         const owner = "theripper93";
         const repo = this.repositoryIndex[id] ?? id;
