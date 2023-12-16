@@ -211,7 +211,7 @@ class TheRipperPremiumHUB {
 
                 const response = await fetch(`${apiUrl}&page=1`);
                 
-                if (response.status === 404) {
+                if (response.status === 404 && !module.download) {
                     ui.notifications.error(`The module <strong>${module.title}</strong> is still installed using the old manual installation, please switch to the new Foundry/Patreon integration. <a href="https://theripper93.com/info/installation" target="_blank" rel="nofollow">More Information</a>`, { permanent: true });
                 }
 
