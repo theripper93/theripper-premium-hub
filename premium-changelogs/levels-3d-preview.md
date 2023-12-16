@@ -1,3 +1,8 @@
+## Version 5.5.2.2
+- Added door sounds to tile configuration
+- fixed broken forms after the form rework
+- added door animation time to the tile settings
+
 ## Version 5.5.2.1
 - added Advanced camera calculations option to clipping shader
 
