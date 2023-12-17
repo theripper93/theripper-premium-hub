@@ -1,3 +1,6 @@
+## Version 1.9.1
+- Clean file name now works even if the file is not converted
+
 ## Version 1.9
 - Fixed tint and scale non working correctly in the tile combiner
 
