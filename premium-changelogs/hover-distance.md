@@ -1,3 +1,6 @@
+## Version 2.7
+- Added setting for Top\Bottom tooltip postion
+
 ## Version 2.1
 > - Fixed "Round Measurements" not actually working.
 
