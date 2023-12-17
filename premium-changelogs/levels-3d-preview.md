@@ -1,3 +1,6 @@
+## Version 5.5.3.1
+- Fixed token particles not beeing removed on token deletion
+
 ## Version 5.5.3
 - Added Particle Effects to Token Effects tab
 
