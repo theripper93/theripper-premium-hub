@@ -1,3 +1,6 @@
+## Version 5.5.3.2
+- Fixed issue after removal of skybox from scene configuration
+
 ## Version 5.5.3.1
 - Fixed token particles not beeing removed on token deletion
 
