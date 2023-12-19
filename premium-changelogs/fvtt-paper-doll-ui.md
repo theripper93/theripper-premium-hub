@@ -1,3 +1,6 @@
+## Version 0.2.2
+- Added Image Fit setting to actor configuration
+
 ## Version 0.2.1
 - Gradient adjustment
 
