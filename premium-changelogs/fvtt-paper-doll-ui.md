@@ -1,3 +1,6 @@
+## Version 0.2.1
+- Gradient adjustment
+
 ## Version 0.2
 - Fixed equipment issues
 - Fixed configuration wrongly set as client setting instead of world setting
