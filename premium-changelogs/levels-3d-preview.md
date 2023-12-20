@@ -1,3 +1,9 @@
+## Version 5.5.4
+- Added setting to disable the display of Effects (small dice floating above tokens)
+- Added two new base types, Ring Simple and Ring Simple Small
+- Revamped Target Visuals
+- Changed default base to Ring Simple
+
 ## Version 5.5.3.3
 - Small tweaks to tile configuration
 
