@@ -1,3 +1,6 @@
+## Version 5.5.4.2
+- Fix and cleanup for Outline logic in token highlighting
+
 ## Version 5.5.4.1
 - Fixed issue with new hide effects setting
 - Changed visuals for turn start marker indicator
