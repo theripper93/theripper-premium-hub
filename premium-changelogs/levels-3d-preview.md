@@ -1,3 +1,7 @@
+## Version 5.5.4.1
+- Fixed issue with new hide effects setting
+- Changed visuals for turn start marker indicator
+
 ## Version 5.5.4
 - Added setting to disable the display of Effects (small dice floating above tokens)
 - Added two new base types, Ring Simple and Ring Simple Small
