@@ -164,6 +164,7 @@ class TheRipperPremiumHUB {
         const releases = await this.getAllReleasesFromGitHub(owner, repo, isPremium, module);
         if (!releases) return null;
         const latestRelease = Object.keys(releases).sort((a, b) => isNewerVersion(b, a))[0];
+        if(!latestRelease) return null;
         return {
             version: latestRelease,
             title: module.title,
