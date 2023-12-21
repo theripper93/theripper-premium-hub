@@ -1,3 +1,6 @@
+## Version 0.7
+- Added setting to adjust the vertical allignment of the hud
+
 ## Version 0.6
 - Fixed broken release
 
