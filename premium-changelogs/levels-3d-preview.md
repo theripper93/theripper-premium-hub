@@ -1,3 +1,6 @@
+## Version 5.5.4.4
+- Added Right click\Double right click\Hover in\Hover out to MATT compatible events
+
 ## Version 5.5.4.3
 - Fix for Weather height possibly incorrect when tiles are merged
 
