@@ -79,14 +79,14 @@ class TheRipperPremiumHUB {
         const toFix = this._toFix;
         for (const module of toFix) {
             const moduleData = await this.getForgeData(module.id);
-            if (!moduleData?.protected) continue;
+            if (!moduleData?.package?.premium == "protected") continue;
             //read manifest file as json
             const manifest = await fetch(`modules/${moduleId}/module.json`).then((response) => response.json());
             //correct the manifest
             delete manifest.download;
             delete manifest.url;
             manifest.manifest = `https://foundryvtt.s3.us-west-2.amazonaws.com/modules/${moduleId}/module.json`;
-            manifest.protected = true;
+            //manifest.protected = true;
             //write the manifest
             const file = new File([JSON.stringify(manifest)], "module.json", {type: "application/json"});
             await FilePicker.upload("data", "modules", file);
