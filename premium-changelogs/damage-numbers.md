@@ -1,3 +1,6 @@
+## Version 2.4.1
+- Fixed "Override Core Bouncing Text" not working when it was not called on a token
+
 ## Version 2.4.0
 - Fixed issue that made the 'fancy' number only show for the user that did damage (due to a midi-qol update that needed an update on damage numbers side)
 - Removed some dnd5e logic so that other systems might have a better chance to work. Note that the module is intended to work with dnd5e only but other systems might work for the basic styling of the numbers.

@@ -69,7 +69,6 @@ class TheRipperPremiumHUB {
             this.displayOutdated(false);
         }
         this.displayAnnouncements();
-        this.fixOldInstallMethod();
     }
 
     async getForgeData(moduleId) {
