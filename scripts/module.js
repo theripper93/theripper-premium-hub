@@ -79,7 +79,7 @@ class TheRipperPremiumHUB {
         const toFix = this._toFix;
         for (const module of toFix) {
             const moduleData = await this.getForgeData(module.id);
-            if (!moduleData?.package?.premium == "protected") continue;
+            if (moduleData?.package?.premium != "protected") continue;
             //read manifest file as json
             const manifest = await fetch(`modules/${moduleId}/module.json`).then((response) => response.json());
             //correct the manifest
