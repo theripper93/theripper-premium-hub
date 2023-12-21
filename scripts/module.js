@@ -94,7 +94,7 @@ class TheRipperPremiumHUB {
     }
 
     async getForgeData(moduleId) {
-        await fetch(`https://forge-vtt.com/api/bazaar/package/${moduleId}`)
+        return await fetch(`https://forge-vtt.com/api/bazaar/package/${moduleId}`)
             .then((response) => response.json())
             .then((data) => data)
     }
