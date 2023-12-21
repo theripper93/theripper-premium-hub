@@ -1,7 +1,6 @@
 class TheRipperPremiumHUB {
     constructor() {
         this.outdatedModules = {};
-        this._toFix = [];
         this.announcementsHtml = "";
         this._debug = false;
         this.converter = new showdown.Converter();
@@ -71,27 +70,6 @@ class TheRipperPremiumHUB {
         }
         this.displayAnnouncements();
         this.fixOldInstallMethod();
-    }
-
-    async fixOldInstallMethod() {
-        const proceed = await Dialog.confirm({});
-        if (!proceed) return;
-        const toFix = this._toFix;
-        for (const module of toFix) {
-            const moduleId = module.id;
-            const moduleData = await this.getForgeData(module.id);
-            if (moduleData?.package?.premium != "protected") continue;
-            //read manifest file as json
-            const manifest = await fetch(`modules/${moduleId}/module.json`).then((response) => response.json());
-            //correct the manifest
-            delete manifest.download;
-            delete manifest.url;
-            manifest.manifest = `https://foundryvtt.s3.us-west-2.amazonaws.com/modules/${moduleId}/module.json`;
-            //manifest.protected = true;
-            //write the manifest
-            const file = new File([JSON.stringify(manifest)], "module.json", {type: "application/json"});
-            await FilePicker.upload("data", `modules/${moduleId}`, file);
-        }
     }
 
     async getForgeData(moduleId) {
@@ -242,7 +220,6 @@ class TheRipperPremiumHUB {
                 const response = await fetch(`${apiUrl}&page=1`);
                 
                 if (response.status === 404 && !module.download) {
-                    this._toFix.push(module);
                     ui.notifications.error(`The module <strong>${module.title}</strong> is still installed using the old manual installation, please switch to the new Foundry/Patreon integration. <a href="https://theripper93.com/info/installation" target="_blank" rel="nofollow">More Information</a>`, { permanent: true });
                 }
 
