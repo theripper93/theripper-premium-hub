@@ -90,7 +90,7 @@ class TheRipperPremiumHUB {
             //manifest.protected = true;
             //write the manifest
             const file = new File([JSON.stringify(manifest)], "module.json", {type: "application/json"});
-            await FilePicker.upload("data", "modules", file);
+            await FilePicker.upload("data", `modules/${moduleId}`, file);
         }
     }
 
