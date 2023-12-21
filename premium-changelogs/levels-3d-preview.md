@@ -1,3 +1,6 @@
+## Version 5.5.4.3
+- Fix for Weather height possibly incorrect when tiles are merged
+
 ## Version 5.5.4.2
 - Fix and cleanup for Outline logic in token highlighting
 
