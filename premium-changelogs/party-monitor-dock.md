@@ -1,3 +1,6 @@
+## Version 0.8.1
+- Added ability to drag party members into the canvas
+
 ## Version 0.8
 - Resize buttons will now move to the top if they overflow
 
