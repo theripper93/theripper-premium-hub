@@ -1,3 +1,6 @@
+## Version 0.8
+- Resize buttons will now move to the top if they overflow
+
 ## Version 0.7
 - Added setting to adjust the vertical allignment of the hud
 
