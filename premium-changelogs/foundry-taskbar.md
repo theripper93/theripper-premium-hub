@@ -1,3 +1,6 @@
+## Version 3.8
+
+
 ## Version 3.7
 - fix fps display glitching when jumping above\below 100 fps
 - fixed order of taskbar elements when docking macro bar
