@@ -1,4 +1,9 @@
 ## Version 0.3
+- Revamped internal and user facing configuration: The Global configuration menu is now more pleasing to look at and use, you can now customize per-slot image
+- Due to the previous change, any customization in the Slot Numbers or Slot images you did previously will be reset. Item assigned to specific slots for Actors should be retained.
+- Pendant slots now add the margin only once
+
+## Version 0.3
 - Fixed issues with item swapping
 - Header no longer pops back in when in docked mode
 - Added Close and Configure buttons for when the header is not visible
