@@ -1,4 +1,8 @@
 ## Version 3.7
+- fix fps display glitching when jumping above\below 100 fps
+- fixed order of taskbar elements when docking macro bar
+
+## Version 3.7
 - Added setting to dock macro bar
 
 ## Version 2.2
