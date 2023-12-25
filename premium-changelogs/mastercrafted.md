@@ -1,3 +1,6 @@
+## Version 2.4
+- Added new "Resource Items" - You can now configure ingridients that consume resources (such as spell slots \ Gold coins etc..)
+
 ## Version 2.3
 - Added field for custom item quantity path for unsupported systems
 
