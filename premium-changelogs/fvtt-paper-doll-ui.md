@@ -1,3 +1,6 @@
+## Version 0.5
+- added paper-doll-equip hook
+
 ## Version 0.4
 - Revamped internal and user facing configuration: The Global configuration menu is now more pleasing to look at and use, you can now customize per-slot image
 - Due to the previous change, any customization in the Slot Numbers or Slot images you did previously will be reset. Item assigned to specific slots for Actors should be retained.
