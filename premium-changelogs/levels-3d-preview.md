@@ -1,3 +1,6 @@
+## Version 5.5.5.2
+- Added new 'Capture Tokens' option for animated doors. When enabled nearby tokens will be captured and move together with the door animation
+
 ## Version 5.5.5.1
 - Added logic to allow splatmap paint preview
 
