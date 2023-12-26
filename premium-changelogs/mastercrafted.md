@@ -1,3 +1,6 @@
+## Version 2.5
+- Added new Tags system for generic ingridients
+
 ## Version 2.4
 - Added new "Resource Items" - You can now configure ingridients that consume resources (such as spell slots \ Gold coins etc..)
 
