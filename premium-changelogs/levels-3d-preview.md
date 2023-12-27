@@ -1,3 +1,6 @@
+## Version 5.5.5.4
+- Extended support for canvas panning
+
 ## Version 5.5.5.3
 - Bounce shader intensity can now be defined per axis
 
