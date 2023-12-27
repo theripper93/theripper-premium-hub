@@ -1,3 +1,6 @@
+## Version 5.5.5.3
+- Bounce shader intensity can now be defined per axis
+
 ## Version 5.5.5.2
 - Added new 'Capture Tokens' option for animated doors. When enabled nearby tokens will be captured and move together with the door animation
 
