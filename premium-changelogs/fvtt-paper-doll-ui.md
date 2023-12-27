@@ -2,6 +2,10 @@
 - Fixed items not triggering equip workflow when dragging a new item onto a used slot
 - Added `paper-doll-swap` for when items are swapped but no equip\unequip takes place
 
+## Version 0.6
+- Fixed items not triggering equip workflow when dragging a new item onto a used slot
+- Added `paper-doll-swap` for when items are swapped but no equip\unequip takes place
+
 ## Version 0.5
 - added paper-doll-equip hook
 
