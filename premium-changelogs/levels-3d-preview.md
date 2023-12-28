@@ -1,3 +1,6 @@
+## Version 5.5.5.6
+- Fixed Community Map import not importing 3D Tokens correctly if their data path was set using The Forge
+
 ## Version 5.5.5.5
 - Fixed Animated doors hitboxes covering the pre-animation space as well
 
