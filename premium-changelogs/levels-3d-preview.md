@@ -1,3 +1,7 @@
+## Version 5.5.5.7
+- Added `Plane` Dynamic Mesh
+- Added `Alpha Clip` setting to material tab for tiles
+
 ## Version 5.5.5.6
 - Fixed Community Map import not importing 3D Tokens correctly if their data path was set using The Forge
 
