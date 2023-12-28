@@ -1,3 +1,6 @@
+## Version 5.5.5.8
+- Added internal api changes for Live Painting to work
+
 ## Version 5.5.5.7
 - Added `Plane` Dynamic Mesh
 - Added `Alpha Clip` setting to material tab for tiles
