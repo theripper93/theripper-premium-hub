@@ -1,3 +1,6 @@
+## Version 5.5.5.5
+- Fixed Animated doors hitboxes covering the pre-animation space as well
+
 ## Version 5.5.5.4
 - Extended support for canvas panning
 
