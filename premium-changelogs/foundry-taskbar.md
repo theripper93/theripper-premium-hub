@@ -1,3 +1,6 @@
+## Version 3.8.1
+- Docked player list is now scrollable when the amount of players overflow
+
 ## Version 3.8
 - fix fps display glitching when jumping above\below 100 fps
 - fixed order of taskbar elements when docking macro bar
