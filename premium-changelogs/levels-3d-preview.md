@@ -1,3 +1,7 @@
+## Version 5.5.6
+- Added new `Noise` Shader
+- Fixed some minor issues with the new paint mode
+
 ## Version 5.5.5.8
 - Added internal api changes for Live Painting to work
 
