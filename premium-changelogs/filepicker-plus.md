@@ -1,3 +1,6 @@
+## Version 3.8
+- Fixed theme colors for Favourites and Grid Size input
+
 ## Version 3.5
 - Added new recursive file upload. Dropping a folder on the FilePicker will now recreate the folder and subfolder structure of the dropped data!https://streamable.com/vqwa3g
 
