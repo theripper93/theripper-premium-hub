@@ -1,3 +1,6 @@
+## Version 5.5.7.1
+- Fix texture interpolation for splatmap shader
+
 ## Version 5.5.7
 - Texture overlay type shaders now respect the alpha channel of the underlying texture
 - When importing community maps, a scene note and corresponding journal will be created with the description of the map. You can toggle this option in the Community Maps window
