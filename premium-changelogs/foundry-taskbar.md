@@ -1,4 +1,7 @@
 ## Version 3.8.1
+- Taskbar theme is no longer applied to context menu in players list to avoid menu to be unusable
+
+## Version 3.8.1
 - Docked player list is now scrollable when the amount of players overflow
 
 ## Version 3.8
