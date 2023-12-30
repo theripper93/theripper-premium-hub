@@ -1,3 +1,6 @@
+## Version 3.8.2
+- Taskbar theme is no longer applied to context menu in players list to avoid menu to be unusable
+
 ## Version 3.8.1
 - Taskbar theme is no longer applied to context menu in players list to avoid menu to be unusable
 
