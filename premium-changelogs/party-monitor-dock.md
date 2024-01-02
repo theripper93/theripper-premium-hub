@@ -1,3 +1,6 @@
+## Version 1.0
+- Supporter release
+
 ## Version 0.8.1
 - Added ability to drag party members into the canvas
 
