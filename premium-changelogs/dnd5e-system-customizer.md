@@ -1,3 +1,6 @@
+## Version 1.8.2
+- Fixed manifest system compatibilty
+
 ## Version 1.8.1
 - Fixed issue with customization data getting unreadable due to missing object paths
 
