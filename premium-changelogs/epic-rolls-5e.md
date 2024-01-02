@@ -1,3 +1,6 @@
+## Version 1.9.1
+- Fixed manifest system compatibility
+
 ## Version 1.8
 - Selecting Blind Roll will correctly execute a blind roll- Unselecting "Show Roll Results" will now send the final chat card with the results to the GM only
 
