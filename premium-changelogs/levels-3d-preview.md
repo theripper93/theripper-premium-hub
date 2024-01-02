@@ -1,3 +1,6 @@
+## Version 5.5.7.2
+- When in using a 2D map in 3D and door rendering is disabled, 3D Canvas will now show a door icon to preserve door interactivity
+
 ## Version 5.5.7.1
 - Fix texture interpolation for splatmap shader
 
