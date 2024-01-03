@@ -1,3 +1,7 @@
+## Version 5.5.7.5
+- Past and future mapmaking contest winners will now have a trophy icon next to their name in the community maps browser
+- Added logic for future contests to display date\time of the contest
+
 ## Version 5.5.7.4
 - Fixed issue with Fog of War not beeing rendered under some circumstances when Shared Context is disabled
 
