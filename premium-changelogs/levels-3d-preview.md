@@ -1,3 +1,6 @@
+## Version 5.5.7.4
+- Fixed issue with Fog of War not beeing rendered under some circumstances when Shared Context is disabled
+
 ## Version 5.5.7.3
 - fixed type check for doors
 
