@@ -1,3 +1,7 @@
+## Version 0.7
+- Default image fit changed to cover from contain
+- Fixed deleted items blocking slots
+
 ## Version 0.6
 - Fixed items not triggering equip workflow when dragging a new item onto a used slot
 - Added `paper-doll-swap` for when items are swapped but no equip\unequip takes place
