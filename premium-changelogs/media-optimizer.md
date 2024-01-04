@@ -1,3 +1,6 @@
+## Version 2.0.1
+- Added suggestion for large collections
+
 ## Version 2.0
 - Added new Bloat Detector feature, you can access it in the settings
 
