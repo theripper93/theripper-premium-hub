@@ -1,3 +1,6 @@
+## Version 5.5.7.8
+- Small fix for last release
+
 ## Version 5.5.7.6
 - Added download counter for map browser
 
