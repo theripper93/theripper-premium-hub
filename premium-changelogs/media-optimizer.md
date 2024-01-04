@@ -1,3 +1,6 @@
+## Version 2.0
+- Added new Bloat Detector feature, you can access it in the settings
+
 ## Version 1.9.1
 - Clean file name now works even if the file is not converted
 
