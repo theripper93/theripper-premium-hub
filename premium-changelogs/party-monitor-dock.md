@@ -1,3 +1,11 @@
+## Version 1.1
+- Updated translations
+- Added `Mount` Context menu button when Ridable integration is enabled
+- Right clicking an active effect prompts for deletion
+- HUD now correctly refreshes when an active effect is added or removed
+- Actors assigned to players will not show as companions
+- Item Piles will no longer show as companions
+
 ## Version 1.0.1
 - Changed default setting to only show connected players to off to avoid first user confusion
 
