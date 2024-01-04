@@ -1,3 +1,6 @@
+## Version 5.5.8
+- You can now set a heightmap for the Infinite Mat area
+
 ## Version 5.5.7.8
 - Small fix for last release
 
