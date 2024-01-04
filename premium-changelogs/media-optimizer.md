@@ -1,3 +1,6 @@
+## Version 2.0.3
+- Added flag checking to Bloat detector
+
 ## Version 2.0.2
 - Added document inspection to bloat detector
 
