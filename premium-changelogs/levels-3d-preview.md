@@ -1,3 +1,6 @@
+## Version 5.5.7.6
+- Added download counter for map browser
+
 ## Version 5.5.7.5
 - Past and future mapmaking contest winners will now have a trophy icon next to their name in the community maps browser
 - Added logic for future contests to display date\time of the contest
