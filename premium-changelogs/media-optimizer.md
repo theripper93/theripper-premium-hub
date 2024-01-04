@@ -1,3 +1,6 @@
+## Version 2.0.2
+- Added document inspection to bloat detector
+
 ## Version 2.0.1
 - Added suggestion for large collections
 
