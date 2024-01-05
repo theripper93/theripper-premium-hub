@@ -1,4 +1,7 @@
 ## Version 5.5.9
+
+
+## Version 5.5.9
 - Added new  "Coin" mode for 2D Tokens in 3D
 - Changed "Standup face camera" option to a new selection menu "2D Token Style" both global and per token
 
