@@ -1,3 +1,7 @@
+## Version 5.6.0
+- Added new Interactive Counter Dynameshes
+- Reworked the dynamesh dropdown to be divided into categories
+
 ## Version 5.5.9
 
 
