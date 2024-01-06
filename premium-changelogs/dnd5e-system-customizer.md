@@ -1,3 +1,6 @@
+## Version 1.8.3
+- Fixed issue with odd behaviour when pressing the enter key in input elements
+
 ## Version 1.8.2
 - Fixed manifest system compatibilty
 
