@@ -1,3 +1,7 @@
+## Version 5.6.0.1
+- Fixed potential bug affecting 2d walls
+- Community maps browser now has a sort by download button
+
 ## Version 5.6.0
 - Added new Interactive Counter Dynameshes
 - Reworked the dynamesh dropdown to be divided into categories
