@@ -1,3 +1,6 @@
+## Version 1.6
+- updated localizations
+
 ## Version 1.5
 - Fixed missing files in previous release
 
