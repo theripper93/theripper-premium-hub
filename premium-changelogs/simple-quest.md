@@ -1,3 +1,6 @@
+## Version 0.3
+- Fixed issue with marking objectives as hidden
+
 ## Version 0.2
 - Added Delete quest and duplicate quest to the quest control buttons
 - You can now right click a quest objective checkbox to mark it as failed
