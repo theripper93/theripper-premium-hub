@@ -1,3 +1,6 @@
+## Version 0.8.2
+- Fix fo the previous time fix
+
 ## Version 0.8.1
 - Possible fix for time parsing\calculations on the @time tag
 
