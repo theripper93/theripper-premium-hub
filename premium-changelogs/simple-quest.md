@@ -1,3 +1,7 @@
+## Version 0.8
+- Sub-quests can now be hidden
+- Added new "!" marker to indicate new quests - the GM can manually mark a quest as "updated\new" and the updated status will be automatically added when an objective is checked\unchecked or an objective is un-hidden
+
 ## Version 0.7
 - Collapsed\Expanded status of Categories or Multiquests is now preserved
 - Added better error handling for missing party\personal journal
