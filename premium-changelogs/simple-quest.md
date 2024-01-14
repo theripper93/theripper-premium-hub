@@ -1,3 +1,11 @@
+## Version 0.5
+- Adjusted some styles
+- Added welcome screen
+- Added button to Post a quest to chat as a "New Quest" notification
+- Added demo quest with tutorial, this is only created the first time you enable the module, you can add the demo quest manually with the `ui.simpleQuest.createDemoQuest()` macro
+- Added "subquests", when a quest contains Headings 1 or 2 they will be shown also in the quest list
+- Minor fixes
+
 ## Version 0.4
 - Fixed bug with hidden objectives counting towards quest count
 - Fixed sorting bug with both categories (journals) and quests (pages) order not beein correctly mirrored
