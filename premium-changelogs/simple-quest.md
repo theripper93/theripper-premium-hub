@@ -1,3 +1,7 @@
+## Version 0.7
+- Collapsed\Expanded status of Categories or Multiquests is now preserved
+- Added better error handling for missing party\personal journal
+
 ## Version 0.6
 - Added new custom time enricher to add timestamps to your journals
 
