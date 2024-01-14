@@ -1,3 +1,6 @@
+## Version 0.6
+- Added new custom time enricher to add timestamps to your journals
+
 ## Version 0.5
 - Adjusted some styles
 - Added welcome screen
