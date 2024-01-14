@@ -1,4 +1,7 @@
 ## Version 0.5
+
+
+## Version 0.5
 - Adjusted some styles
 - Added welcome screen
 - Added button to Post a quest to chat as a "New Quest" notification
