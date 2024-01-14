@@ -1,3 +1,6 @@
+## Version 0.8.1
+- Possible fix for time parsing\calculations on the @time tag
+
 ## Version 0.8
 - Sub-quests can now be hidden
 - Added new "!" marker to indicate new quests - the GM can manually mark a quest as "updated\new" and the updated status will be automatically added when an objective is checked\unchecked or an objective is un-hidden
