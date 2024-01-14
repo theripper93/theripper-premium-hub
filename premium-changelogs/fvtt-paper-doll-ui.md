@@ -1,3 +1,7 @@
+## Version 0.8
+- Added setting to auto open paper doll when opening an actor sheet
+- Added setting to allow non owned items to be added to the paper doll
+
 ## Version 0.7
 - Default image fit changed to cover from contain
 - Fixed deleted items blocking slots
