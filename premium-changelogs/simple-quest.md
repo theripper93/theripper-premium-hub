@@ -1,3 +1,10 @@
+## Version 0.9.1
+- Polished some styles 
+- Moved the create quest button to a single button on top of the quest list
+- Added a create category button
+- Right clicking a category will open it's journal page
+- The setting to disable notifications now actually does something
+
 ## Version 0.9
 - @time enricher now requires exact date time syntax using the international time format @time[yyyy/mm/dd, hh:mm]
 - Added new Notification system, whenever a quest objective is updated or a hidden objective is revealed every user will recive a toast notification. This can be disabled in the settings
