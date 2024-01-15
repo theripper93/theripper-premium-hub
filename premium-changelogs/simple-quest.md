@@ -1,3 +1,7 @@
+## Version 0.9
+- @time enricher now requires exact date time syntax using the international time format @time[yyyy/mm/dd, hh:mm]
+- Added new Notification system, whenever a quest objective is updated or a hidden objective is revealed every user will recive a toast notification. This can be disabled in the settings
+
 ## Version 0.8.3
 - Attempt fix at date again
 
