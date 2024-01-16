@@ -1,3 +1,6 @@
+## Version 5.7.0
+- Added new Dynamic Sky feature
+
 ## Version 5.6.0.1
 - Fixed potential bug affecting 2d walls
 - Community maps browser now has a sort by download button
