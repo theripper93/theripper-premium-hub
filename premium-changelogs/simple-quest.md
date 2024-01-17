@@ -1,3 +1,7 @@
+## Version 0.9.4
+- If a marker uuid object is a Scene, Simple Quest will view that scene
+- If a marker is a quest journal, Simple quest will switch to the appropriate quest in the quest tab
+
 ## Version 0.9.3
 - Changed internal data structure for map markers, any markers you have will be deleted
 
