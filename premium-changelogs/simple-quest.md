@@ -1,3 +1,6 @@
+## Version 0.9.3
+- Changed internal data structure for map markers, any markers you have will be deleted
+
 ## Version 0.9.2
 - Added new Map tab!
 
