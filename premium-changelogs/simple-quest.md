@@ -1,3 +1,7 @@
+## Version 0.9.5
+- Fixed deletion of markers not working
+- If a marker points to another Map, the map will be opened instead of opening it as a popup
+
 ## Version 0.9.4
 - If a marker uuid object is a Scene, Simple Quest will view that scene
 - If a marker is a quest journal, Simple quest will switch to the appropriate quest in the quest tab
