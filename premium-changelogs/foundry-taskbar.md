@@ -1,3 +1,6 @@
+## Version 3.8.3
+- Fix for player list docking
+
 ## Version 3.8.2
 - Taskbar theme is no longer applied to context menu in players list to avoid menu to be unusable
 
