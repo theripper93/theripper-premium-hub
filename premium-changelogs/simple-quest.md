@@ -1,3 +1,6 @@
+## Version 0.9.2
+- Added new Map tab!
+
 ## Version 0.9.1
 - Polished some styles 
 - Moved the create quest button to a single button on top of the quest list
