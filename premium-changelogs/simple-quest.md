@@ -1,3 +1,8 @@
+## Version 0.9.6
+- Replaced close button with button to toggle windowed mode
+- Holding right click on a map will show a preview of the marker position which will be created when releasing
+- Right click drag on an existing marker will grab and move the marker
+
 ## Version 0.9.5
 - Fixed deletion of markers not working
 - If a marker points to another Map, the map will be opened instead of opening it as a popup
