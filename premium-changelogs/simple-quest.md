@@ -1,3 +1,7 @@
+## Version 0.9.7
+- Fixed issue with Map Marker repositioning
+- Maps can now be set to Secret
+
 ## Version 0.9.6
 - Replaced close button with button to toggle windowed mode
 - Holding right click on a map will show a preview of the marker position which will be created when releasing
