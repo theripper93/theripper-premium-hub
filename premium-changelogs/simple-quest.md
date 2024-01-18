@@ -1,3 +1,6 @@
+## Version 0.9.8
+- Fixed bug that deleted map markers on left click
+
 ## Version 0.9.7
 - Fixed issue with Map Marker repositioning
 - Maps can now be set to Secret
