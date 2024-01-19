@@ -1,3 +1,6 @@
+## Version 0.8.1
+- added workaround for a5e sysytem which utilizes non standard custom svelte applications
+
 ## Version 0.8
 - Added setting to auto open paper doll when opening an actor sheet
 - Added setting to allow non owned items to be added to the paper doll
