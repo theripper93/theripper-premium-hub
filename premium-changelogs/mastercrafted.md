@@ -1,3 +1,6 @@
+## Version 2.5.2
+- Fix for an issue with loading items in the previous update
+
 ## Version 2.5.1
 - Attempt at less agressive preloading to speed up Mastercrafted load times on slow servers
 
