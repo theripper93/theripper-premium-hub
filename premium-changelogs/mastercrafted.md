@@ -1,3 +1,6 @@
+## Version 2.5.1
+- Attempt at less agressive preloading to speed up Mastercrafted load times on slow servers
+
 ## Version 2.5
 - Added new Tags system for generic ingridients
 
