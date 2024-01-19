@@ -1,3 +1,6 @@
+## Version 1.9.2
+- Updated argon integration for new Argon CORE
+
 ## Version 1.9.1
 - Added Paper Doll integration
 - Added butto to toggle outline to photobooth
