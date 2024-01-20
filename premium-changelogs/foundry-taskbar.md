@@ -1,3 +1,6 @@
+## Version 3.8.4
+- Fixed gm screen flap not beeing hidden on load
+
 ## Version 3.8.3
 - Fix for player list docking
 
