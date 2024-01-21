@@ -1,3 +1,6 @@
+## Version 0.9.9
+- Added capability for Super resolution maps, see the wiki for the how to
+
 ## Version 0.9.8
 - Fixed bug that deleted map markers on left click
 
