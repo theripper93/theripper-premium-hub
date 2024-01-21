@@ -1,3 +1,6 @@
+## Version 0.9.10
+- Added Fog of War capabilities to the map tab
+
 ## Version 0.9.9
 - Added capability for Super resolution maps, see the wiki for the how to
 
