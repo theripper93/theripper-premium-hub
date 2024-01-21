@@ -1,3 +1,10 @@
+## Version 0.9.11
+- Fog of war should now handle an unlimited amount of nested holes
+- When holding shift, the fow brush will appear instead of the cursor
+- Alt clicking a marker will toggle the Hidden state
+- FoW is now semi transparent for GMs
+- While holding shift to draw FOW, scroll wheel will change brush size
+
 ## Version 0.9.10
 - Added Fog of War capabilities to the map tab
 
