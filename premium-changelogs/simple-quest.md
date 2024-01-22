@@ -1,3 +1,6 @@
+## Version 0.9.14
+- added new custom inserts for your journals!
+
 ## Version 0.9.13
 - Removed flickering when editing something on a map due to saves
 - Fow now saves instantly upon mouse release instead that using a timer
