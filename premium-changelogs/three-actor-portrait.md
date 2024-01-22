@@ -1,3 +1,6 @@
+## Version 1.9.3
+- Added simple quest integration
+
 ## Version 1.9.2
 - Updated argon integration for new Argon CORE
 
