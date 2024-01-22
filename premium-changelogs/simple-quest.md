@@ -1,3 +1,6 @@
+## Version 0.9.12
+- Update for 3D Portraits support
+
 ## Version 0.9.11
 - Fog of war should now handle an unlimited amount of nested holes
 - When holding shift, the fow brush will appear instead of the cursor
