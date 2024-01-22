@@ -1,3 +1,8 @@
+## Version 0.9.13
+- Removed flickering when editing something on a map due to saves
+- Fow now saves instantly upon mouse release instead that using a timer
+- Added custom callouts you can use to enrich your quests!
+
 ## Version 0.9.12
 - Update for 3D Portraits support
 
