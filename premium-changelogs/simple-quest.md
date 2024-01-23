@@ -1,4 +1,8 @@
 ## Version 0.9.14
+- The Callouts, Page inserts and future extra journal styles have been added to the Prosemirror Menu
+- Added optional sound effects for a new quest\quest update (no sound is set by default)
+
+## Version 0.9.14
 - added new custom inserts for your journals!
 
 ## Version 0.9.13
