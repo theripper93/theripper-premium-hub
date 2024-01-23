@@ -1,3 +1,6 @@
+## Version 2.2
+- Small fix for deprecated method
+
 ## Version 2.1
 - When harvesting, if no resource path is set , gatherer will allow the harvest operation
 
