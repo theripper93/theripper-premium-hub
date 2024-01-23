@@ -1,8 +1,8 @@
 {
     "announcements": {
-        "gathererann": {
-            "title": "Gatherer",
-            "content": "New Premium module for V10! Gather, Hunt and Scavenge with a simple to use, Rollable Table based custom Journal Page. With skill/tool checks, automated uses reset based on time and a minigame option!"
+        "levels434": {
+            "title": "Important Levels Update",
+            "content": "There was an issue with stairs/elevators with a recent Levels update, please make sure you update to 4.3.4 or later to fix this issue."
         }
     },
     "choices": {
