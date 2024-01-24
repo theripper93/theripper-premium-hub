@@ -1,3 +1,7 @@
+## Version 0.9.17
+- Fixes on marker interactions
+- Added some extra icons
+
 ## Version 0.9.16
 - Added icon set to the module
 - Map icons now support images
