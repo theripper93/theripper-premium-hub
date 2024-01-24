@@ -1,3 +1,6 @@
+## Version 0.9.18
+- Setting Levels in Maps journal pages will mirror the indentation in the simple quest map tab
+
 ## Version 0.9.17
 - Fixes on marker interactions
 - Added some extra icons
