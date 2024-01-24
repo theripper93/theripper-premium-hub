@@ -1,3 +1,9 @@
+## Version 0.9.16
+- Added icon set to the module
+- Map icons now support images
+- Added scale option to map icons
+- Drag and dropping basically anything onto the map will create a pin linked to that object (eg, iamges, actors, scenes, quests)
+
 ## Version 0.9.15
 - The Callouts, Page inserts and future extra journal styles have been added to the Prosemirror Menu
 - Added optional sound effects for a new quest\quest update (no sound is set by default)
