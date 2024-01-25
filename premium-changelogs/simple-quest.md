@@ -1,3 +1,6 @@
+## Version 0.9.20
+- Journal pages linked to Map Markers will be opened as modals within the map (you can disable this in the settings)
+
 ## Version 0.9.19
 - Fix for some theme modules breaking simple quest dialog themes
 - Fixed odd behaviour of callouts\inserts
