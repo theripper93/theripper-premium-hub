@@ -1,3 +1,10 @@
+## Version 0.9.19
+- Fix for some theme modules breaking simple quest dialog themes
+- Fixed odd behaviour of callouts\inserts
+- Changed proportions of simple quest grid layout in tabs other than quest
+- Improved some apis
+- Added @QUEST content link to link directly to quests
+
 ## Version 0.9.18
 - Setting Levels in Maps journal pages will mirror the indentation in the simple quest map tab
 
