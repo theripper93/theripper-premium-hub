@@ -1,3 +1,6 @@
+## Version 5.7.1
+- Fix for Active Tiles api change
+
 ## Version 5.7.0
 - Added new Dynamic Sky feature
 
