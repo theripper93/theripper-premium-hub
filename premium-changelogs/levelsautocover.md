@@ -1,3 +1,6 @@
+## Version 1.7.5
+- added new `getAllObstructingTokens` optional argument to get all the tokens in the path
+
 ## Version 1.7.4
 - Fixed Chat Message setting beein ignored (was always on)
 - Changed logic for chat message display to add guards against scripted rapid target switching
