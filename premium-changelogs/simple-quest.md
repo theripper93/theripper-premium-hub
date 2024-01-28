@@ -1,3 +1,6 @@
+## Version 0.9.21
+- Added new Page Templates - You can access them from the `Page Template` button in the edit journal page header buttons!
+
 ## Version 0.9.20
 - Journal pages linked to Map Markers will be opened as modals within the map (you can disable this in the settings)
 
