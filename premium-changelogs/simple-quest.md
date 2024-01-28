@@ -1,3 +1,8 @@
+## Version 0.9.22
+- Added new Lore tab
+- Added safeguards against map zoom locking
+- changed underlying logic for right click map interactions to be less janky
+
 ## Version 0.9.21
 - Added new Page Templates - You can access them from the `Page Template` button in the edit journal page header buttons!
 
