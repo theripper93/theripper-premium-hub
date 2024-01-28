@@ -1,3 +1,8 @@
+## Version 0.9.23
+- Added ruler tool to map tab
+- Added marker lock button to map tab
+- Quests containing Headers will now be indented in the quest list
+
 ## Version 0.9.22
 - Added new Lore tab
 - Added safeguards against map zoom locking
