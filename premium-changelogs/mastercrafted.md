@@ -1,3 +1,6 @@
+## Version 2.5.4
+- Fix for item consumption duplication on tagged ingridients
+
 ## Version 2.5.3
 - reupload due to wrong upload
 
