@@ -1,3 +1,7 @@
+## Version 0.9.27
+- Added more journal templates
+- Added ruler line to map measurement tool
+
 ## Version 0.9.26
 - Added more journal templates
 - journal templates now ask for the image for better user experience
