@@ -1,3 +1,6 @@
+## Version 0.9.24
+- Fixed critical issue that would leave new install in a state where new quests would be created in the Lore section if the user deleted the welcome quest then created a lore page with no other quests existing
+
 ## Version 0.9.23
 - Added ruler tool to map tab
 - Added marker lock button to map tab
