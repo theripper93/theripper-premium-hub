@@ -1,3 +1,8 @@
+## Version 0.9.25
+- Fixed issue with font setting
+- Added hide\unhide buttons to Lore tab that will toggle user permission on the page
+- New Lore items will now be created with default observer permission
+
 ## Version 0.9.24
 - Fixed critical issue that would leave new install in a state where new quests would be created in the Lore section if the user deleted the welcome quest then created a lore page with no other quests existing
 
