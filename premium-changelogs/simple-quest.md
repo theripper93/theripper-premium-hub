@@ -1,3 +1,7 @@
+## Version 0.9.26
+- Added more journal templates
+- journal templates now ask for the image for better user experience
+
 ## Version 0.9.25
 - Fixed issue with font setting
 - Added hide\unhide buttons to Lore tab that will toggle user permission on the page
