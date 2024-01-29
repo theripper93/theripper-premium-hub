@@ -1,3 +1,7 @@
+## Version 5.7.2
+- Map browser description urls are now clicable
+- fixed issue with scene padding heghtmap processing
+
 ## Version 5.7.1
 - Fix for Active Tiles api change
 
