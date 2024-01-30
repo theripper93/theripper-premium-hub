@@ -1,3 +1,8 @@
+## Version 0.9.29
+- Party\Shared journal now correctly save scroll position
+- Fixed clicking on markers activating drag
+- Added method to open simple quest to tab which was documented in the wiki but not in the actual code
+
 ## Version 0.9.28
 - Added new character grid templates
 - Simple quest will now intercept content links and open them within simple quest if they are a simple quest document - you can hold CTRL to open a content link normally
