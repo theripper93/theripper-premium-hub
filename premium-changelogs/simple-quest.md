@@ -1,3 +1,8 @@
+## Version 0.9.28
+- Added new character grid templates
+- Simple quest will now intercept content links and open them within simple quest if they are a simple quest document - you can hold CTRL to open a content link normally
+- Clicking content links in modals will open the target as a modal
+
 ## Version 0.9.27
 - Added more journal templates
 - Added ruler line to map measurement tool
