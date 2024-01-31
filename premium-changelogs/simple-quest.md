@@ -1,3 +1,6 @@
+## Version 0.9.31
+- Added tours
+
 ## Version 0.9.30
 - Right clicking a Tab will open the Tab configuration where you can rename tabs
 - Fixed marker preview when placing not working
