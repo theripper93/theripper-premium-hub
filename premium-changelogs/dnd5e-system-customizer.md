@@ -1,3 +1,6 @@
+## Version 1.9
+- Updated for DND5e 3.0, this is not backwards compatible
+
 ## Version 1.8.3
 - Fixed issue with odd behaviour when pressing the enter key in input elements
 
