@@ -1,3 +1,10 @@
+## Version 0.9.30
+- Right clicking a Tab will open the Tab configuration where you can rename tabs
+- Fixed marker preview when placing not working
+- When clicking a marker linked to a macro, the macro will be executed
+- Added new helper macro command ui.simpleQuest.sceneToMap() that will make the currently viewed scene into a Map page
+- Added "Move to" dropdown to lore pages
+
 ## Version 0.9.29
 - Party\Shared journal now correctly save scroll position
 - Fixed clicking on markers activating drag
