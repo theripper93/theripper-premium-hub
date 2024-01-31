@@ -1,3 +1,6 @@
+## Version 5.7.3
+- Tile updates are now handled by a batcher so that if multiple tiles are moved together they will be all undone together
+
 ## Version 5.7.2
 - Map browser description urls are now clicable
 - fixed issue with scene padding heghtmap processing
