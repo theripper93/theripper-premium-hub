@@ -1,3 +1,6 @@
+## Version 0.9.32
+- More NUE updates, sample Lore, Page Templates tour
+
 ## Version 0.9.31
 - Added tours
 
