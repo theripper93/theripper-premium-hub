@@ -1,3 +1,7 @@
+## Version 0.9.33
+- Added permission checking for page opening
+- Every tab now has a searchbar
+
 ## Version 0.9.32
 - More NUE updates, sample Lore, Page Templates tour
 
