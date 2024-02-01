@@ -1,3 +1,6 @@
+## Version 2.3
+- Fixed resource path for harvesting creatures not working correctly
+
 ## Version 2.2
 - Small fix for deprecated method
 
