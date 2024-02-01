@@ -1,3 +1,7 @@
+## Version 0.9.36
+- Fixes to some animations
+- Added theme button in the font size area
+
 ## Version 0.9.35
 - Fixed quest document links borken with last patch
 - Added new Theme menu
