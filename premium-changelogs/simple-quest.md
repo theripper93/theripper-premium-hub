@@ -1,3 +1,6 @@
+## Version 0.9.34
+- Added one missing permission check
+
 ## Version 0.9.33
 - Added permission checking for page opening
 - Every tab now has a searchbar
