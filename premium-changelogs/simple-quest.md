@@ -1,3 +1,7 @@
+## Version 0.9.35
+- Fixed quest document links borken with last patch
+- Added new Theme menu
+
 ## Version 0.9.34
 - Added one missing permission check
 
