@@ -1,4 +1,9 @@
 ## Version 0.9.36
+- Fixed measurement tool working only for GMs
+- small tweaks to NUE
+- Added open for players button
+
+## Version 0.9.36
 - Fixes to some animations
 - Added theme button in the font size area
 
