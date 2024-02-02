@@ -1,3 +1,6 @@
+## Version 0.9.38
+- New `Wiki` and `Event` templates
+
 ## Version 0.9.37
 - Fixed character template
 
