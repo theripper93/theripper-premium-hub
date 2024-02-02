@@ -1,3 +1,7 @@
+## Version 0.9.39
+- Changed content link styling to be more in line with the overall simple quest ui
+- Macros executed via markers will recive the markers data as arguments, more info in the wiki
+
 ## Version 0.9.38
 - New `Wiki` and `Event` templates
 
