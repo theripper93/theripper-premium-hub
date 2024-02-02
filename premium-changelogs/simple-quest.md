@@ -1,3 +1,6 @@
+## Version 0.9.37
+- Fixed character template
+
 ## Version 0.9.36
 - Fixed measurement tool working only for GMs
 - small tweaks to NUE
