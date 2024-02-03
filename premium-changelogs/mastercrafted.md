@@ -1,3 +1,6 @@
+## Version 2.5.5
+- Fixed issue when loading items from compendiums under certain circumstances
+
 ## Version 2.5.4
 - Fix for item consumption duplication on tagged ingridients
 
