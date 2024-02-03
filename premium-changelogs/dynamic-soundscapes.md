@@ -1,3 +1,6 @@
+## Version 1.5.1
+- Added better exception handling for missing sounds
+
 ## Version 1.5
 - Added Weather effects (with FX Master support) to conditions- Setting a dynamic soundscape playlist as the scene playlist will now auto-activate the soundscape
 
