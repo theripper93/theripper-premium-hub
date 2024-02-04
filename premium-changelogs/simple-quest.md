@@ -1,3 +1,6 @@
+## Version 0.9.43
+- Fixed some issues related to windowed mode
+
 ## Version 0.9.42
 - Quests or subquests with all objectives completed will be styled with a strike through in the quest list
 
