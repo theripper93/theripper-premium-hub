@@ -1,3 +1,8 @@
+## Version 0.9.41
+- Added global lore search
+- Fixed theme inversion not working in widowed mode
+- Added setting to attempt to inherit core\system journal styling
+
 ## Version 0.9.40
 - Added new DnD5e theme, if you have dnd5e 3.0 installed
 - Modified background color logic to accept css stings for advanced users
