@@ -1,3 +1,6 @@
+## Version 0.9.42
+- Quests or subquests with all objectives completed will be styled with a strike through in the quest list
+
 ## Version 0.9.41
 - Added global lore search
 - Fixed theme inversion not working in widowed mode
