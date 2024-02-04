@@ -1,3 +1,6 @@
+## Version 3.8.5
+- Added check to auto "undock" smalltime from the player list if taskbar is interacting with smalltime or the player list
+
 ## Version 3.8.4
 - Fixed gm screen flap not beeing hidden on load
 
