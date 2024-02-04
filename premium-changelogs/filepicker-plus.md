@@ -1,3 +1,6 @@
+## Version 3.8.1
+- Fixed filepicker window not minimizing correctly
+
 ## Version 3.8
 - Fixed theme colors for Favourites and Grid Size input
 
