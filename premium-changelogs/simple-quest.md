@@ -1,3 +1,8 @@
+## Version 0.9.40
+- Added new DnD5e theme, if you have dnd5e 3.0 installed
+- Modified background color logic to accept css stings for advanced users
+- Added option to invert the theme
+
 ## Version 0.9.39
 - Changed content link styling to be more in line with the overall simple quest ui
 - Macros executed via markers will recive the markers data as arguments, more info in the wiki
