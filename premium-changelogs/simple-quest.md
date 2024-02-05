@@ -1,3 +1,7 @@
+## Version 0.9.44
+- added new @COUNT[id]{max} enricher
+- small fixes to styles
+
 ## Version 0.9.43
 - Fixed some issues related to windowed mode
 
