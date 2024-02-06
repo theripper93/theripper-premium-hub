@@ -1,3 +1,12 @@
+## Version 3.0
+- Massive revamp for DND 3.0
+- Completely remade the module from scratch, with a new theme and interface
+- You can now add arbitrary actors to the roll
+- You can now have multiple contestants
+- Added tool checks and death saves
+- The contested roll can be different from the actors roll
+- Added history of recent epic rolls
+
 ## Version 1.9.1
 - Fixed manifest system compatibility
 
