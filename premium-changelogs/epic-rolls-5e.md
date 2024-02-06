@@ -1,4 +1,7 @@
 ## Version 3.0
+
+
+## Version 3.0
 - Massive revamp for DND 3.0
 - Completely remade the module from scratch, with a new theme and interface
 - You can now add arbitrary actors to the roll
