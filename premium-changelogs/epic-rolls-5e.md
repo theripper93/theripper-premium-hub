@@ -1,3 +1,7 @@
+## Version 3.0.1
+- Added dice so nice support
+- Fixed missing tools crashing initialization
+
 ## Version 3.0
 
 
