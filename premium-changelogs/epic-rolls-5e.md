@@ -1,3 +1,6 @@
+## Version 3.0.5
+- Added Recap chat message at the end of the epic roll, by default it's GM only but can be disabled or made public in the settings!
+
 ## Version 3.0.4
 - Added automatic color - the color will be picked depending on the ability of the roll
 - Added button to save default roll options
