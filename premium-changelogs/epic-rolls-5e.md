@@ -1,3 +1,9 @@
+## Version 3.0.4
+- Added automatic color - the color will be picked depending on the ability of the roll
+- Added button to save default roll options
+- Improved the epic roll button in the chat roll options
+- Improved API so modules like MidiQol can use epic rolls to request rolls
+
 ## Version 3.0.3
 - Fixed missing translations
 - Fixed issues with animations during outro
