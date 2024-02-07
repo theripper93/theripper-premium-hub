@@ -1,3 +1,7 @@
+## Version 3.0.3
+- Fixed missing translations
+- Fixed issues with animations during outro
+
 ## Version 3.0.2
 - Fixed issue with dice tray
 - Fixes to some issues with dice so nice
