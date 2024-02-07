@@ -1,3 +1,7 @@
+## Version 3.0.2
+- Fixed issue with dice tray
+- Fixes to some issues with dice so nice
+
 ## Version 3.0.1
 - Added dice so nice support
 - Fixed missing tools crashing initialization
