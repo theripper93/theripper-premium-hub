@@ -1,3 +1,6 @@
+## Version 3.0.6
+- Restored old setting to clean up messages after the epic roll
+
 ## Version 3.0.5
 - Added Recap chat message at the end of the epic roll, by default it's GM only but can be disabled or made public in the settings!
 
