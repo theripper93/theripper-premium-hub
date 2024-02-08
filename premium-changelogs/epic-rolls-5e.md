@@ -1,3 +1,7 @@
+## Version 3.0.9
+- Improved API with queuing, routing and more - these are just internal changes to the api, the usage itself does not change
+- If a user refreshes the page, the Epic roll is recovered
+
 ## Version 3.0.8
 - Fix for blind rolls
 - Added success status to api call
