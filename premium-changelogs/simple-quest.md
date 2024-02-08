@@ -1,3 +1,8 @@
+## Version 0.9.45
+- Fixed some issues with scroll restoring
+- Markers with visible label and no description will not display tooltips
+- Added setting to globally override the color of Labels
+
 ## Version 0.9.44
 - added new @COUNT[id]{max} enricher
 - small fixes to styles
