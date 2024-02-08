@@ -1,3 +1,7 @@
+## Version 3.1.1
+- Fixed Success condition requiring everyone to succeed instead of half when not using average
+- Fixed show DC not showing dc
+
 ## Version 3.1.0
 - Changed default sounds to be different from each other
 
