@@ -1,3 +1,7 @@
+## Version 3.0.8
+- Fix for blind rolls
+- Added success status to api call
+
 ## Version 3.0.7
 - Updated dice shake to lock the roll and shake for all users if one user is rolling
 - Fixed macro api
