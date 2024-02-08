@@ -1,3 +1,8 @@
+## Version 3.0.7
+- Updated dice shake to lock the roll and shake for all users if one user is rolling
+- Fixed macro api
+- Fixed rolls getting potentially stuck
+
 ## Version 3.0.6
 - Restored old setting to clean up messages after the epic roll
 
