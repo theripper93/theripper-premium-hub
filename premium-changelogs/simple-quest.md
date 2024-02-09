@@ -1,3 +1,7 @@
+## Version 0.9.47
+- Inverted Left\Right click behaviour on map tab to match Scene behavour
+- Selected tab now persists between refreshes
+
 ## Version 0.9.46
 - More fixes to scroll position restoring
 
