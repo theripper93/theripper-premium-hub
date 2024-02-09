@@ -1,3 +1,6 @@
+## Version 0.9.46
+- More fixes to scroll position restoring
+
 ## Version 0.9.45
 - Fixed some issues with scroll restoring
 - Markers with visible label and no description will not display tooltips
