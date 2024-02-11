@@ -1,3 +1,6 @@
+## Version 2.0.1
+- Fixed issues with missing files in latest release
+
 ## Version 2.0
 - Fixed some issues with missing files in latest release
 
