@@ -1,3 +1,6 @@
+## Version 5.7.4.1
+- Selecting a token will now clear existing range finders
+
 ## Version 5.7.4
 - Added keybinding to lock camera position when held (H)
 
