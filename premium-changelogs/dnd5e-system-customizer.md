@@ -1,4 +1,7 @@
 ## Version 2.0
+- Fixed some issues with missing files in latest release
+
+## Version 2.0
 - DND5e System customizer is now 'System Customizer'
 - Added new System Agnostic json configuration editor to customize any system
 - Note that not every customization will work, this will depend on your system
