@@ -1,3 +1,10 @@
+## Version 2.0
+- DND5e System customizer is now 'System Customizer'
+- Added new System Agnostic json configuration editor to customize any system
+- Note that not every customization will work, this will depend on your system
+- Added button to export\import configurations
+- The current DND5e only configuration form will still work, but will be deprecated at a later date, it's suggested to migrate to the new Agnostic configurator
+
 ## Version 1.9
 - Updated for DND5e 3.0, this is not backwards compatible
 
