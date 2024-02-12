@@ -1,3 +1,6 @@
+## Version 0.9.48
+- Fixed issue with players not beeing able to pan the map or see measurement units
+
 ## Version 0.9.47
 - Inverted Left\Right click behaviour on map tab to match Scene behavour
 - Selected tab now persists between refreshes
