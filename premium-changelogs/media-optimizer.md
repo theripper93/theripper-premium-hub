@@ -1,3 +1,6 @@
+## Version 2.0.4
+- ignore background if user selects to include the background but no background is set in the scene
+
 ## Version 2.0.3
 - Added flag checking to Bloat detector
 
