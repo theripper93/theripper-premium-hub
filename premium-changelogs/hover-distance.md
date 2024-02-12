@@ -1,3 +1,6 @@
+## Version 2.8
+- Added setting to configure how vertical distance behaves
+
 ## Version 2.7
 - Added setting for Top\Bottom tooltip postion
 
