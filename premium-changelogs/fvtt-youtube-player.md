@@ -1,3 +1,7 @@
+## Version 0.5
+- Added new @YT enricher
+- Added Import\Export menu in the module settings
+
 ## Version 0.4
 - Adding a playlist url to a playlist will fetch and add all the videos in the playlist
 - When a video ends and autoplay is off, the video player will stop
