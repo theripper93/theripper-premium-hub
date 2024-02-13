@@ -1,3 +1,7 @@
+## Version 0.9.49
+- Better handling in the event that no quests are present
+- Fixed maps with special symbols in the names not working correctly
+
 ## Version 0.9.48
 - Fixed issue with players not beeing able to pan the map or see measurement units
 
