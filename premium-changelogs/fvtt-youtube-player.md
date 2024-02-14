@@ -1,3 +1,6 @@
+## Version 0.6.2
+- An API key is now required to use the Search functionality
+
 ## Version 0.6.1
 - Small updates to styles and localizations
 
