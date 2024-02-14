@@ -1,3 +1,6 @@
+## Version 0.6
+- Added youtube search functionality from within the module
+
 ## Version 0.5
 - Added new @YT enricher
 - Added Import\Export menu in the module settings
