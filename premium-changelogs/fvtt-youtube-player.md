@@ -1,3 +1,6 @@
+## Version 0.6.1
+- Small updates to styles and localizations
+
 ## Version 0.6
 - Added youtube search functionality from within the module
 
