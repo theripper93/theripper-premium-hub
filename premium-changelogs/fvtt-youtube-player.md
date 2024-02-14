@@ -1,3 +1,6 @@
+## Version 0.7
+- The widget can now be undocked and moved
+
 ## Version 0.6.2
 - An API key is now required to use the Search functionality
 
