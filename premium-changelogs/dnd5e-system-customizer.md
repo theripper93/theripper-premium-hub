@@ -1,3 +1,6 @@
+## Version 2.0.3
+- Made small change to potentially improve compatibility with other modules interacting with configuration files
+
 ## Version 2.0.2
 - More build issues fixes
 
