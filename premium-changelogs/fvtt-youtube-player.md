@@ -1,3 +1,7 @@
+## Version 0.7.1
+- Fixed playlist importing not working
+- Added feedback when playlists are imported
+
 ## Version 0.7
 - The widget can now be undocked and moved
 
