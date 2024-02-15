@@ -1,3 +1,10 @@
+## Version 0.8
+- Fixed paused status not beein restored on first load
+- Changing volume of the video from the youtube player will also change the global playlist volume (and vice versa)
+- Holding shift while deleting a track from a playlist will skip the delete dialog
+- Clicking a search result will immediatly play it instead of requiring a double click
+- Added right click context menu to search results to add to playlist and copy url
+
 ## Version 0.7.1
 - Fixed playlist importing not working
 - Added feedback when playlists are imported
