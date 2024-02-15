@@ -1,3 +1,6 @@
+## Version 0.9.50
+- Fixed multi image support issue
+
 ## Version 0.9.49
 - Better handling in the event that no quests are present
 - Fixed maps with special symbols in the names not working correctly
