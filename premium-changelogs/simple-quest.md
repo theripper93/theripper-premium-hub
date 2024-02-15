@@ -1,3 +1,6 @@
+## Version 0.9.51
+- Fix for scene to map macro
+
 ## Version 0.9.50
 - Fixed multi image support issue
 
