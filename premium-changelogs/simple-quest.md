@@ -1,3 +1,6 @@
+## Version 0.9.52
+- Changed requiremts for a marker movement to count as such to allow for more fine movements
+
 ## Version 0.9.51
 - Fix for scene to map macro
 
