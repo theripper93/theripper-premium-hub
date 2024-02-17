@@ -1,3 +1,7 @@
+## Version 0.9
+- Opening multiple Paper doll window now works correctly
+- Added per-actor setting to toggle auto-open
+
 ## Version 0.8.1
 - added workaround for a5e sysytem which utilizes non standard custom svelte applications
 
