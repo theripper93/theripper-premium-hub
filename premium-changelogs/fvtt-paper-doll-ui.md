@@ -1,3 +1,6 @@
+## Version 0.9.2
+- Added slight delay to auto opening to accomodate to non-standard sheet styles
+
 ## Version 0.9.1
 - Fix for previous update with auto open option not working as intended
 
