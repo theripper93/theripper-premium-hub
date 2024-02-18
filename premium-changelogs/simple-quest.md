@@ -1,3 +1,6 @@
+## Version 0.9.53
+- You can now set a Fog of War image in the Map tab, you can do so in the Image Journal page of the corresponding map
+
 ## Version 0.9.52
 - Changed requiremts for a marker movement to count as such to allow for more fine movements
 
