@@ -1,3 +1,7 @@
+## Version 0.9.55
+- Content links with headers now work correctly
+- Auto scrolling to headers now aligns to the top
+
 ## Version 0.9.54
 - Fixed scene to map macro not bringing over pages
 
