@@ -1,3 +1,9 @@
+## Version 3.9
+- Improvements to grid view and style
+- Fixed issue where the file list could not be the whole size of the filepicker window
+- Right clicking the sidebar picker button will open a new filepicker
+- Filepicker can now be resized vertically
+
 ## Version 3.8.1
 - Fixed filepicker window not minimizing correctly
 
