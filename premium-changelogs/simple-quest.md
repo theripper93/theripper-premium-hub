@@ -1,3 +1,6 @@
+## Version 0.9.54
+- Fixed scene to map macro not bringing over pages
+
 ## Version 0.9.53
 - You can now set a Fog of War image in the Map tab, you can do so in the Image Journal page of the corresponding map
 
