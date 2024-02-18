@@ -1,3 +1,6 @@
+## Version 0.9.1
+- Fix for previous update with auto open option not working as intended
+
 ## Version 0.9
 - Opening multiple Paper doll window now works correctly
 - Added per-actor setting to toggle auto-open
