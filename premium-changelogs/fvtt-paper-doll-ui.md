@@ -1,3 +1,6 @@
+## Version 0.9.3
+- Fix keybinding precedence
+
 ## Version 0.9.2
 - Added slight delay to auto opening to accomodate to non-standard sheet styles
 
