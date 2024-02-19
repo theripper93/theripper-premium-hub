@@ -1,3 +1,6 @@
+## Version 0.9.56
+- Fixed keybinding priority
+
 ## Version 0.9.55
 - Content links with headers now work correctly
 - Auto scrolling to headers now aligns to the top
