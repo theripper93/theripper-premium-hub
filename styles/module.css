@@ -35,7 +35,7 @@
     }
 }
 
-.dnd5e2.sheet.actor.character .sheet-body .main-content {
+.dnd5e2.sheet.actor.character .sheet-body .main-content, .sheet.journal-entry.dnd5e2-journal .scrollable {
     scrollbar-width: inherit;
     scrollbar-color: inherit;
 }
