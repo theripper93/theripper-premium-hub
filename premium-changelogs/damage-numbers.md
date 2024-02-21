@@ -1,3 +1,7 @@
+## Version 3.0.0
+- Rewritten to use the new Core dnd5e damage application workflow
+- Note that DND5e currently does not apply damage by type correctly so this is a pre-update for when that feature is added to core dnd5e
+
 ## Version 2.4.1
 - Fixed "Override Core Bouncing Text" not working when it was not called on a token
 
