@@ -1,3 +1,6 @@
+## Version 3.2.0
+- If an epic roll is set to allow rerolls, the epic roll will not end automatically, a button will instead appear to complete the epic roll
+
 ## Version 3.1.1
 - Fixed Success condition requiring everyone to succeed instead of half when not using average
 - Fixed show DC not showing dc
