@@ -1,3 +1,6 @@
+## Version 0.9.57
+- Fixed journal templates with no image not working correctly
+
 ## Version 0.9.56
 - Fixed keybinding priority
 
