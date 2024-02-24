@@ -1,3 +1,6 @@
+## Version 2.6.0
+- Added header button to display in-progress crafting
+
 ## Version 2.5.5
 - Fixed issue when loading items from compendiums under certain circumstances
 
