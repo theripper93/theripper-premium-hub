@@ -1,3 +1,6 @@
+## Version 0.9.58
+- Added support for image type pages
+
 ## Version 0.9.57
 - Fixed journal templates with no image not working correctly
 
