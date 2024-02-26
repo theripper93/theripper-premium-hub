@@ -1,3 +1,6 @@
+## Version 1.5.2
+- Fixed issue that prevented sounds to be dragged into new block under certain circumstances
+
 ## Version 1.5.1
 - Added better exception handling for missing sounds
 
