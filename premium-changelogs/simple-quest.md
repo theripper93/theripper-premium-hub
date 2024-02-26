@@ -1,3 +1,6 @@
+## Version 0.9.60
+- Added image page support for map modals
+
 ## Version 0.9.59
 - Added video support for markers
 
