@@ -37,6 +37,14 @@ Hooks.on("init", () => {
         type: Array,
         default: [],
     });
+
+    game.settings.register("theripper-premium-hub", "lastGitCheck", {
+        scope: "client",
+        config: false,
+        type: Number,
+        default: 0,
+    });
+    
     const prevEnabledModules = game.settings.get("theripper-premium-hub", "prevEnabledModules");
   async function reEnableModules() {
         if (game.user.isGM && prevEnabledModules.length > 0) {

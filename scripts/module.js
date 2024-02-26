@@ -184,6 +184,7 @@ class TheRipperPremiumHUB {
     }
 
     async getAllReleasesFromGitHub(owner, repo, isPremium, module) {
+        const lastGitRequestTimestamp = game.settings.get("theripper-premium-hub", "lastGitCheck") ?? 0;
         if (isPremium) {
             const changelogURL = `https://raw.githubusercontent.com/theripper93/theripper-premium-hub/master/premium-changelogs/${repo}.md`;
             try {
@@ -210,6 +211,10 @@ class TheRipperPremiumHUB {
                 return null;
             }
         } else {
+            if ((Date.now() - lastGitRequestTimestamp) < 3600000) {
+                game.settings.set("theripper-premium-hub", "lastGitCheck", Date.now());
+                return null;
+            }
             const releasesPerPage = 10; // Maximum allowed by GitHub API
             const apiUrl = `https://api.github.com/repos/${owner}/${repo}/releases?per_page=${releasesPerPage}`;
 
