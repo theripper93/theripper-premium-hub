@@ -1,3 +1,7 @@
+## Version 3.10
+- Added image\video size to preview tooltips
+- Video previews are now sized correctly
+
 ## Version 3.9
 - Added image dimensions to preview tooltips
 - Better video tooltip sizing
