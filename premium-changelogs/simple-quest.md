@@ -1,3 +1,6 @@
+## Version 0.9.59
+- Added video support for markers
+
 ## Version 0.9.58
 - Added support for image type pages
 
