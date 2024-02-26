@@ -1,3 +1,6 @@
+## Version 0.9.61
+- Fixed custom tab names that were mistakenly set as a client setting instead of a world setting
+
 ## Version 0.9.60
 - Added image page support for map modals
 
