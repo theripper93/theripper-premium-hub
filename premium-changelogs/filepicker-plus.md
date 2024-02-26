@@ -3,10 +3,6 @@
 - Video previews are now sized correctly
 
 ## Version 3.9
-- Added image dimensions to preview tooltips
-- Better video tooltip sizing
-
-## Version 3.9
 - Improvements to grid view and style
 - Fixed issue where the file list could not be the whole size of the filepicker window
 - Right clicking the sidebar picker button will open a new filepicker
