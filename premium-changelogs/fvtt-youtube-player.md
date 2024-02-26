@@ -1,3 +1,6 @@
+## Version 0.8.1
+- Fixed search list height beeing squished if no video is playing
+
 ## Version 0.8
 - Fixed paused status not beein restored on first load
 - Changing volume of the video from the youtube player will also change the global playlist volume (and vice versa)
