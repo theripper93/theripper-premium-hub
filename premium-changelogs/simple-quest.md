@@ -1,3 +1,6 @@
+## Version 0.9.63
+- Fixed lists not displayed correctly in party\personal journals
+
 ## Version 0.9.62
 - Fixed font not beeing applied correctly
 
