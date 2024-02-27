@@ -1,3 +1,7 @@
+## Version 5.7.4.2
+- Templates are no longer auto-destroyed after an effect plays to avoid weird interactions
+- Added workaround for warpgate module throwing errors on template placement
+
 ## Version 5.7.4.1
 - Selecting a token will now clear existing range finders
 
