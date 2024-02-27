@@ -1,3 +1,6 @@
+## Version 0.9.62
+- Fixed font not beeing applied correctly
+
 ## Version 0.9.61
 - Fixed custom tab names that were mistakenly set as a client setting instead of a world setting
 
