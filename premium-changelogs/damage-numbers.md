@@ -1,3 +1,6 @@
+## Version 3.0.1
+- Fix for linked tokens not beeing correctly recognized
+
 ## Version 3.0.0
 - Rewritten to use the new Core dnd5e damage application workflow
 - Note that DND5e currently does not apply damage by type correctly so this is a pre-update for when that feature is added to core dnd5e
