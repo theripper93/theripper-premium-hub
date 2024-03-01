@@ -1,3 +1,6 @@
+## Version 5.7.4.3
+- updated next contest timestamp
+
 ## Version 5.7.4.2
 - Templates are no longer auto-destroyed after an effect plays to avoid weird interactions
 - Added workaround for warpgate module throwing errors on template placement
