@@ -1,3 +1,8 @@
+## Version 1.0.0
+- Added max zoom for maps
+- Various smaller bug fixes
+- Added new @TTM enricher
+
 ## Version 0.9.63
 - Fixed lists not displayed correctly in party\personal journals
 
