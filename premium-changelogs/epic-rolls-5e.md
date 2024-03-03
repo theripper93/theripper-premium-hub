@@ -1,3 +1,6 @@
+## Version 3.2.2
+- Fix for hide names which was not actually fixed
+
 ## Version 3.2.1
 - Roll messages now show the actor as the speaker
 - Show dc and hide names now work correctly for players
