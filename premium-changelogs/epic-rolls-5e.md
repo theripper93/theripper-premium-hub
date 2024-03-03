@@ -1,3 +1,7 @@
+## Version 3.2.1
+- Roll messages now show the actor as the speaker
+- Show dc and hide names now work correctly for players
+
 ## Version 3.2.0
 - If an epic roll is set to allow rerolls, the epic roll will not end automatically, a button will instead appear to complete the epic roll
 
