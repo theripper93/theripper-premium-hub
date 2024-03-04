@@ -1,3 +1,6 @@
+## Version 1.0.1
+- Small fixes and improvements to the TTM enricher
+
 ## Version 1.0.0
 - Added max zoom for maps
 - Various smaller bug fixes
