@@ -1,3 +1,6 @@
+## Version 0.4.2
+- small fix for previous release
+
 ## Version 0.4.1
 - improved dark mode contrast do be less harsh
 - improved internal apis
