@@ -1,3 +1,8 @@
+## Version 0.4.1
+- improved dark mode contrast do be less harsh
+- improved internal apis
+- settings search now includes menus
+
 ## Version 0.4.0
 - Improved transparency effects
 - settings can now be toggled directly from the search
