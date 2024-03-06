@@ -1,3 +1,6 @@
+## Version 2.6.1
+- Added CN translation
+
 ## Version 2.6.0
 - Added header button to display in-progress crafting
 
