@@ -1,3 +1,7 @@
+## Version 0.5.0
+- Search results now include items on selected actors
+- added quick light presets
+
 ## Version 0.4.2
 - small fix for previous release
 
