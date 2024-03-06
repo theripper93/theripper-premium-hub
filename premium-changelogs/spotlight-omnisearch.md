@@ -1,3 +1,8 @@
+## Version 0.4.0
+- Improved transparency effects
+- settings can now be toggled directly from the search
+- added setting to disable click to dismissi behaviour (default off)
+
 ## Version 0.3.4
 - Added compendium configuration where you can select which compendiums are shown
 - Added keybindings 
