@@ -1,3 +1,7 @@
+## Version 1.0.2
+- Fixed issue with files with spaces in the TTM enricher
+- Added CN translation
+
 ## Version 1.0.1
 - Small fixes and improvements to the TTM enricher
 
