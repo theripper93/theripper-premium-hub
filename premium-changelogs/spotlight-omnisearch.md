@@ -1,3 +1,6 @@
+## Version 0.3.1
+- Fixed some minor issues and reorganized internal apis
+
 ## Version 0.3
 - Added ! filters
 - Bugfixes
