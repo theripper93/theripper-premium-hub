@@ -1,3 +1,6 @@
+## Version 2.3.1
+- added CN translation
+
 ## Version 2.3
 - Fixed resource path for harvesting creatures not working correctly
 
