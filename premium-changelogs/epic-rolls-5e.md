@@ -1,3 +1,6 @@
+## Version 3.2.4
+- added CN translation
+
 ## Version 3.2.3
 - Internal api changes to preselect adv\dis
 
