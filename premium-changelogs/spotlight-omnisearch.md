@@ -1,3 +1,7 @@
+## Version 0.3.4
+- Added compendium configuration where you can select which compendiums are shown
+- Added keybindings 
+
 ## Version 0.3.3
 - Added Status effects and status effects from the DfredsCE module to the search
 - Clicking outside the spotlight will close the spotlight
