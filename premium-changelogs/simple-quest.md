@@ -1,3 +1,6 @@
+## Version 1.0.4
+- Fixed issue with some images not loading in TTM enricher
+
 ## Version 1.0.3
 - small hotfix for possible interface locking up
 
