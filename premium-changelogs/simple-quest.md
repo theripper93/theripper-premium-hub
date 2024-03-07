@@ -1,3 +1,6 @@
+## Version 1.0.5
+- Videos in TTM now loop as intended
+
 ## Version 1.0.4
 - Fixed issue with some images not loading in TTM enricher
 
