@@ -1,3 +1,6 @@
+## Version 5.7.4.4
+- Improved error handling for animation functions
+
 ## Version 5.7.4.3
 - updated next contest timestamp
 
