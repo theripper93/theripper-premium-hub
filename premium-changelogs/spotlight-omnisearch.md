@@ -1,3 +1,6 @@
+## Version 0.5.2
+- fixed wrong versionj
+
 ## Version 0.5.1
 - Categories\types are now showin in results
 - Improved visual representation of filters
