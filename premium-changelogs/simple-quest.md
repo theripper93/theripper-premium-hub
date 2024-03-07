@@ -1,3 +1,6 @@
+## Version 1.0.3
+- small hotfix for possible interface locking up
+
 ## Version 1.0.2
 - Fixed issue with files with spaces in the TTM enricher
 - Added CN translation
