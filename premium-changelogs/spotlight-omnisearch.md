@@ -1,3 +1,6 @@
+## Version 0.5.3
+- Improved error handling
+
 ## Version 0.5.2
 - fixed wrong versionj
 
