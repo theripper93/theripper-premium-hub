@@ -1,3 +1,6 @@
+## Version 0.5.1
+- Fixed bug causing unecessary calculations beeing performed
+
 ## Version 0.5.0
 - Search results now include items on selected actors
 - added quick light presets
