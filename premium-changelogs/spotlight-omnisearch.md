@@ -1,4 +1,13 @@
 ## Version 0.5.1
+- Categories\types are now showin in results
+- Improved visual representation of filters
+- Light\Dark mode now changes dynamically
+- Filters are now displayed in the help screen
+- updated first open of the interface to display help screen
+- revamp folder display
+- previous search can now be saved for when you reopen the spotlight
+
+## Version 0.5.1
 - Fixed bug causing unecessary calculations beeing performed
 
 ## Version 0.5.0
