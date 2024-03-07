@@ -1,3 +1,6 @@
+## Version 1.0.6
+- Fix for TOC links 
+
 ## Version 1.0.5
 - Videos in TTM now loop as intended
 
