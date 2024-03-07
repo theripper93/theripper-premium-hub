@@ -1,3 +1,8 @@
+## Version 0.5.4
+- Added item piles integration
+- Removed leftover code that was causing issues
+- Having a filter with no search terms will still yield results
+
 ## Version 0.5.3
 - Improved error handling
 
