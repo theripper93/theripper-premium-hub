@@ -1,4 +1,7 @@
 ## Version 0.6.0
+
+
+## Version 0.6.0
 - Added new success\fail tracker
 - Added new counter
 
