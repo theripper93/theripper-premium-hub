@@ -1,3 +1,7 @@
+## Version 0.7.1
+- Added splatter integration - kill, restore, heal, damage commands
+- Fixed pages not dropping the correct UUIDs
+
 ## Version 0.7.0
 - Added weather effects to search
 - Added unit converter
