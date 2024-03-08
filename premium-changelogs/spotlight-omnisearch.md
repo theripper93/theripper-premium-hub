@@ -1,3 +1,6 @@
+## Version 0.5.5
+- fix for mastercrafted integratin
+
 ## Version 0.5.4
 - Added item piles integration
 - Removed leftover code that was causing issues
