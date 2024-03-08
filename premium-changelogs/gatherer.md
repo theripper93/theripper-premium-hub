@@ -1,3 +1,6 @@
+## Version 2.3.2
+- updated for new better rolltables version
+
 ## Version 2.3.1
 - added CN translation
 
