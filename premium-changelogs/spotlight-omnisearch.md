@@ -1,3 +1,8 @@
+## Version 0.7.0
+- Added weather effects to search
+- Added unit converter
+- improved sorting of search results
+
 ## Version 0.6.0
 
 
