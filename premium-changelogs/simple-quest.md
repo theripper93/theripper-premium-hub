@@ -1,3 +1,6 @@
+## Version 1.1.2
+- Reverted latest breaking change as it had too many implications compared to the benefits
+
 ## Version 1.1.1
 - Added localization for the default journals as well
 
