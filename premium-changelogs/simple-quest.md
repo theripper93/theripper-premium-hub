@@ -1,3 +1,7 @@
+## Version 1.1.0
+- BREAKING: Default names for quests forlder\lore\party are now localized, if you were using the module in a non-english language and didn't change these defaults, you might have to tweak them in the settings!
+- Party Journal now automatically updates if new players are added to the game and will still be created during initialization if you already had a Quests folder
+
 ## Version 1.0.6
 - Fix for TOC links 
 
