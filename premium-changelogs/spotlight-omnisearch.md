@@ -1,3 +1,7 @@
+## Version 0.6.0
+- Added new success\fail tracker
+- Added new counter
+
 ## Version 0.5.5
 - fix for mastercrafted integratin
 
