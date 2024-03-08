@@ -1,3 +1,6 @@
+## Version 1.1.3
+- party journal is now created correctly in the event that it's missing
+
 ## Version 1.1.2
 - Reverted latest breaking change as it had too many implications compared to the benefits
 
