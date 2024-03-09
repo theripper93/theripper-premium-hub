@@ -1,3 +1,7 @@
+## Version 0.7.3
+- new Compact Mode
+- Added attribute search, just search @ to start
+
 ## Version 0.7.2
 - Fixed calculator
 - Added setting for quick light setting metric units
