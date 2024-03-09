@@ -1,3 +1,9 @@
+## Version 0.7.2
+- Fixed calculator
+- Added setting for quick light setting metric units
+- Image pages now have the "Show Players" action
+- Added setting tu turn off hardcoded ctrl+space shortcut
+
 ## Version 0.7.1
 - Added splatter integration - kill, restore, heal, damage commands
 - Fixed pages not dropping the correct UUIDs
