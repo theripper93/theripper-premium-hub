@@ -1,3 +1,6 @@
+## Version 3.2.5
+- impreved apis
+
 ## Version 3.2.4
 - added CN translation
 
