@@ -1,3 +1,6 @@
+## Version 3.8.6
+- Added omnisearch integration
+
 ## Version 3.8.5
 - Added check to auto "undock" smalltime from the player list if taskbar is interacting with smalltime or the player list
 
