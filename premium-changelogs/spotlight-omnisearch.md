@@ -1,3 +1,6 @@
+## Version 0.7.5
+- Fixed critical search bug regarding filters
+
 ## Version 0.7.4
 - Fixed issues with counter and timer applets
 - Added support for full width numbers
