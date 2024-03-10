@@ -1,3 +1,6 @@
+## Version 0.7.6
+- Added taskbar integration
+
 ## Version 0.7.5
 - Fixed critical search bug regarding filters
 
