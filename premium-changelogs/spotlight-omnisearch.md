@@ -1,3 +1,7 @@
+## Version 0.7.4
+- Fixed issues with counter and timer applets
+- Added support for full width numbers
+
 ## Version 0.7.3
 - new Compact Mode
 - Added attribute search, just search @ to start
