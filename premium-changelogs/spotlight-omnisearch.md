@@ -1,3 +1,7 @@
+## Version 0.7.7
+- Fixed setting search not working correctly
+- Added filter an search suggestions
+
 ## Version 0.7.6
 - Added taskbar integration
 
