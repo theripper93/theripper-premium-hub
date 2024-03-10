@@ -1,3 +1,6 @@
+## Version 5.7.4.5
+- Fix for mass edit incomatibility which prevented light and template creation
+
 ## Version 5.7.4.4
 - Improved error handling for animation functions
 
