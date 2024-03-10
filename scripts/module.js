@@ -157,6 +157,7 @@ class TheRipperPremiumHUB {
             });
         });
         obj.announcements = announcements.announcements;
+        game.settings.set("theripper-premium-hub", "lastGitCheck", Date.now());
         return obj;
     }
 
@@ -212,7 +213,6 @@ class TheRipperPremiumHUB {
             }
         } else {
             if ((Date.now() - lastGitRequestTimestamp) < 3600000) {
-                game.settings.set("theripper-premium-hub", "lastGitCheck", Date.now());
                 return null;
             }
             const releasesPerPage = 10; // Maximum allowed by GitHub API
