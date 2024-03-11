@@ -1,3 +1,8 @@
+## Version 0.8.0
+- Timer will now send a GM notification to chat when it ends
+- World compendiums now show in the configure compendium window
+- Reduced widget refreshing to keep cursor focus
+
 ## Version 0.7.9
 - Fix for taskbar integration
 - fix for timer suggestion text
