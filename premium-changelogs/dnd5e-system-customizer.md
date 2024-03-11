@@ -1,3 +1,6 @@
+## Version 2.0.5
+- More fixes to the Json editor
+
 ## Version 2.0.4
 - Fixes to json customizer resetting if saved multiple times without refreshing
 
