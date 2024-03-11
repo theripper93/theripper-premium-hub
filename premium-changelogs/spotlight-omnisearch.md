@@ -1,3 +1,8 @@
+## Version 0.8.1
+- Fixed issue with filters not refreshing correctly on Index reload
+- Added filters\types of system specific document types
+- Improved functionality of sounds searched via the dig down file index, you can now click a sound to preview, use the "play for everyone" action and drag and drop it into a playlist or onto the scene
+
 ## Version 0.8.0
 - Timer will now send a GM notification to chat when it ends
 - World compendiums now show in the configure compendium window
