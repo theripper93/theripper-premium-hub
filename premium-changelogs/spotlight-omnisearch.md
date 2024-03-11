@@ -1,3 +1,6 @@
+## Version 0.7.8
+- update to the journal TOC\Page search algorithm
+
 ## Version 0.7.7
 - Fixed setting search not working correctly
 - Added filter an search suggestions
