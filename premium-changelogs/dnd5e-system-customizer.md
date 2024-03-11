@@ -1,3 +1,6 @@
+## Version 2.0.6
+- Added confirmation dialog to customization reset button
+
 ## Version 2.0.5
 - More fixes to the Json editor
 
