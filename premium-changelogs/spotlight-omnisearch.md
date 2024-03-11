@@ -1,3 +1,6 @@
+## Version 0.8.2
+- Fixed typo in api
+
 ## Version 0.8.1
 - Fixed issue with filters not refreshing correctly on Index reload
 - Added filters\types of system specific document types
