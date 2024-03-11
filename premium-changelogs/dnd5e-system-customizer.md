@@ -1,3 +1,6 @@
+## Version 2.0.7
+- Fixed import
+
 ## Version 2.0.6
 - Added confirmation dialog to customization reset button
 
