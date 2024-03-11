@@ -1,3 +1,7 @@
+## Version 0.7.9
+- Fix for taskbar integration
+- fix for timer suggestion text
+
 ## Version 0.7.8
 - update to the journal TOC\Page search algorithm
 
