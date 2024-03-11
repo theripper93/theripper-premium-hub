@@ -1,3 +1,6 @@
+## Version 2.0.4
+- Fixes to json customizer resetting if saved multiple times without refreshing
+
 ## Version 2.0.3
 - Made small change to potentially improve compatibility with other modules interacting with configuration files
 
