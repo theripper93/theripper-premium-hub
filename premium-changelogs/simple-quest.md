@@ -1,3 +1,6 @@
+## Version 1.1.4
+
+
 ## Version 1.1.3
 - Category quest count should now take into consideration the "use journal permission" setting correctly
 
