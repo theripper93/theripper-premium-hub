@@ -1,4 +1,7 @@
 ## Version 1.1.3
+- Category quest count should now take into consideration the "use journal permission" setting correctly
+
+## Version 1.1.3
 - party journal is now created correctly in the event that it's missing
 
 ## Version 1.1.2
