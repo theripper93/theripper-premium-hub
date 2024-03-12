@@ -1,3 +1,6 @@
+## Version 0.8.4
+- Fixed actions wrapping issue
+
 ## Version 0.8.3
 - Fixed layout issues with inline buttons
 - You can now navigate buttons with arrow keys
