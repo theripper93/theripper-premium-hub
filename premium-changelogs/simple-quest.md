@@ -1,3 +1,7 @@
+## Version 1.1.5
+- TTM remote urls will now work as long as the https:// part is removed from the link
+- same-name headers will can now be navigated to
+
 ## Version 1.1.4
 
 
