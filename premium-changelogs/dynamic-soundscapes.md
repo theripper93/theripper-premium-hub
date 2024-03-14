@@ -1,3 +1,6 @@
+## Version 1.5.3
+- Fixed Day\Night condition not working correctly with long darkness transitions
+
 ## Version 1.5.2
 - Fixed issue that prevented sounds to be dragged into new block under certain circumstances
 
