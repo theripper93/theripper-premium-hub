@@ -1,3 +1,7 @@
+## Version 1.2.0
+- Party and Shared journal now have a multi-journal structure akin to the Lore tab. This is a big update- make sure all the data was migrated successfully!
+- Refactored a lot of code to allow for the new party\personal journal tabs, do not update right before a session
+
 ## Version 1.1.5
 - TTM remote urls will now work as long as the https:// part is removed from the link
 - same-name headers will can now be navigated to
