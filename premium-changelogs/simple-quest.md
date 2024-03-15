@@ -1,3 +1,8 @@
+## Version 1.2.1
+- Move To which was not working after last update is now fixed
+- Dropping headers onto the Map or onto the Marker config will now correctly add headers to the UUID, The modals will also correctly open onto the specified anchor
+- The new player folder journals structure no longer requires a second reload on first initialization
+
 ## Version 1.2.0
 - Party and Shared journal now have a multi-journal structure akin to the Lore tab. This is a big update- make sure all the data was migrated successfully!
 - Refactored a lot of code to allow for the new party\personal journal tabs, do not update right before a session
