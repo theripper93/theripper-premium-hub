@@ -1,3 +1,9 @@
+## Version 1.3.4
+- Fixed issues with eras added not at the end
+- improved era data validation
+- descriptions can now be collapsed
+- Minus sign can now be preserved on negative years when abbreviations are present
+
 ## Version 1.3.2
 - Added better data validation for timeline
 - Adjusted some styles for better layout
