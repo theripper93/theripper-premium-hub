@@ -1,3 +1,9 @@
+## Version 1.3.2
+- Added better data validation for timeline
+- Adjusted some styles for better layout
+- Contents of events\eras now have a maximum height
+- Added new Dynamic Scale option
+
 ## Version 1.3.1
 - Fixed pages uuid links from compendiums not working
 - Timeline Updates:
