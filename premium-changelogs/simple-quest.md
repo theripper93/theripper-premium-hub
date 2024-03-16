@@ -1,3 +1,18 @@
+## Version 1.3.1
+- Fixed pages uuid links from compendiums not working
+- Timeline Updates:
+- Events can now be hidden
+- Cleaned up what is shown to players
+- Added custom scrollbar for better navigation
+- Addedd events dots and (optionally) icons
+- Improved left bar navigation
+- Improved clarity on configuration screen
+- Editing an event is now done using the top right cog icon
+- Added time scale setting
+- Events now have an era label which can be clicked to jump up to the era
+- better error handling that could crash the timeline
+- Events\Eras can now be edited also by right clicking left navigation entries in case something goes wrong
+
 ## Version 1.3.0
 - Headers within secrets will no longer show in the lore tab table of contents
 - new Timeline feature (beta)
