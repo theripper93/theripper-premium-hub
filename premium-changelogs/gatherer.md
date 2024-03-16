@@ -1,3 +1,6 @@
+## Version 2.3.3
+- Fixed issue with image path with special characters not showing
+
 ## Version 2.3.2
 - updated for new better rolltables version
 
