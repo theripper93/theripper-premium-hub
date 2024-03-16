@@ -1,3 +1,7 @@
+## Version 1.3.0
+- Headers within secrets will no longer show in the lore tab table of contents
+- new Timeline feature (beta)
+
 ## Version 1.2.1
 - Move To which was not working after last update is now fixed
 - Dropping headers onto the Map or onto the Marker config will now correctly add headers to the UUID, The modals will also correctly open onto the specified anchor
