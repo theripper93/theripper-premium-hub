@@ -1,3 +1,6 @@
+## Version 2.6.3
+- More number parsing
+
 ## Version 2.6.2
 - Added number parsing for tagged items
 
