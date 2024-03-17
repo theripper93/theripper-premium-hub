@@ -1,3 +1,9 @@
+## Version 1.3.5
+- Fixed some issues with timeline data validation
+- Added new option to flip an event for space management
+- Added offset option to events to manually offset the position of an event
+- Improved configuration screen
+
 ## Version 1.3.4
 - Fixed issues with eras added not at the end
 - improved era data validation
