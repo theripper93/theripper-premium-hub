@@ -1,3 +1,9 @@
+## Version 1.3.6
+- Added duration to timeline events
+- Changed "-" year separator to "to" to avoid confusion with negative years
+- Timeline is no longer BETA
+- Added Timeline Tab Tour
+
 ## Version 1.3.5
 - Fixed some issues with timeline data validation
 - Added new option to flip an event for space management
