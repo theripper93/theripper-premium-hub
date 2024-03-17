@@ -1,3 +1,6 @@
+## Version 2.6.2
+- Added number parsing for tagged items
+
 ## Version 2.6.1
 - Added CN translation
 
