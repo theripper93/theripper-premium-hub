@@ -1,3 +1,6 @@
+## Version 1.3.8
+- Added new Label field for Timeline which can be used to add arbitrary information (such as an exact Date)
+
 ## Version 1.3.7
 - Quests are now correctly indented based on the page level
 
