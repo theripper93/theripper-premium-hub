@@ -1,3 +1,6 @@
+## Version 1.3.7
+- Quests are now correctly indented based on the page level
+
 ## Version 1.3.6
 - Added duration to timeline events
 - Changed "-" year separator to "to" to avoid confusion with negative years
