@@ -1,3 +1,6 @@
+## Version 3.8.7
+- Workspaces will now save Compendiums as well
+
 ## Version 3.8.6
 - Added omnisearch integration
 
