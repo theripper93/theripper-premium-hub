@@ -1,3 +1,6 @@
+## Version 3.0
+- New Quick movement feature, press M to automatically move to the hovered position in the next free space availeble
+
 ## Version 2.8
 - Added setting to configure how vertical distance behaves
 
