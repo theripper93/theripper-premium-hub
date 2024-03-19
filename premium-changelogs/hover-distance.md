@@ -1,3 +1,6 @@
+## Version 3.1
+- Fixed accidental 3D Canvas dependecy for the new Quick Move feature
+
 ## Version 3.0
 - New Quick movement feature, press M to automatically move to the hovered position in the next free space availeble
 
