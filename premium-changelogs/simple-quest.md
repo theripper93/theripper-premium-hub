@@ -1,3 +1,7 @@
+## Version 1.3.9
+- Fixed lists not beeing correctly displayed in Personal\Shared journals
+- Added checkbox to ignore data validation in timelines in the event that you need to reorganize Eras after the fact
+
 ## Version 1.3.8
 - Added new Label field for Timeline which can be used to add arbitrary information (such as an exact Date)
 
