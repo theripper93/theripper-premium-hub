@@ -1,3 +1,8 @@
+## Version 3.2
+- Added more meaningful warnings if the quick movement fails
+- Better point selection algorithm
+- Movement is now prevented if the game is paused
+
 ## Version 3.1
 - Fixed accidental 3D Canvas dependecy for the new Quick Move feature
 
