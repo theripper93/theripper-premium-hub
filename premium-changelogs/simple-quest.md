@@ -1,3 +1,6 @@
+## Version 1.4.0
+- Added toggle to hide completed quests
+
 ## Version 1.3.9
 - Fixed lists not beeing correctly displayed in Personal\Shared journals
 - Added checkbox to ignore data validation in timelines in the event that you need to reorganize Eras after the fact
