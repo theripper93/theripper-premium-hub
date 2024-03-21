@@ -1,3 +1,6 @@
+## Version 3.3
+- fixed issue with 3d canvas
+
 ## Version 3.2
 - Added more meaningful warnings if the quick movement fails
 - Better point selection algorithm
