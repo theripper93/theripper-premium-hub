@@ -1,3 +1,8 @@
+## Version 1.4.1
+- Reduced padding in the Map section to have more space for the map
+- Quest and journals tabs can now be disabled
+- Mask image for image pages can now be globally removed or customized
+
 ## Version 1.4.0
 - Added toggle to hide completed quests
 
