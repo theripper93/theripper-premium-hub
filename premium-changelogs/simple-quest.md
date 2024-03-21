@@ -1,3 +1,6 @@
+## Version 1.5.0
+- Simple Quest now includes a mindmap and charting library (Mermaid) - See the wiki for links on how to use the system!
+
 ## Version 1.4.1
 - Reduced padding in the Map section to have more space for the map
 - Quest and journals tabs can now be disabled
