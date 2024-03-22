@@ -1,3 +1,6 @@
+## Version 3.0.2
+- Fix for double numbers under certain conditions
+
 ## Version 3.0.1
 - Fix for linked tokens not beeing correctly recognized
 
