@@ -1,4 +1,15 @@
 Hooks.on("init", () => {
+
+    game.settings.register("theripper-premium-hub", "cleanHeaderButtons", {
+        name: "Clean Header Buttons",
+        hint: "Remove text from header buttons to make them cleaner. If you use a lot of my modules, you might end up with a lot of buttons in window headers, this option removes the text from them.",
+        scope: "world",
+        config: true,
+        type: Boolean,
+        default: false,
+    });
+
+
     game.settings.register("theripper-premium-hub", "autoCheck", {
         name: "Check for Updates on Startup",
         hint: "Automatically check on world load if any of my premium modules have updates.",
