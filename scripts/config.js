@@ -2,7 +2,7 @@ Hooks.on("init", () => {
 
     game.settings.register("theripper-premium-hub", "cleanHeaderButtons", {
         name: "Clean Header Buttons",
-        hint: "Remove text from header buttons to make them cleaner. If you use a lot of my modules, you might end up with a lot of buttons in window headers, this option removes the text from them.",
+        hint: "Remove text from header buttons to make them cleaner. If you use a lot of my modules, you might end up with a lot of buttons in window headers, this option removes the text from them. (Requires LibWrapper)",
         scope: "world",
         config: true,
         type: Boolean,
