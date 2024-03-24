@@ -1,3 +1,6 @@
+## Version 1.2
+- Party dock now mirrors player to player visibility from Carousel Combat Tracker
+
 ## Version 1.1
 - Updated translations
 - Added `Mount` Context menu button when Ridable integration is enabled
