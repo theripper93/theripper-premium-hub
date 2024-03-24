@@ -1,3 +1,6 @@
+## Version 3.4
+- Fixed issue with distance calculation due to a new setting
+
 ## Version 3.3
 - fixed issue with 3d canvas
 
