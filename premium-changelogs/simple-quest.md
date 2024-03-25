@@ -1,3 +1,6 @@
+## Version 1.5.5
+- Font awesome icons will be autocompleted if the FA syntax is missing
+
 ## Version 1.5.4
 - Reputation enricher now supports font awesome icons
 
