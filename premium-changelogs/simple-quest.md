@@ -1,3 +1,6 @@
+## Version 1.5.4
+- Reputation enricher now supports font awesome icons
+
 ## Version 1.5.3
 - More style fixes (whops)
 
