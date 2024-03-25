@@ -1,3 +1,6 @@
+## Version 1.5.2
+- Fix to the new faction styles to make them scale based on font size
+
 ## Version 1.5.1
 - Mermaid graphs now match your chosen theme
 - Added new @REPUTATION enricher - which is basically a fancy @COUNT enricher
