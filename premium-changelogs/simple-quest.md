@@ -1,3 +1,7 @@
+## Version 1.5.1
+- Mermaid graphs now match your chosen theme
+- Added new @REPUTATION enricher - which is basically a fancy @COUNT enricher
+
 ## Version 1.5.0
 - Simple Quest now includes a mindmap and charting library (Mermaid) - See the wiki for links on how to use the system!
 
