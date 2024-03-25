@@ -1,3 +1,6 @@
+## Version 1.5.3
+- More style fixes (whops)
+
 ## Version 1.5.2
 - Fix to the new faction styles to make them scale based on font size
 
