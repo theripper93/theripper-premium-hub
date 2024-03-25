@@ -1,7 +1,4 @@
 Hooks.on("ready", async () => {
-    if (!game.user.isGM) return;
-    game.theripperpremiumhub = new TheRipperPremiumHUB();
-
     if (game.settings.get("theripper-premium-hub", "cleanHeaderButtons")) {
         libWrapper.register("theripper-premium-hub", "Application.prototype._renderOuter", async function (wrapped, ...args) {
             const html = await wrapped(...args);
@@ -20,4 +17,7 @@ Hooks.on("ready", async () => {
             return html;
         });
     }
+
+    if (!game.user.isGM) return;
+    game.theripperpremiumhub = new TheRipperPremiumHUB();
 });
