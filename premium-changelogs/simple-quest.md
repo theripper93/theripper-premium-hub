@@ -1,3 +1,6 @@
+## Version 1.5.7
+- Reputation can now be displayed as a bar
+
 ## Version 1.5.6
 - Reputation enricher now supports a range instead of just a max value
 
