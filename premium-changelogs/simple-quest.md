@@ -1,3 +1,6 @@
+## Version 1.5.6
+- Reputation enricher now supports a range instead of just a max value
+
 ## Version 1.5.5
 - Font awesome icons will be autocompleted if the FA syntax is missing
 
