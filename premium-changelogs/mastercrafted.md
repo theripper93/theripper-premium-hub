@@ -1,3 +1,6 @@
+## Version 2.6.4
+- Arguments can now be passed to the the condition macro
+
 ## Version 2.6.3
 - More number parsing
 
