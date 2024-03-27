@@ -1,3 +1,7 @@
+## Version 1.5.8
+- Fixed scroll position persistence in some tabs
+- Fixed styling issues in Bar type reputation for improved text contrast
+
 ## Version 1.5.7
 - Reputation can now be displayed as a bar
 
