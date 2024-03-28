@@ -1,3 +1,6 @@
+## Version 2.3.4
+- updated tool check logic
+
 ## Version 2.3.3
 - Fixed issue with image path with special characters not showing
 
