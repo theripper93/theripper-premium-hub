@@ -1,3 +1,6 @@
+## Version 1.3
+- Changed styling so that the party hud will no longer push the UI upwards if the scene controls are overflowing. The tradeoff is that if you have companions, the top navigation and macro will be pushed to the right
+
 ## Version 1.2
 - Party dock now mirrors player to player visibility from Carousel Combat Tracker
 
