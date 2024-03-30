@@ -1,3 +1,6 @@
+## Version 1.5.4
+- Better multi gm support
+
 ## Version 1.5.3
 - Fixed Day\Night condition not working correctly with long darkness transitions
 
