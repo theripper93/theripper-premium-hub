@@ -1,3 +1,6 @@
+## Version 1.5.5
+- Added more restiction so that in the event of multiple GMs only the first connected gm has access to dynamic soundscapes
+
 ## Version 1.5.4
 - Better multi gm support
 
