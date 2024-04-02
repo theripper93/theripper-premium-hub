@@ -1,3 +1,7 @@
+## Version 3.2.6
+- Updated pt-br translation
+- Fixed spacing issues
+
 ## Version 3.2.5
 - impreved apis
 
