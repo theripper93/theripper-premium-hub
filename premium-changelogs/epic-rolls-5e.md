@@ -1,3 +1,6 @@
+## Version 3.2.7
+- fixed ptbr translation
+
 ## Version 3.2.6
 - Updated pt-br translation
 - Fixed spacing issues
