@@ -1,3 +1,7 @@
+## Version 0.2.2
+- Fix issue with permission data type
+- Better journal page handling
+
 ## Version 0.2.1
 - Fixed configuration button not present in journals
 
