@@ -1,3 +1,6 @@
+## Version 3.11
+- Fixed button placement issue
+
 ## Version 3.10
 - Added image\video size to preview tooltips
 - Video previews are now sized correctly
