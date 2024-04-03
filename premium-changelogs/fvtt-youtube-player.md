@@ -1,3 +1,6 @@
+## Version 1.0.0
+- Marking supporter\stable release
+
 ## Version 0.8.1
 - Fixed search list height beeing squished if no video is playing
 
