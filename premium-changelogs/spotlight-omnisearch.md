@@ -1,3 +1,6 @@
+## Version 1.0.1
+- Fix for the full compendium journal indexing
+
 ## Version 1.0.0
 - Added option to index pages\headers in compendium journals
 - If history is disabled, previous history results will no longer be shown
