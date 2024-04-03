@@ -1,3 +1,8 @@
+## Version 0.2.3
+- Removed the notification when opening a locked document as a gm
+- The puzzle locks icon is now RED to indicate when a document is locked
+- If a tile is locked and it's a MATT tile, when triggered it's actions will be prevented and the lock interface will be opened instead
+
 ## Version 0.2.2
 - Fix issue with permission data type
 - Better journal page handling
