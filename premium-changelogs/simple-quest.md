@@ -1,3 +1,6 @@
+## Version 1.5.9
+- Images in quest and lore tabs are now clickable to pop out  in the same way as core journals
+
 ## Version 1.5.8
 - Fixed scroll position persistence in some tabs
 - Fixed styling issues in Bar type reputation for improved text contrast
