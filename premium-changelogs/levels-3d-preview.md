@@ -1,3 +1,6 @@
+## Version 5.7.4.6
+- Fixed table padding depth
+
 ## Version 5.7.4.5
 - Fix for mass edit incomatibility which prevented light and template creation
 
