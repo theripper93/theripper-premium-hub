@@ -1,3 +1,7 @@
+## Version 1.0.0
+- Added option to index pages\headers in compendium journals
+- If history is disabled, previous history results will no longer be shown
+
 ## Version 0.8.4
 - Fixed actions wrapping issue
 
