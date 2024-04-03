@@ -1,3 +1,7 @@
+## Version 0.3.0
+- New Puzzle - Mastermind
+- Added security features to avoid the locking breaking certain document sheets
+
 ## Version 0.2.3
 - Removed the notification when opening a locked document as a gm
 - The puzzle locks icon is now RED to indicate when a document is locked
