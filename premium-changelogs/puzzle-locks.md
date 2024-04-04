@@ -1,3 +1,6 @@
+## Version 0.6.0
+- New puzzle - Melody
+
 ## Version 0.5.0
 - Added fix for core bug that radomly pops up journals
 - Sidebar interface has new configure (gm only) and share to chat buttons
