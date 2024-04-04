@@ -1,3 +1,6 @@
+## Version 0.4.0
+- New puzzle - Fill in the blanks
+
 ## Version 0.3.0
 - New Puzzle - Mastermind
 - Added security features to avoid the locking breaking certain document sheets
