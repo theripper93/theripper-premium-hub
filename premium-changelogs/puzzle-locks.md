@@ -1,3 +1,9 @@
+## Version 0.5.0
+- Added fix for core bug that radomly pops up journals
+- Sidebar interface has new configure (gm only) and share to chat buttons
+- Configuration screen will now show a warning if the permissions on the document are not set to none
+- New puzzle: Mosaic
+
 ## Version 0.4.0
 - New puzzle - Fill in the blanks
 
