@@ -1,3 +1,6 @@
+## Version 0.7.1
+- new puzzle Pawns and Stars
+
 ## Version 0.7.0
 - New Puzzle - Sliding Tiles
 
