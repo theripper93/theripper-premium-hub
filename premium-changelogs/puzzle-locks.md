@@ -1,3 +1,6 @@
+## Version 0.7.2
+- Added zoom buttons for puzzles - note that the zoom will not work for every puzzle but most of them
+
 ## Version 0.7.1
 - new puzzle Pawns and Stars
 
