@@ -1,3 +1,6 @@
+## Version 0.8.0
+- New puzzle - Word/Image match
+
 ## Version 0.7.2
 - Added zoom buttons for puzzles - note that the zoom will not work for every puzzle but most of them
 
