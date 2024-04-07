@@ -1,3 +1,6 @@
+## Version 0.8.1
+- Fixed random sukoku cells beeing linked together under certain specific puzzle configurations
+
 ## Version 0.8.0
 - New puzzle - Word/Image match
 
