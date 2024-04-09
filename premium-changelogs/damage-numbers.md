@@ -1,3 +1,6 @@
+## Version 3.0.3
+- Fixed some issues with damage display
+
 ## Version 3.0.2
 - Fix for double numbers under certain conditions
 
