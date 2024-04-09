@@ -1,3 +1,6 @@
+## Version 0.8.2
+- Fix for custom font not working
+
 ## Version 0.8.1
 - Fixed random sukoku cells beeing linked together under certain specific puzzle configurations
 
