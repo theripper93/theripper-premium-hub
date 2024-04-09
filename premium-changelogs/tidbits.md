@@ -1,3 +1,6 @@
+## Version 1.7
+- Tidbits will now parse enrichers
+
 ## Version 1.6
 - updated localizations
 
