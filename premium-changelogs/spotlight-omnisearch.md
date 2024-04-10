@@ -1,4 +1,7 @@
 ## Version 1.0.1
+- fix for dfreds integration
+
+## Version 1.0.1
 - Fix for the full compendium journal indexing
 
 ## Version 1.0.0
