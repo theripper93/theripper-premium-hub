@@ -1,3 +1,6 @@
+## Version 1.0.2
+- fix for dfreds integration
+
 ## Version 1.0.1
 - fix for dfreds integration
 
