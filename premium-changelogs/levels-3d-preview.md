@@ -1,3 +1,6 @@
+## Version 5.7.4.7
+- Fixed template placement for pf2
+
 ## Version 5.7.4.6
 - Fixed table padding depth
 
