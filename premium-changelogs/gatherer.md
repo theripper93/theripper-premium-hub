@@ -1,3 +1,6 @@
+## Version 2.3.5
+- Added setting to configure system item quantity
+
 ## Version 2.3.4
 - updated tool check logic
 
