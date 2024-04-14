@@ -1,3 +1,6 @@
+## Version 5.7.4.8
+- Added puzzle locks compatibility for 3d doors
+
 ## Version 5.7.4.7
 - Fixed template placement for pf2
 
