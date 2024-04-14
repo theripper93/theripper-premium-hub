@@ -1,3 +1,6 @@
+## Version 0.8.3
+- Added 3D Canvas compatibility
+
 ## Version 0.8.2
 - Fix for custom font not working
 
