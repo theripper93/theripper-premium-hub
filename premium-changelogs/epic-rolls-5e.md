@@ -1,3 +1,6 @@
+## Version 3.2.8
+- Added workaround for bug in dsn api to wait for 3d rolls if 3d rolls are disabled on npcs
+
 ## Version 3.2.7
 - fixed ptbr translation
 
