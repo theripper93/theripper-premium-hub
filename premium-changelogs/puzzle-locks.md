@@ -1,3 +1,6 @@
+## Version 0.8.4
+- Fixed wrong chat message beeing displayed when something is unlocked
+
 ## Version 0.8.3
 - Added 3D Canvas compatibility
 
