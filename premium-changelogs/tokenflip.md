@@ -1,3 +1,6 @@
+## Version 1.3
+- Added fallback in the event of a buggy or missing animation
+
 ## Version 1.2
 - Switched animation methods to use core animations for more compatible and smother transitions
 
