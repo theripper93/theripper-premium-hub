@@ -1,3 +1,6 @@
+## Version 1.5.6
+- Activating sounds in a random block which has no sounds enabled while a soundscape is playing now correctly starts the random sound exectution instead of requiring the soundscape to be restarted
+
 ## Version 1.5.5
 - Added more restiction so that in the event of multiple GMs only the first connected gm has access to dynamic soundscapes
 
