@@ -1,3 +1,6 @@
+## Version 1.2
+- Switched animation methods to use core animations for more compatible and smother transitions
+
 ## Version 1.1
 - Added workarounds for Core FVTT bugs regarding prototype tokens which should make the experience of dealing with protos significantly less jank
 
