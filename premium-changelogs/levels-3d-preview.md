@@ -1,3 +1,6 @@
+## Version 5.7.4.9
+- Improved measured template visibility mirroring
+
 ## Version 5.7.4.8
 - Added puzzle locks compatibility for 3d doors
 
