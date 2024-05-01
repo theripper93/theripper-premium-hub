@@ -1,3 +1,6 @@
+## Version 5.7.4.10
+- Fixed shift deselection which was deselecting the wrong tile when multiple tiles were selected
+
 ## Version 5.7.4.9
 - Improved measured template visibility mirroring
 
