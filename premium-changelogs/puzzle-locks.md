@@ -1,3 +1,8 @@
+## Version 1.0.0
+- Supporter release
+- When one users unlocks a puzzle, the puzzle is now closed for every user
+- Added patch for item piles compatibility
+
 ## Version 0.8.4
 - Fixed wrong chat message beeing displayed when something is unlocked
 
