@@ -1,3 +1,6 @@
+## Version 2.3.6
+- Fixed missing quotes in image url preventing files with spaces from working
+
 ## Version 2.3.5
 - Added setting to configure system item quantity
 
