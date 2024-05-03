@@ -1,3 +1,6 @@
+## Version 1.0.1
+- Tweaked layout to accomodate camera sidebar
+
 ## Version 1.0.0
 - Supporter release
 - When one users unlocks a puzzle, the puzzle is now closed for every user
