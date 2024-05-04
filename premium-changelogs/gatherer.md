@@ -1,3 +1,6 @@
+## Version 2.3.7
+- Fixed quotes in image css
+
 ## Version 2.3.6
 - Fixed missing quotes in image url preventing files with spaces from working
 
