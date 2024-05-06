@@ -1,3 +1,6 @@
+## Version 1.0.2
+- Fixed match lock freezing during shuffle under certain configurations
+
 ## Version 1.0.1
 - Tweaked layout to accomodate camera sidebar
 
