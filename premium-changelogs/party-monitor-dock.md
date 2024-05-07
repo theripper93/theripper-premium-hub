@@ -1,3 +1,7 @@
+## Version 1.5
+- New "Raise Hand" feature, right click on an actor card and click the raise hand toggle button to show a bouncy hand on top of the portrait
+- Fixed contenxt menu sometimes immediatelly closing
+
 ## Version 1.4
 - Fixed collapsed status not correctly persisted between scene changes\refresh
 
