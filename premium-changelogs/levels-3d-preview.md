@@ -1,3 +1,6 @@
+## Version 5.7.4.11
+- Templates can now be moved after placement by non-gm users
+
 ## Version 5.7.4.10
 - Fixed shift deselection which was deselecting the wrong tile when multiple tiles were selected
 
