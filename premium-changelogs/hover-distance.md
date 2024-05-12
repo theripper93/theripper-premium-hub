@@ -1,3 +1,6 @@
+## Version 3.6
+- Fix for the previous patch not fixing the background highlight correctly
+
 ## Version 3.5
 - Deleting a token now clears the bakground highlight
 
