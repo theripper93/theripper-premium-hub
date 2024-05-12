@@ -1,3 +1,6 @@
+## Version 3.5
+- Deleting a token now clears the bakground highlight
+
 ## Version 3.4
 - Fixed issue with distance calculation due to a new setting
 
