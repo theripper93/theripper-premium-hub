@@ -1,3 +1,6 @@
+## Version 1.0.3
+- Fixed Puzzle Lock header button not working on Item Piles requiring to access the underlying actor sheet in order to configure it
+
 ## Version 1.0.2
 - Fixed match lock freezing during shuffle under certain configurations
 
