@@ -1,3 +1,6 @@
+## Version 1.0.4
+- Current solution for cryptex puzzle is now correctly reset by the reset button
+
 ## Version 1.0.3
 - Fixed Puzzle Lock header button not working on Item Piles requiring to access the underlying actor sheet in order to configure it
 
