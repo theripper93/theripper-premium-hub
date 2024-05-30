@@ -17,25 +17,3 @@
     content: "\f071";
     color: var(--color-level-warning);
 }
-
-/*CHROME SCROLLBAR FIX*/
-
-* {
-    scrollbar-color: initial;
-}
-
-::-webkit-scrollbar-thumb {
-    border-color: #ff6400;
-}
-
-@-moz-document url-prefix() {
-    * {
-        scrollbar-color: #782e22 #111;
-        scrollbar-width: thin;
-    }
-}
-
-.dnd5e2.sheet.actor.character .sheet-body .main-content, .sheet.journal-entry.dnd5e2-journal .scrollable {
-    scrollbar-width: inherit;
-    scrollbar-color: inherit;
-}
