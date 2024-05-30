@@ -74,7 +74,7 @@ class TheRipperPremiumHUB {
     async getForgeData(moduleId) {
         return await fetch(`https://forge-vtt.com/api/bazaar/package/${moduleId}`)
             .then((response) => response.json())
-            .then((data) => data)
+            .then((data) => data);
     }
 
     getOutdatedModules() {
@@ -83,7 +83,7 @@ class TheRipperPremiumHUB {
             const installedModule = game.modules.get(k);
             if (!installedModule) continue;
             if (!checkDisabled && !installedModule?.active) continue;
-            if (isNewerVersion(v.version, installedModule.version) || this._debug) {
+            if (foundry.utils.isNewerVersion(v.version, installedModule.version) || this._debug) {
                 this.outdatedModules[k] = v;
                 this.outdatedModules[k].title = installedModule.title;
                 this.outdatedModules[k].currentVersion = installedModule.version;
@@ -170,8 +170,8 @@ class TheRipperPremiumHUB {
         const repo = this.repositoryIndex[id] ?? id;
         const releases = await this.getAllReleasesFromGitHub(owner, repo, isPremium, module);
         if (!releases) return null;
-        const latestRelease = Object.keys(releases).sort((a, b) => isNewerVersion(b, a))[0];
-        if(!latestRelease) return null;
+        const latestRelease = Object.keys(releases).sort((a, b) => foundry.utils.isNewerVersion(b, a))[0];
+        if (!latestRelease) return null;
         return {
             version: latestRelease,
             title: module.title,
@@ -212,7 +212,7 @@ class TheRipperPremiumHUB {
                 return null;
             }
         } else {
-            if ((Date.now() - lastGitRequestTimestamp) < 3600000) {
+            if (Date.now() - lastGitRequestTimestamp < 3600000) {
                 return null;
             }
             const releasesPerPage = 10; // Maximum allowed by GitHub API
@@ -222,12 +222,10 @@ class TheRipperPremiumHUB {
                 let compiledReleases = {};
 
                 const response = await fetch(`${apiUrl}&page=1`);
-                
+
                 if (response.status === 404 && !module.download) {
                     ui.notifications.error(`The module <strong>${module.title}</strong> is still installed using the old manual installation, please switch to the new Foundry/Patreon integration. <a href="https://theripper93.com/info/installation" target="_blank" rel="nofollow">More Information</a>`, { permanent: true });
                 }
-
-
 
                 const releases = await response.json();
                 releases.forEach((release) => {
@@ -242,9 +240,14 @@ class TheRipperPremiumHUB {
     }
 
     async fetchAnnouncements() {
-        return await fetch(`https://api.theripper93.com/moduleListing/latest`, { cache: "no-cache" })
-            .then((response) => response.json())
-            .then((data) => data);
+        try {            
+            return await fetch(`https://api.theripper93.com/moduleListing/latest`, { cache: "no-cache" })
+                .then((response) => response.json())
+                .then((data) => data);
+        } catch (error) {
+            console.warn("Error fetching announcements", error);
+            return {announcements: {}}
+        }
     }
 
     _getdataforfile() {
