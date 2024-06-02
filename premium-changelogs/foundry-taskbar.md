@@ -1,3 +1,6 @@
+## Version 4.0.0
+- V12 update
+
 ## Version 3.8.7
 - Workspaces will now save Compendiums as well
 
