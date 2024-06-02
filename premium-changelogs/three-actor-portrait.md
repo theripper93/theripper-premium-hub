@@ -1,3 +1,6 @@
+## Version 2.0.0
+- V12 update
+
 ## Version 1.9.3
 - Added simple quest integration
 
