@@ -1,3 +1,6 @@
+## Version 2.0.0
+- V12 Update
+
 ## Version 1.0.4
 - Current solution for cryptex puzzle is now correctly reset by the reset button
 
