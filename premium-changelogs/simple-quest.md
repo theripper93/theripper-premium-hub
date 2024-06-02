@@ -1,3 +1,6 @@
+## Version 2.0.0
+- V12 Update
+
 ## Version 1.5.9
 - Images in quest and lore tabs are now clickable to pop out  in the same way as core journals
 
