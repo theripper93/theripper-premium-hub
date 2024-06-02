@@ -1,3 +1,6 @@
+## Version 1.0.0
+- V12 update
+
 ## Version 0.8.3
 - Attempted fix for switch visible regardless of it's lightswitch status in scenes with vision disabled under unknown circumstances
 
