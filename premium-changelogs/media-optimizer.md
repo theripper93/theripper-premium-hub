@@ -1,3 +1,6 @@
+## Version 3.0.0
+- V12 release
+
 ## Version 2.0.4
 - ignore background if user selects to include the background but no background is set in the scene
 
