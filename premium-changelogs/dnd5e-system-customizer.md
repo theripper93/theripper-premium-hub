@@ -1,3 +1,7 @@
+## Version 3.0.0
+- V12 update
+- Old dnd specific cusomization window has been removed
+
 ## Version 2.0.7
 - Fixed import
 
