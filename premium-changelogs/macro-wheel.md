@@ -1,3 +1,6 @@
+## Version 2.0.0
+- V12 update
+
 ## Version 1.4.1
 - Macro wheel now correctly respect folder order is MacroWheel folder is used, if root folder is used, alphabetical sorting will be used
 
