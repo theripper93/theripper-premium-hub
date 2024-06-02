@@ -1,3 +1,6 @@
+## Version 3.0.0
+- V12 update
+
 ## Version 2.6.5
 - Fixed quotes in image css
 
