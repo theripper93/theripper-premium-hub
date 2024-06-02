@@ -1,3 +1,6 @@
+## Version 2.0.0
+- V12 update
+
 ## Version 1.5
 - New "Raise Hand" feature, right click on an actor card and click the raise hand toggle button to show a bouncy hand on top of the portrait
 - Fixed contenxt menu sometimes immediatelly closing
