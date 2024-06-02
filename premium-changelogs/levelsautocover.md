@@ -1,3 +1,6 @@
+## Version 2.0.0
+- V12 update
+
 ## Version 1.7.5
 - added new `getAllObstructingTokens` optional argument to get all the tokens in the path
 
