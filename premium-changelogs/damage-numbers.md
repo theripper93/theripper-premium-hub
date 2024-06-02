@@ -1,3 +1,6 @@
+## Version 4.0.0
+- V12 update
+
 ## Version 3.0.3
 - Fixed some issues with damage display
 
