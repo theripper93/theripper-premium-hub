@@ -1,3 +1,6 @@
+## Version 3.0.2
+- Added automated migration to the new JSON editor
+
 ## Version 3.0.1
 - It's now possible to delete entries using the json editor
 
