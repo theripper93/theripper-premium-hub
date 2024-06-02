@@ -1,3 +1,6 @@
+## Version 3.0.3
+
+
 ## Version 3.0.2
 - Added automated migration to the new JSON editor
 
