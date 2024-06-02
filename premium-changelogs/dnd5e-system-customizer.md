@@ -1,3 +1,6 @@
+## Version 3.0.1
+- It's now possible to delete entries using the json editor
+
 ## Version 3.0.0
 - V12 update
 - Old dnd specific cusomization window has been removed
