@@ -1,3 +1,6 @@
+## Version 2.0.1
+- Fixed issue that would keep remaking party folders due to a v12 change
+
 ## Version 2.0.0
 - V12 Update
 
