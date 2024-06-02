@@ -1,3 +1,6 @@
+## Version 2.0
+- V12 update
+
 ## Version 1.7
 - Tidbits will now parse enrichers
 
