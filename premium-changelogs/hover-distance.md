@@ -1,3 +1,6 @@
+## Version 4.0
+- V12 update
+
 ## Version 3.6
 - Fix for the previous patch not fixing the background highlight correctly
 
