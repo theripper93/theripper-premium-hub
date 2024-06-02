@@ -1,3 +1,6 @@
+## Version 2.0.0
+- V12 Update
+
 ## Version 1.5.6
 - Activating sounds in a random block which has no sounds enabled while a soundscape is playing now correctly starts the random sound exectution instead of requiring the soundscape to be restarted
 
