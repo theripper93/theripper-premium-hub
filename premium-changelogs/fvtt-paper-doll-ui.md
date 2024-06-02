@@ -1,3 +1,6 @@
+## Version 1.0.0
+- V12 Update
+
 ## Version 0.9.3
 - Fix keybinding precedence
 
