@@ -1,3 +1,6 @@
+## Version 2.0
+- V12 update
+
 ## Version 1.3
 - Added fallback in the event of a buggy or missing animation
 
