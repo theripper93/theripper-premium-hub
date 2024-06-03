@@ -1,3 +1,6 @@
+## Version 6.0.0
+- Initial V12 update
+
 ## Version 5.7.4.11
 - Templates can now be moved after placement by non-gm users
 
