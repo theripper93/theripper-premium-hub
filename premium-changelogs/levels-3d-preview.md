@@ -1,3 +1,6 @@
+## Version 6.0.2
+- Fixed issue with elevation data not beeing red correctly
+
 ## Version 6.0.1
 - Fixed issues with 3D Tiles based vision
 - Fixed issue with token HUD
