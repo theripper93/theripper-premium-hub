@@ -1,3 +1,7 @@
+## Version 6.0.1
+- Fixed issues with 3D Tiles based vision
+- Fixed issue with token HUD
+
 ## Version 6.0.0
 - Initial V12 update
 
