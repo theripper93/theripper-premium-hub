@@ -1,3 +1,6 @@
+## Version 6.0.3
+- Fixed tile box drawing tool not working correctly when the creation was not started from the top left corner
+
 ## Version 6.0.2
 - Fixed issue with elevation data not beeing red correctly
 
