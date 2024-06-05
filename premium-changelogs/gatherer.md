@@ -1,3 +1,6 @@
+## Version 3.0.1
+- Added workaround for rolling module bugs
+
 ## Version 3.0.0
 - V12 update
 
