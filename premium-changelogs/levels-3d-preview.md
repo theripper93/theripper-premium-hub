@@ -1,3 +1,6 @@
+## Version 6.0.5
+- New Feature: Tactical Pings
+
 ## Version 6.0.4
 - Fixed issue when dropping tiles
 
