@@ -1,3 +1,6 @@
+## Version 2.0.1
+- Fixed heroforge browser button not appearing correctly
+
 ## Version 2.0.0
 - V12 update
 
