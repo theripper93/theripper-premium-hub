@@ -1,3 +1,6 @@
+## Version 3.0.4
+- Added better config handling for improved compatibility
+
 ## Version 3.0.3
 
 
