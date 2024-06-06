@@ -1,3 +1,7 @@
+## Version 6.0.6
+- Reworked visual interface for tactical pings
+- Added new custom user ping in user configuration
+
 ## Version 6.0.5
 - New Feature: Tactical Pings
 
