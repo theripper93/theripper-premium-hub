@@ -1,3 +1,6 @@
+## Version 2.0.2
+- `.` characters at the end of an objective no longer trip up the data structure
+
 ## Version 2.0.1
 - Fixed issue that would keep remaking party folders due to a v12 change
 
