@@ -240,10 +240,6 @@ class TheRipperPremiumHUB {
     }
 
     async fetchAnnouncements() {
-        const lastGitRequestTimestamp = game.settings.get("theripper-premium-hub", "lastGitCheck") ?? 0;
-        if (Date.now() - lastGitRequestTimestamp < 3600000) {
-            return {announcements: {}}
-        }
         try {            
             return await fetch(`https://raw.githubusercontent.com/theripper93/theripper-premium-hub/master/moduleListing.json`, { cache: "no-cache" })
                 .then((response) => response.json())
