@@ -1,3 +1,6 @@
+## Version 6.0.7
+- Fixed hover and selection outline not working correctly
+
 ## Version 6.0.6
 - Reworked visual interface for tactical pings
 - Added new custom user ping in user configuration
