@@ -1,3 +1,6 @@
+## Version 4.0.1
+- Changed css paths for images to be relative
+
 ## Version 4.0.0
 - V12 update
 
