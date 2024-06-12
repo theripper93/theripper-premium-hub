@@ -241,9 +241,10 @@ class TheRipperPremiumHUB {
 
     async fetchAnnouncements() {
         try {            
-            return await fetch(`https://raw.githubusercontent.com/theripper93/theripper-premium-hub/master/moduleListing.json`, { cache: "no-cache" })
+            const response = await fetch(`https://raw.githubusercontent.com/theripper93/theripper-premium-hub/master/moduleListing.json`, { cache: "no-cache" })
                 .then((response) => response.json())
-                .then((data) => data)[`v${game.version.split(".")[0]}`];
+                .then((data) => data);
+            return response[`v${game.version.split(".")[0]}`];
         } catch (error) {
             console.warn("Error fetching announcements", error);
             return {announcements: {}}
