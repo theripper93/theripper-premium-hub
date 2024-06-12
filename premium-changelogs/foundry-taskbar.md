@@ -1,3 +1,6 @@
+## Version 4.0.1
+- Fixed issues in new application logic for taskbar buttons
+
 ## Version 4.0.0
 - V12 update
 
