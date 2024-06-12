@@ -1,3 +1,6 @@
+## Version 2.0.3
+- Fixed mermaid dynamic import not beeing dynamic
+
 ## Version 2.0.2
 - `.` characters at the end of an objective no longer trip up the data structure
 
