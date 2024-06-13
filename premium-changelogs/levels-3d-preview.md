@@ -1,3 +1,6 @@
+## Version 6.0.8
+- Fixed issue with tile merging
+
 ## Version 6.0.7
 - Fixed hover and selection outline not working correctly
 
