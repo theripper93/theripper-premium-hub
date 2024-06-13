@@ -1,3 +1,6 @@
+## Version 6.0.9
+- Fixed tile merging, again
+
 ## Version 6.0.8
 - Fixed issue with tile merging
 
