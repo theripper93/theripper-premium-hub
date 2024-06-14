@@ -1,3 +1,6 @@
+## Version 4.0.1
+- Fixed damage type display for system customizer compatibility and latest dnd5e
+
 ## Version 4.0.0
 - V12 update
 
