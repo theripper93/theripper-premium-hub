@@ -1,3 +1,6 @@
+## Version 2.0.1
+- Fixed issue with some logic running player side when it was not necessary
+
 ## Version 2.0.0
 - V12 Update
 
