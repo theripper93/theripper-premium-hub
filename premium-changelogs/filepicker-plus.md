@@ -1,3 +1,6 @@
+## Version 4.1
+- If the sidebar file picker is in a folder which contains folders but no files, the folder view will be forced to be expanded
+
 ## Version 4.0
 - V12 update
 
