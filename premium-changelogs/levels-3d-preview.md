@@ -1,3 +1,6 @@
+## Version 6.0.12
+- Fix for ruler snapping on tile creation
+
 ## Version 6.0.11
 - Fixed error with decal meshes on manual creation
 
