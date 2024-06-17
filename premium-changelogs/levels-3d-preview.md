@@ -1,3 +1,6 @@
+## Version 6.0.15
+- Resolved issues with loading of lights with no color set
+
 ## Version 6.0.14
 - Fixed light colors beeing always white
 
