@@ -1,3 +1,6 @@
+## Version 6.0.13
+- Performance improvements with many lights
+
 ## Version 6.0.12
 - Performance improvements with many lights
 
