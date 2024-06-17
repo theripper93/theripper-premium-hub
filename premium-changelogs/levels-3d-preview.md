@@ -1,3 +1,6 @@
+## Version 6.0.14
+- Fixed light colors beeing always white
+
 ## Version 6.0.13
 - Performance improvements with many lights
 
