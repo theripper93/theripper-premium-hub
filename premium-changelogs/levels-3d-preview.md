@@ -1,3 +1,6 @@
+## Version 6.0.16
+- Fixed Note labels not working correctly
+
 ## Version 6.0.15
 - Resolved issues with loading of lights with no color set
 
