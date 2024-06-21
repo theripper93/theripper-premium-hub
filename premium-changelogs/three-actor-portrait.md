@@ -1,3 +1,6 @@
+## Version 2.0.2
+- Fixed issue with HF browser not correctly applying 3d model to tokens
+
 ## Version 2.0.1
 - Fixed heroforge browser button not appearing correctly
 
