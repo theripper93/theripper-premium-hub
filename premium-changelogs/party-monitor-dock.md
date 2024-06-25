@@ -1,3 +1,6 @@
+## Version 2.0.1
+- Fixed text not enriched in tooltips
+
 ## Version 2.0.0
 - V12 update
 
