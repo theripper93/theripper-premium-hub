@@ -1,3 +1,6 @@
+## Version 4.1
+- Reworked highlight method to make it more resilient and solid
+
 ## Version 4.0
 - V12 update
 
