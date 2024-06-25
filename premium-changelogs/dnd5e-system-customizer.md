@@ -1,3 +1,6 @@
+## Version 3.0.5
+- Fixed migration logic running at the wrong time potentially causing errors
+
 ## Version 3.0.4
 - Added better config handling for improved compatibility
 
