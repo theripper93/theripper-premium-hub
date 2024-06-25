@@ -1,3 +1,6 @@
+## Version 2.0.4
+- Fixed right side timeline events missing some visual indicators
+
 ## Version 2.0.3
 - Fixed mermaid dynamic import not beeing dynamic
 
