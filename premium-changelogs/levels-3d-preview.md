@@ -1,3 +1,6 @@
+## Version 6.0.17
+- Fixed issues with template color
+
 ## Version 6.0.16
 - Fixed Note labels not working correctly
 
