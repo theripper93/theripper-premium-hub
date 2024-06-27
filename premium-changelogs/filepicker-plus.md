@@ -1,3 +1,6 @@
+## Version 4.2
+- Fixed coloring on some labels beeing invisible
+
 ## Version 4.1
 - If the sidebar file picker is in a folder which contains folders but no files, the folder view will be forced to be expanded
 
