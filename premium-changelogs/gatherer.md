@@ -1,3 +1,6 @@
+## Version 3.0.2
+- Removed socketlib dependency in favor of internal library
+
 ## Version 3.0.1
 - Added workaround for rolling module bugs
 
