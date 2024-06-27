@@ -1,3 +1,6 @@
+## Version 3.0.1
+- Fixed cauldron matching logic for similar recipes
+
 ## Version 3.0.0
 - V12 update
 
