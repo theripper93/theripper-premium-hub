@@ -1,3 +1,6 @@
+## Version 1.0.2
+- Removed socketlib dependency
+
 ## Version 1.0.1
 - Clean up of the update method which could fail under certain circumstances
 
