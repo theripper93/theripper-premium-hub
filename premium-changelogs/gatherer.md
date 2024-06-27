@@ -1,3 +1,6 @@
+## Version 3.0.3
+- Forgot to remove dependency from manifest
+
 ## Version 3.0.2
 - Removed socketlib dependency in favor of internal library
 
