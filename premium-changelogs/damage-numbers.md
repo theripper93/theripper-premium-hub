@@ -1,3 +1,6 @@
+## Version 4.0.2
+- Removed socket lib dependency in favor of internal library
+
 ## Version 4.0.1
 - Fixed damage type display for system customizer compatibility and latest dnd5e
 
