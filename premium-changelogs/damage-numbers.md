@@ -1,3 +1,6 @@
+## Version 4.0.3
+- Fixed internal issue that could cause conflict with other modules
+
 ## Version 4.0.2
 - Removed socket lib dependency in favor of internal library
 
