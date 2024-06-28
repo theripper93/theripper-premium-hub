@@ -1,3 +1,6 @@
+## Version 2.0.5
+- Fixed prosemirror styles not working correctly
+
 ## Version 2.0.4
 - Fixed right side timeline events missing some visual indicators
 
