@@ -1,3 +1,6 @@
+## Version 2.0.6
+- updated pt-BR translation, thanks `@kharmans`
+
 ## Version 2.0.5
 - Fixed prosemirror styles not working correctly
 
