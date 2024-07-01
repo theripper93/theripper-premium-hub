@@ -1,3 +1,6 @@
+## Version 2.0.2
+- Fixed issue with drag and dropping actors into the scene
+
 ## Version 2.0.1
 - Fixed text not enriched in tooltips
 
