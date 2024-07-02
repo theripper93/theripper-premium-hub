@@ -1,3 +1,7 @@
+## Version 1.0.0
+- Supporter release
+- Added setting to only show scenes with navigation enabled for the gm
+
 ## Version 0.3
 - V12 Update
 
