@@ -1,3 +1,6 @@
+## Version 6.1.2
+- Implemented another animation\door state linking method which uses a single animation and reverses it
+
 ## Version 6.1.1
 - Clean up on update hook and small fix to previous update
 
