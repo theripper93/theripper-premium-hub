@@ -1,3 +1,6 @@
+## Version 3.0.6
+- Fixed issue that could prevent saving customizations
+
 ## Version 3.0.5
 - Fixed migration logic running at the wrong time potentially causing errors
 
