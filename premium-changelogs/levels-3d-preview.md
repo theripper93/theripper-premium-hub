@@ -1,3 +1,6 @@
+## Version 6.1.1
+- Clean up on update hook and small fix to previous update
+
 ## Version 6.1.0
 - Added Play Once option with fill forwards to tile animation options
 - Added new Door Style which syncs the door state to the animation index
