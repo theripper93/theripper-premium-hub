@@ -1,3 +1,8 @@
+## Version 2.1.0
+- Added new option to automatically hide the Party HUD when combat starts
+- When raising your hand, if multiple party members have their hand raised the raise order will be shown
+- Fixed innocuous bug on startup
+
 ## Version 2.0.2
 - Fixed issue with drag and dropping actors into the scene
 
