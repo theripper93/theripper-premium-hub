@@ -1,3 +1,6 @@
+## Version 2.1.1
+- Added setting to hide companions
+
 ## Version 2.1.0
 - Added new option to automatically hide the Party HUD when combat starts
 - When raising your hand, if multiple party members have their hand raised the raise order will be shown
