@@ -1,3 +1,7 @@
+## Version 1.1.0
+- Added new option to set a filter for slots wich will show those specific items when clicked to pick from
+- When a sheet is minimized, paper doll will be hidden
+
 ## Version 1.0.0
 - V12 Update
 
