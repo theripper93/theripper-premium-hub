@@ -1,3 +1,10 @@
+## Version 2.1.0
+- Lore: Revealing lore now shows a notification
+- Lore: Unread lore now has a question mark icon
+- Map: Added option for fixed marker size
+- Journals: New NPC and Location Callouts
+- Journals: Added PDF page support
+
 ## Version 2.0.6
 - updated pt-BR translation, thanks `@kharmans`
 
