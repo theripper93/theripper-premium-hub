@@ -1,3 +1,6 @@
+## Version 4.1.0
+- Added new Custom Formula roll type
+
 ## Version 4.0.1
 - Changed css paths for images to be relative
 
