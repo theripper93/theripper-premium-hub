@@ -1,3 +1,7 @@
+## Version 4.1.1
+- Custom rolls now correctly parse attributes
+- Added option for custom label
+
 ## Version 4.1.0
 - Added new Custom Formula roll type
 
