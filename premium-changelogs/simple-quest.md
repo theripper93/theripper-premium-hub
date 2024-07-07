@@ -1,3 +1,6 @@
+## Version 2.1.1
+- Fixed notifications shown when they should not
+
 ## Version 2.1.0
 - Lore: Revealing lore now shows a notification
 - Lore: Unread lore now has a question mark icon
