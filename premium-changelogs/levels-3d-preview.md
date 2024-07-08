@@ -1,3 +1,6 @@
+## Version 6.1.3
+- Fixed grid color for grid shader not beeing correctly picked up
+
 ## Version 6.1.2
 - Implemented another animation\door state linking method which uses a single animation and reverses it
 
