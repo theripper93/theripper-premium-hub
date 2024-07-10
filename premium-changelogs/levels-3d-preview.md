@@ -1,3 +1,6 @@
+## Version 6.1.4
+- Fixed wonky dynamesh dropdown
+
 ## Version 6.1.3
 - Fixed grid color for grid shader not beeing correctly picked up
 
