@@ -1,3 +1,6 @@
+## Version 2.0.1
+- Fixed missing folder configuration
+
 ## Version 2.0.0
 - V12 update
 
