@@ -1,3 +1,7 @@
+## Version 6.2.2
+- Fixed scene refreshing randomly
+- Fixed users cursors beeing all white
+
 ## Version 6.2.1
 - Added pixelize postprocessing
 
