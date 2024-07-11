@@ -1,3 +1,8 @@
+## Version 6.2.0
+- Fixed changes to sun not refreshing live
+- Added new Postprocessing tab in scene settings with: Vignette,Chromatic aberration, Grain, Brightness, Contrast, Saturation, Tint, Bloom
+- Added new setting in light configuration to have a light visible while disabled (you'll get the visual effect of lighting but no vision)
+
 ## Version 6.1.4
 - Fixed wonky dynamesh dropdown
 
