@@ -1,3 +1,6 @@
+## Version 6.2.1
+- Added pixelize postprocessing
+
 ## Version 6.2.0
 - Fixed changes to sun not refreshing live
 - Added new Postprocessing tab in scene settings with: Vignette,Chromatic aberration, Grain, Brightness, Contrast, Saturation, Tint, Bloom
