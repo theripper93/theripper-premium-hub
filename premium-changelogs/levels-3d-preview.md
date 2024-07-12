@@ -1,3 +1,6 @@
+## Version 6.2.3
+- Double right clicking a point now moves the camera to that point, mantaining zoom and perspective
+
 ## Version 6.2.2
 - Fixed scene refreshing randomly
 - Fixed users cursors beeing all white
