@@ -1,3 +1,6 @@
+## Version 3.0.7
+- Changed order of system customizer setup for better compatibility
+
 ## Version 3.0.6
 - Fixed issue that could prevent saving customizations
 
