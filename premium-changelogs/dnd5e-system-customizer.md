@@ -1,3 +1,6 @@
+## Version 3.0.8
+- Fix to previous update
+
 ## Version 3.0.7
 - Changed order of system customizer setup for better compatibility
 
