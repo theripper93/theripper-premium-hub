@@ -1,3 +1,6 @@
+## Version 2.1.0
+- Added new sounds library
+
 ## Version 2.0.0
 - V12 update
 
