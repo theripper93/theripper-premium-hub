@@ -1,3 +1,6 @@
+## Version 2.1.3
+- Fixed tags could not be deleted
+
 ## Version 2.1.2
 - Moved buttons to context menu
 - Added context menu options
