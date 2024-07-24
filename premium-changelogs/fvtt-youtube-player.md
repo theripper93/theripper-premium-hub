@@ -1,3 +1,8 @@
+## Version 2.1.2
+- Moved buttons to context menu
+- Added context menu options
+- Further compacted sound library view
+
 ## Version 2.1.1
 - Fixed issues with Tags configuration 
 - Compacted music library entry for better use of space
