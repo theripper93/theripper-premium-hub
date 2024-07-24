@@ -1,3 +1,7 @@
+## Version 2.1.1
+- Fixed issues with Tags configuration 
+- Compacted music library entry for better use of space
+
 ## Version 2.1.0
 - Added new sounds library
 
