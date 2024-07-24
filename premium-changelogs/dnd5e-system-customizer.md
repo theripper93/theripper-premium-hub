@@ -1,3 +1,9 @@
+## Version 3.1.0
+- Removed old DND5e specific code
+- Removed migration code
+- Cleaned up initialization process for better compatibility
+- Blacklisted trackable attributes from customization for better compatibility
+
 ## Version 3.0.8
 - Fix to previous update
 
