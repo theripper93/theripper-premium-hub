@@ -1,3 +1,6 @@
+## Version 6.2.4
+- When using animations on door tiles, Vision blocking is dynamically updated with the animation frame state when the animation is completed
+
 ## Version 6.2.3
 - Double right clicking a point now moves the camera to that point, mantaining zoom and perspective
 
