@@ -1,3 +1,6 @@
+## Version 6.2.5
+- Animation linked doors will now disable sight and collision when opened
+
 ## Version 6.2.4
 - When using animations on door tiles, Vision blocking is dynamically updated with the animation frame state when the animation is completed
 
