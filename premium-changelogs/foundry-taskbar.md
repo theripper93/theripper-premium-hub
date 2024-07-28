@@ -1,3 +1,6 @@
+## Version 4.0.2
+- Fixed issue with minimize button duplication on non-fresh window renders in Application V2 windows
+
 ## Version 4.0.1
 - Fixed issues in new application logic for taskbar buttons
 
