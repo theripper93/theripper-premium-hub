@@ -1,3 +1,6 @@
+## Version 6.2.6
+- Implemented workarounds for foundry bugs that prevent correct token updates when size or texture changes
+
 ## Version 6.2.5
 - Animation linked doors will now disable sight and collision when opened
 
