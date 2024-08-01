@@ -1,3 +1,6 @@
+## Version 2.2.0
+- Added new Achievements Tab!
+
 ## Version 2.1.1
 - Fixed notifications shown when they should not
 
