@@ -1,3 +1,6 @@
+## Version 2.2.1
+- Fix achievement creation when no achievements are present
+
 ## Version 2.2.0
 - Added new Achievements Tab!
 
