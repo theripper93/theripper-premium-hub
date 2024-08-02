@@ -1,3 +1,6 @@
+## Version 2.0.1
+- Fixed bug where Item placement in Item Locks was not checked. Now items need to be placed in the exact slot as intended
+
 ## Version 2.0.0
 - V12 Update
 
