@@ -1,3 +1,6 @@
+## Version 1.0
+- Supporter Release
+
 ## Version 0.3
 - Added safeguards against bad module code
 
