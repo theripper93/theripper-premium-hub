@@ -1,3 +1,6 @@
+## Version 3.0.4
+- Fixed issue with harvesting logic running for both player and gm causing an (harmless) error
+
 ## Version 3.0.3
 - Forgot to remove dependency from manifest
 
