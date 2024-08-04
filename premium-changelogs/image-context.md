@@ -1,3 +1,6 @@
+## Version 2.0.1
+- Pasting image into chat will prompt to share the image to players and upload it
+
 ## Version 2.0.0
 - V12 Update
 
