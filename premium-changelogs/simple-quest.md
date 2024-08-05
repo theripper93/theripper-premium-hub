@@ -1,3 +1,6 @@
+## Version 2.2.3
+- Fixed updated quest notification not showing
+
 ## Version 2.2.2
 - Achievements will only show players with assigned characters
 - Added check to internal api to verify an entry is not from a compendium when cheking if it's a simple quest page
