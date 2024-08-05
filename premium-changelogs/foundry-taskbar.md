@@ -1,3 +1,6 @@
+## Version 4.0.3
+- Fixed issue that prevented minimizing from functioning related to the ApplicationV2
+
 ## Version 4.0.2
 - Fixed issue with minimize button duplication on non-fresh window renders in Application V2 windows
 
