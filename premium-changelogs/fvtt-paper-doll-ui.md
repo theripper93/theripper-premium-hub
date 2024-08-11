@@ -1,3 +1,6 @@
+## Version 1.1.2
+- Fixed harmless console error message when moving sheets
+
 ## Version 1.1.1
 - Added a basic item filter option where you can select an item type and avoid writing code
 
