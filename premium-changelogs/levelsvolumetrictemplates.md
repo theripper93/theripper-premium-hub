@@ -1,3 +1,7 @@
+## Version 2.0.3
+- Fixed issue with cone templates
+- Added Levels as dependency
+
 ## Version 2.0.2
 - Fixed leftover missed v12 update
 
