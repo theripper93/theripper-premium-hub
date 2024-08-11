@@ -1,3 +1,6 @@
+## Version 3.0.5
+- Fixed some issues with GM data forwarding which failed to update the remaining draws on harvestable tokens
+
 ## Version 3.0.4
 - Fixed issue with harvesting logic running for both player and gm causing an (harmless) error
 
