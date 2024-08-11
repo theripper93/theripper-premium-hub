@@ -1,3 +1,6 @@
+## Version 4.0.4
+- Added system to try to catch the currently reported issue with windows not beeing able to be toggled
+
 ## Version 4.0.3
 - Fixed issue that prevented minimizing from functioning related to the ApplicationV2
 
