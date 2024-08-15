@@ -1,3 +1,6 @@
+## Version 4.0.5
+- Updated bring to top workflow to use internal data instead of relying on reading from the DOM
+
 ## Version 4.0.4
 - Added system to try to catch the currently reported issue with windows not beeing able to be toggled
 
