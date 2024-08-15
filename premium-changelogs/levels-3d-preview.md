@@ -1,3 +1,6 @@
+## Version 6.2.7
+- Fixed grounding still beeing applied when a token was flying
+
 ## Version 6.2.6
 - Implemented workarounds for foundry bugs that prevent correct token updates when size or texture changes
 
