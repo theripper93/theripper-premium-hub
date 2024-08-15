@@ -1,3 +1,6 @@
+## Version 4.0.6
+- Improved error handling
+
 ## Version 4.0.5
 - Updated bring to top workflow to use internal data instead of relying on reading from the DOM
 
