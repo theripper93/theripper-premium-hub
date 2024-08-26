@@ -1,3 +1,6 @@
+## Version 3.0.6
+- Fixed harmless error upon gathering
+
 ## Version 3.0.5
 - Fixed some issues with GM data forwarding which failed to update the remaining draws on harvestable tokens
 
