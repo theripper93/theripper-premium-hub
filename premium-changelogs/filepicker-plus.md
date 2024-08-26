@@ -1,3 +1,6 @@
+## Version 4.3
+- Added anonymus crossorigin to video previews to avoid issues with chrome caching and other modules
+
 ## Version 4.2
 - Fixed coloring on some labels beeing invisible
 
