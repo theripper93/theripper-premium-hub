@@ -1,3 +1,6 @@
+## Version 2.2.5
+- Update CN localization
+
 ## Version 2.2.4
 - Fixed duplication of page inputs when switching between windowed and fullscreen
 - Fixed issue when deleting achievements after creating one or more
