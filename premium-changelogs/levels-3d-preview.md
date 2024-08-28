@@ -1,3 +1,6 @@
+## Version 6.2.8
+- Added workaround for PF2e issue with token size data manipulation
+
 ## Version 6.2.7
 - Fixed grounding still beeing applied when a token was flying
 
