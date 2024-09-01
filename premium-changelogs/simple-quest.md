@@ -1,3 +1,6 @@
+## Version 2.2.6
+- Fixed Achievements tab could not be renamed
+
 ## Version 2.2.5
 - Update CN localization
 
