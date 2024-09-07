@@ -1,3 +1,7 @@
+## Version 2.1.0
+- Added support for token ring subject
+- Improved method to detect which face is currently selected. You might experience the flip order reset the first time you flip due to this change so that the module adjusts to the new method
+
 ## Version 2.0
 - V12 update
 
