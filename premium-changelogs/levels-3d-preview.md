@@ -1,3 +1,6 @@
+## Version 6.2.10
+- Fixed issue with black target indicator colors
+
 ## Version 6.2.8
 - Added workaround for PF2e issue with token size data manipulation
 
