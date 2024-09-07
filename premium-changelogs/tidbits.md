@@ -1,3 +1,7 @@
+## Version 2.0.2
+- Default 'Did you know?' text can now be customized in the module settings
+- Updated localizations
+
 ## Version 2.0.1
 - Added auto tidbit cycle for pause text
 
