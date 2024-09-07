@@ -1,3 +1,6 @@
+## Version 2.0.1
+- Added auto tidbit cycle for pause text
+
 ## Version 2.0
 - V12 update
 
