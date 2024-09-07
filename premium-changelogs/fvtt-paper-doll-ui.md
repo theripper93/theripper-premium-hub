@@ -1,3 +1,6 @@
+## Version 1.1.3
+- Added option to enable only for player owned actors
+
 ## Version 1.1.2
 - Fixed harmless console error message when moving sheets
 
