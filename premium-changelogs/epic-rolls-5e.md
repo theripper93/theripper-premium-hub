@@ -1,3 +1,8 @@
+## Version 4.2.0
+- You can now roll initiative using epic rolls
+- Added new "Roll Initiative" quick button in the Epic rolls recents menu (right click epic rolls button)
+- Alt click the Quick roll initiative to use average initiative (owned vs non-owned tokens)
+
 ## Version 4.1.1
 - Custom rolls now correctly parse attributes
 - Added option for custom label
