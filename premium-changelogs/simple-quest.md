@@ -1,3 +1,6 @@
+## Version 2.2.8
+- Fixed issue with achievement ownership view in the GM view
+
 ## Version 2.2.7
 - Achievements set to limited permission will now show as secred achivements, with their name and description hidden. The image will still be visible.
 
