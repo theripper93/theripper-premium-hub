@@ -1,3 +1,6 @@
+## Version 2.2.7
+- Achievements set to limited permission will now show as secred achivements, with their name and description hidden. The image will still be visible.
+
 ## Version 2.2.6
 - Fixed Achievements tab could not be renamed
 
