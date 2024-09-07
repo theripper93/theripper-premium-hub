@@ -91,8 +91,8 @@ Hooks.on("init", () => {
 Hooks.on("renderSettingsConfig", (app, html, data) => {
     if (!game.user.isGM) return;
 
-    function generateSupportReport(moduleId) {
-        const supportInfo = SupportDetails.generateSupportReport();
+    async function generateSupportReport(moduleId) {
+        const supportInfo = await SupportDetails.generateSupportReport();
         const supportOutput = {
             "Core Version": supportInfo.coreVersion,
             System: supportInfo.systemVersion,
