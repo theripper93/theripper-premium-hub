@@ -1,3 +1,6 @@
+## Version 2.0.3
+- Fixed typo in new autocycle feature which created issues with loading screens
+
 ## Version 2.0.2
 - Default 'Did you know?' text can now be customized in the module settings
 - Updated localizations
