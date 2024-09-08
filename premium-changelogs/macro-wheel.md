@@ -1,3 +1,7 @@
+## Version 2.0.2
+- Removed debugger
+- Fixed permission issue when not using the macro wheel folder
+
 ## Version 2.0.1
 - Fixed missing folder configuration
 
