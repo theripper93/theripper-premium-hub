@@ -1,3 +1,6 @@
+## Version 2.3.0
+- Simple quest now supports any type of journal page that supports the Embed core enricher.
+
 ## Version 2.2.8
 - Fixed issue with achievement ownership view in the GM view
 
