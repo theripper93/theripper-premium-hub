@@ -1,3 +1,6 @@
+## Version 2.3.1
+- Fixed hidden pages not correctly showing in lore tab
+
 ## Version 2.3.0
 - Simple quest now supports any type of journal page that supports the Embed core enricher.
 
