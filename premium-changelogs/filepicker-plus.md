@@ -1,3 +1,6 @@
+## Version 4.3.1
+- Added workaround to escape key closing sidebar filepicker
+
 ## Version 4.3
 - Added anonymus crossorigin to video previews to avoid issues with chrome caching and other modules
 
