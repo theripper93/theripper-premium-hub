@@ -1,3 +1,6 @@
+## Version 1.1.4
+- Fixed missing setting text
+
 ## Version 1.1.3
 - Added option to enable only for player owned actors
 
