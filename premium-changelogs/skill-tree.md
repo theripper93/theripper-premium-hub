@@ -1,3 +1,7 @@
+## Version 0.2.1
+- Fixed macro condition evaluation
+- Changing skill style will now reflect in edit mode
+
 ## Version 0.2.0
 - Fixed many layout issues, specifically related to scrolling on multiple applications
 - Reworked skill configuration to have tabs
