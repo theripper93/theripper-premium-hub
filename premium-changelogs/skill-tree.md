@@ -1,3 +1,10 @@
+## Version 0.2.2
+- Moved skill tree config into it's separate window for more working space
+- Layout improvements
+- Internal data improvements
+- Warning is now displayed if actor has access to no skill trees and none is selected
+- Fixed issue with granting items upon leveling a skill
+
 ## Version 0.2.1
 - Fixed macro condition evaluation
 - Changing skill style will now reflect in edit mode
