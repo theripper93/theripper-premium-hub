@@ -1,3 +1,6 @@
+## Version 0.3.0
+- Added new requirements tab to skill configuration
+
 ## Version 0.2.2
 - Moved skill tree config into it's separate window for more working space
 - Layout improvements
