@@ -1,3 +1,6 @@
+## Version 0.3.1
+- Fixed issue with requirements data handling
+
 ## Version 0.3.0
 - Added new requirements tab to skill configuration
 
