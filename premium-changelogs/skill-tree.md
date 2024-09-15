@@ -1,3 +1,9 @@
+## Version 0.3.3
+- Fixed title line height in tooltips
+- Fixed issues with skill tree header icon not showing under various circumstances
+- Added new setting to prevent players from changing amount of points
+- Added new setting to prevent players from removing points from an unlocked skill
+
 ## Version 0.3.2
 - Fixed issue with skil shapes under some circumstances
 
