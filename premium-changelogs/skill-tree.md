@@ -1,3 +1,8 @@
+## Version 0.3.4
+- Clicking on an empty slot will now create a skill with no items connected
+- Drag and dropping a skill into another skill will now set the dropped on skill as requirement for the dragged one (or remove it if it's already a requirement)
+- Edit mode now has arrows that show directionality of skill links
+
 ## Version 0.3.3
 - Fixed title line height in tooltips
 - Fixed issues with skill tree header icon not showing under various circumstances
