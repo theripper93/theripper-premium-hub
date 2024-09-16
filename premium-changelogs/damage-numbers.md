@@ -1,3 +1,6 @@
+## Version 4.0.4
+- updated dnd implementation
+
 ## Version 4.0.3
 - Fixed internal issue that could cause conflict with other modules
 
