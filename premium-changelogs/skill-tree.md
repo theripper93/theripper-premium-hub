@@ -1,3 +1,8 @@
+## Version 0.4.0
+- Restored settings explanation in skill tree configuration
+- Trees can now have skill points handled indipendently
+- Skills have a new Lockout option, any unlocked skill in the lockout list will prevent the skill to be unlocked
+
 ## Version 0.3.4
 - Clicking on an empty slot will now create a skill with no items connected
 - Drag and dropping a skill into another skill will now set the dropped on skill as requirement for the dragged one (or remove it if it's already a requirement)
