@@ -1,3 +1,7 @@
+## Version 0.4.1
+- Interface will now show total points in the tree (spent + current)
+- Interface will now show points spent in each group
+
 ## Version 0.4.0
 - Restored settings explanation in skill tree configuration
 - Trees can now have skill points handled indipendently
