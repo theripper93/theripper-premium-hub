@@ -1,3 +1,6 @@
+## Version 0.4.2
+- Fixed onunlock script not beeing correctly assigned a name in the skill config form making it not fire
+
 ## Version 0.4.1
 - Interface will now show total points in the tree (spent + current)
 - Interface will now show points spent in each group
