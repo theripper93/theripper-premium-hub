@@ -1,4 +1,8 @@
 ## Version 0.4.2
+- Edit Skill form now has edit tooltip button
+- Journals which are Skill Trees now have a Skill tree button in their header to open the skill tree editor for that journal
+
+## Version 0.4.2
 - Fixed onunlock script not beeing correctly assigned a name in the skill config form making it not fire
 
 ## Version 0.4.1
