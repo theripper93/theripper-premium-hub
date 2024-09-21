@@ -1,3 +1,6 @@
+## Version 1.3.1
+- updated for DSN 5.1.1
+
 ## Version 1.3.0
 - Updated for latest Dice so nice
 
