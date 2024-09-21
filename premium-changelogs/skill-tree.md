@@ -1,4 +1,4 @@
-## Version 0.4.2
+## Version 0.4.3
 - Edit Skill form now has edit tooltip button
 - Journals which are Skill Trees now have a Skill tree button in their header to open the skill tree editor for that journal
 
