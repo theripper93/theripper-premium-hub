@@ -1,4 +1,4 @@
-## Version 1.2
+## Version 1.3.0
 - Updated for latest Dice so nice
 
 ## Version 1.2
