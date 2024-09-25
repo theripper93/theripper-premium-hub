@@ -1,3 +1,6 @@
+## Version 3.0.3
+- Added api endpoint for the cauldron application under ui.RecipeApp.CauldronApp
+
 ## Version 3.0.2
 - Tooltips with item names now also have item quantity in case it's too much to be displayed by the quantity input
 
