@@ -1,3 +1,6 @@
+## Version 2.3.3
+- Fixed release issue
+
 ## Version 2.3.2
 - Minor layout fixes
 
