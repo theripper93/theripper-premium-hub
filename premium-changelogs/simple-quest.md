@@ -1,3 +1,6 @@
+## Version 2.3.2
+- Minor layout fixes
+
 ## Version 2.3.1
 - Fixed hidden pages not correctly showing in lore tab
 
