@@ -1,3 +1,8 @@
+## Version 0.4.4
+- Skill Trees now match the same sort order of the journal sidebar
+- Switched item creation to item implementation to maximize system integration
+- Showing skill points per group is now optional (default off) you can change it in the skill tree configuration
+
 ## Version 0.4.3
 - Edit Skill form now has edit tooltip button
 - Journals which are Skill Trees now have a Skill tree button in their header to open the skill tree editor for that journal
