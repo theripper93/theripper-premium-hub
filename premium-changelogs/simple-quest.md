@@ -1,3 +1,6 @@
+## Version 2.3.4
+- Fixed issue with using icons as tab names under certain circumstances
+
 ## Version 2.3.3
 - Fixed release issue
 
