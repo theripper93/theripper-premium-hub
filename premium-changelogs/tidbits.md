@@ -1,3 +1,6 @@
+## Version 2.0.4
+- Fixed bad cycle timers when toggling pause multiple time in rapid succession
+
 ## Version 2.0.3
 - Fixed typo in new autocycle feature which created issues with loading screens
 
