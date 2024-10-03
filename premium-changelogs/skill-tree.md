@@ -1,3 +1,7 @@
+## Version 0.4.5
+- Fixed incorrect error handling of faulty drawn links
+- Fixed migration to also include lockout skills
+
 ## Version 0.4.4
 - Skill Trees now match the same sort order of the journal sidebar
 - Switched item creation to item implementation to maximize system integration
