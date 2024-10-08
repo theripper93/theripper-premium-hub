@@ -1,3 +1,6 @@
+## Version 2.1.4
+- Fixed issue where refreshing a client while a video is in a paused state would not restore the paused state and play the video instead
+
 ## Version 2.1.3
 - Fixed tags could not be deleted
 
