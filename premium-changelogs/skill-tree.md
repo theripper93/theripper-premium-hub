@@ -1,3 +1,6 @@
+## Version 0.4.6
+- Fixed lockout property not correctly saving
+
 ## Version 0.4.5
 - Fixed incorrect error handling of faulty drawn links
 - Fixed migration to also include lockout skills
