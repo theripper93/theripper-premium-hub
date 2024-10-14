@@ -1,3 +1,6 @@
+## Version 6.2.11
+- Removing light from a token or deleting a token with a light in a complex scene no longer cause stuttering\freezing
+
 ## Version 6.2.10
 - Fixed issue with black target indicator colors
 
