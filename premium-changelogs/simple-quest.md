@@ -1,3 +1,6 @@
+## Version 2.3.6
+- openToPage macro now works with all tabs/pages
+
 ## Version 2.3.5
 - openToPage macro now works with all tabs\pages
 
