@@ -1,3 +1,6 @@
+## Version 2.3.7
+- Fixed typo in last update
+
 ## Version 2.3.6
 - openToPage macro now works with all tabs/pages
 
