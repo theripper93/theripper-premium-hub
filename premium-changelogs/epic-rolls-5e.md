@@ -1,3 +1,6 @@
+## Version 4.2.1
+- Blind rolls question marks are no longer colored green\red if they are criticals or fumbles
+
 ## Version 4.2.0
 - You can now roll initiative using epic rolls
 - Added new "Roll Initiative" quick button in the Epic rolls recents menu (right click epic rolls button)
