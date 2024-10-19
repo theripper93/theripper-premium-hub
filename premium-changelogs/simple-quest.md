@@ -1,3 +1,6 @@
+## Version 2.3.8
+- The 'hide' checkbox is now always visible. To have the checkbox only visible on hover enable the new setting in the module settings
+
 ## Version 2.3.7
 - Fixed typo in last update
 
