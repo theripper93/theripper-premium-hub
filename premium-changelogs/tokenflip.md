@@ -1,3 +1,6 @@
+## Version 2.1.2
+- If a subject image is present, the token flip hud menu will prioritize that image as a preview
+
 ## Version 2.1.1
 - Fixed issue with filepicker
 
