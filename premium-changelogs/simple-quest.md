@@ -1,3 +1,6 @@
+## Version 2.3.9
+- Secret blocks can now be toggled directly from simple quest with the hide\reveal button
+
 ## Version 2.3.8
 - The 'hide' checkbox is now always visible. To have the checkbox only visible on hover enable the new setting in the module settings
 
