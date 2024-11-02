@@ -1,3 +1,6 @@
+## Version 4.3.2
+- Added missing lib wrapper requirement to manifest
+
 ## Version 4.3.1
 - Added workaround to escape key closing sidebar filepicker
 
