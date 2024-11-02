@@ -1,3 +1,6 @@
+## Version 3.0.1
+- Added `CONFIG.SUPPRESS_MEDIA_OPTIMIZER` check for module developers to temporarelly suppress all media optimizer features if they wish to do so
+
 ## Version 3.0.0
 - V12 release
 
