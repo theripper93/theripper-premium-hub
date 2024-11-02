@@ -1,3 +1,8 @@
+## Version 2.0.2
+- Attemptinig to play a soundboard block sound on an inactive soundscape will now display a warning instead of playing and immediatelly stopping the sound
+- Updated colorpicker to v12 standards
+- updated localizations
+
 ## Version 2.0.1
 - Fixed issue with some logic running player side when it was not necessary
 
