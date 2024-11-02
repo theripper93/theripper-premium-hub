@@ -1,3 +1,7 @@
+## Version 1.0.0
+- Fixed some layout and style issues
+- Supporter release
+
 ## Version 0.4.6
 - Fixed lockout property not correctly saving
 
