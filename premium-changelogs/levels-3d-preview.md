@@ -1,3 +1,6 @@
+## Version 6.2.13
+- Fixed issue with color inputs in configuration left empty creating invalid values
+
 ## Version 6.2.12
 - Fixed configuration label
 
