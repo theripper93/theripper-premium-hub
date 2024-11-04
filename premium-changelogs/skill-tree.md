@@ -1,3 +1,6 @@
+## Version 1.0.1
+- Removed leftovers of test fullscreen feature
+
 ## Version 1.0.0
 - Fixed some layout and style issues
 - Supporter release
