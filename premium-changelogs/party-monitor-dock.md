@@ -1,3 +1,7 @@
+## Version 2.2.1
+- fixed border rounding on wrong side in new docking mode
+- if the portraits are too big or too many, party hud will try to scroll the container
+
 ## Version 2.2.0
 - The Party HUD can now be docked right side on the sidebar
 
