@@ -1,4 +1,7 @@
 ## Version 2.1.1
+- The Party HUD can now be docked right side on the sidebar
+
+## Version 2.1.1
 - Added setting to hide companions
 
 ## Version 2.1.0
