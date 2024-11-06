@@ -1,3 +1,6 @@
+## Version 6.2.14
+- Fixed issue with door icons not correctly rendering under certain circumstances
+
 ## Version 6.2.13
 - Fixed issue with color inputs in configuration left empty creating invalid values
 
