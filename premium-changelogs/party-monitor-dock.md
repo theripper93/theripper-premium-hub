@@ -1,4 +1,4 @@
-## Version 2.1.1
+## Version 2.2.0
 - The Party HUD can now be docked right side on the sidebar
 
 ## Version 2.1.1
