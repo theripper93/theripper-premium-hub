@@ -1,3 +1,7 @@
+## Version 1.0.2
+- Fixed linked skill rule override not working correctly
+- UUID document fields will now accept only the right type of document
+
 ## Version 1.0.1
 - Removed leftovers of test fullscreen feature
 
