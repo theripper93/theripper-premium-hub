@@ -1,3 +1,6 @@
+## Version 3.0.7
+- Expression field will use an existing macro if a macro name is provided
+
 ## Version 3.0.6
 - Fixed harmless error upon gathering
 
