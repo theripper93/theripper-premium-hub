@@ -1,3 +1,6 @@
+## Version 0.1.3
+- Made config insertion even more generic
+
 ## Version 0.1.2
 - Moved configuration inputs to more generic locations
 
