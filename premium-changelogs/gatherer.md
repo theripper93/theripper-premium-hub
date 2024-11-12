@@ -1,3 +1,6 @@
+## Version 3.0.8
+- added gathering api
+
 ## Version 3.0.7
 - Expression field will use an existing macro if a macro name is provided
 
