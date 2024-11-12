@@ -1,3 +1,6 @@
+## Version 0.1.2
+- Moved configuration inputs to more generic locations
+
 ## Version 0.1.1
 - Streamlined some oddities around enabling\disabling the module
 
