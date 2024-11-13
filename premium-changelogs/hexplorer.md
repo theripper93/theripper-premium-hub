@@ -1,3 +1,9 @@
+## Version 0.2.0
+- Reworked way cells are discovered by separating the explore (visible) and Discovered (traversed)
+- Separated activities in move and explore activities
+- Expanded activities and added more
+- Note that some features may not be backwards compatible
+
 ## Version 0.1.3
 - Made config insertion even more generic
 
