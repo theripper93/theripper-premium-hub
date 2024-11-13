@@ -1,3 +1,6 @@
+## Version 0.2.1
+- Fixed issue with hovering and tooltips
+
 ## Version 0.2.0
 - Reworked way cells are discovered by separating the explore (visible) and Discovered (traversed)
 - Separated activities in move and explore activities
