@@ -1,3 +1,6 @@
+## Version 1.1.0
+- Added new "allow incomplete progression" option which if set will allow continuing on the tree even if a skill is not fully unlocked
+
 ## Version 1.0.2
 - Fixed linked skill rule override not working correctly
 - UUID document fields will now accept only the right type of document
