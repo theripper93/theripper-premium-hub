@@ -1,3 +1,11 @@
+## Version 0.3.0
+- Removed time advancement on cell
+- Added speed for hexplorer token and speed multiplier on cell. This is the new method to calculate time advancement
+- Segmented ruler movement now works correctly
+- Fixed various canvas related redraw bugs
+- Gridless scenes no longer crash the game
+- Discover activities can now be triggered manually instead of automatically
+
 ## Version 0.2.1
 - Fixed issue with hovering and tooltips
 
