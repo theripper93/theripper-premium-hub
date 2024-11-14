@@ -1,3 +1,8 @@
+## Version 0.4.0
+- Fixed issue with time\speed calculations
+- Changed wording and internal data structure. Removed explored and discovered in favor of revealed and explored which make it more clear
+- The above changes will reset and mix up any explored\discovered data structure that was present previously
+
 ## Version 0.3.0
 - Removed time advancement on cell
 - Added speed for hexplorer token and speed multiplier on cell. This is the new method to calculate time advancement
