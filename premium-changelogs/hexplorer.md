@@ -1,3 +1,7 @@
+## Version 0.4.1
+- Added brush functionality
+- Clarified some ui\interface
+
 ## Version 0.4.0
 - Fixed issue with time\speed calculations
 - Changed wording and internal data structure. Removed explored and discovered in favor of revealed and explored which make it more clear
