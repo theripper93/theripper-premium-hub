@@ -1,3 +1,6 @@
+## Version 0.4.2
+- Fixed issue with 0 speed hexplorer causing errors and failing to explore when moving
+
 ## Version 0.4.1
 - Added brush functionality
 - Clarified some ui\interface
