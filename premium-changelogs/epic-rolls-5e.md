@@ -1,3 +1,6 @@
+## Version 4.2.2
+- Updated for new roll methods in dnd 4.1
+
 ## Version 4.2.1
 - Blind rolls question marks are no longer colored green\red if they are criticals or fumbles
 
