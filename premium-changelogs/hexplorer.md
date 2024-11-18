@@ -1,3 +1,6 @@
+## Version 0.4.3
+- Fixed alpha of player side fow
+
 ## Version 0.4.2
 - Fixed issue with 0 speed hexplorer causing errors and failing to explore when moving
 
