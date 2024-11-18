@@ -1,3 +1,6 @@
+## Version 1.1.1
+- Fixed single item multiple items rule not working as intended
+
 ## Version 1.1.0
 - Added new "allow incomplete progression" option which if set will allow continuing on the tree even if a skill is not fully unlocked
 
