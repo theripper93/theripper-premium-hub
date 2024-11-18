@@ -1,4 +1,7 @@
 ## Version 0.4.4
+- Correction on the previous note fix
+
+## Version 0.4.4
 - Fixed issue with pageless map notes preventing exploration
 
 ## Version 0.4.3
