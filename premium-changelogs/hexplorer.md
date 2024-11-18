@@ -1,3 +1,6 @@
+## Version 0.4.4
+- Fixed issue with pageless map notes preventing exploration
+
 ## Version 0.4.3
 - Fixed alpha of player side fow
 
