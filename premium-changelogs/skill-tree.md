@@ -1,3 +1,8 @@
+## Version 1.1.2
+- Fixed some skills prevented from removing poitns incorrectly
+- Added extra wait times between adding\removing skill points to prevent database inconsistency
+- Fixed display of total points occasionally glitching out due to missing string parsing
+
 ## Version 1.1.1
 - Fixed single item multiple items rule not working as intended
 
