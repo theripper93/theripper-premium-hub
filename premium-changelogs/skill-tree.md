@@ -1,3 +1,6 @@
+## Version 1.1.3
+- Fixed uuid field data validation which was mistakenly undone in the 1.1.2 update
+
 ## Version 1.1.2
 - Fixed some skills prevented from removing poitns incorrectly
 - Added extra wait times between adding\removing skill points to prevent database inconsistency
