@@ -1,3 +1,7 @@
+## Version 6.2.15
+- Fixed darkness level sync not updated to v12
+- added compatibility for pf2 world time
+
 ## Version 6.2.14
 - Fixed issue with door icons not correctly rendering under certain circumstances
 
