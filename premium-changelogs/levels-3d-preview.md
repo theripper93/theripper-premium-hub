@@ -1,3 +1,6 @@
+## Version 6.2.16
+- Added check to prevent other modules causing form rerenders to break 3d canvas data
+
 ## Version 6.2.15
 - Fixed darkness level sync not updated to v12
 - added compatibility for pf2 world time
