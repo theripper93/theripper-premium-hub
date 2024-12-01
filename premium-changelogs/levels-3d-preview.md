@@ -1,3 +1,7 @@
+## Version 6.3.2
+- Fixed collision calculations without dependencies
+- Fixed ruler caluclations wihtout dependencies
+
 ## Version 6.3.1
 - Added token height estimation for vision calcs in case wall heigth is not present for more realistic vision polygons
 
