@@ -1,3 +1,9 @@
+## Version 6.3.0
+- Refactored some code to minimize dependencies
+- Socket lib is no longer required
+- Levels and wallheight are now optional dependencies
+- Some feature might not be availeble without those optional dependencies
+
 ## Version 6.2.16
 - Added check to prevent other modules causing form rerenders to break 3d canvas data
 
