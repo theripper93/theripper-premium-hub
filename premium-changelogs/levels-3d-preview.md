@@ -1,3 +1,6 @@
+## Version 6.3.1
+- Added token height estimation for vision calcs in case wall heigth is not present for more realistic vision polygons
+
 ## Version 6.3.0
 - Refactored some code to minimize dependencies
 - Socket lib is no longer required
