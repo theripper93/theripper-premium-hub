@@ -1,3 +1,6 @@
+## Version 1.0.0
+- Minor fixes and supporter release
+
 ## Version 0.4.5
 
 
