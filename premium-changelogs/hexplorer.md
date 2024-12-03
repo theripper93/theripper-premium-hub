@@ -1,3 +1,9 @@
+## Version 1.0.1
+- Added localizations
+- Added warning for gridless scenes
+- Added apply button to brushes
+- Added total time calculation to chat message
+
 ## Version 1.0.0
 - Minor fixes and supporter release
 
