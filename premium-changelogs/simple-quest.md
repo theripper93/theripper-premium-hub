@@ -1,3 +1,6 @@
+## Version 2.3.10
+- fixed issue with incorrect zoom before first zoom event on map markers with fixed size
+
 ## Version 2.3.9
 - Secret blocks can now be toggled directly from simple quest with the hide\reveal button
 
