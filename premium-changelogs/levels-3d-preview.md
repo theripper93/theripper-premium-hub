@@ -1,3 +1,6 @@
+## Version 6.3.3
+- Updated dnd template preview wrapper for 4.x
+
 ## Version 6.3.2
 - Fixed collision calculations without dependencies
 - Fixed ruler caluclations wihtout dependencies
