@@ -1,3 +1,7 @@
+## Version 6.3.4
+- Fixed issue with new socket library and particle effects
+- Fixed issue with 3d canvas not working correctly without optional dependency wall height
+
 ## Version 6.3.3
 - Updated dnd template preview wrapper for 4.x
 
