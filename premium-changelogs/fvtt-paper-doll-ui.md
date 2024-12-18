@@ -1,3 +1,6 @@
+## Version 1.1.5
+- Fixed issue with multiple paper doll instances beeing opened under certain circumstances
+
 ## Version 1.1.4
 - Fixed missing setting text
 
