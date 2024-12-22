@@ -1,3 +1,6 @@
+## Version 3.0.5
+- Added compatibility for AppV2 item sheets
+
 ## Version 3.0.4
 - Dropping an item on top of an item in a recipe will place it in the same box as that item instead of requiring to drop the item in the empty area of a box
 
