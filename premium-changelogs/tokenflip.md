@@ -1,3 +1,8 @@
+## Version 3.0.1
+- Fixed actor menu showing non owned actors
+- Added setting to suppress auto flipping
+- Minor fixes and refactors
+
 ## Version 3.0.0
 - Remastered module with complete rewrite
 - Updated to APP V2
