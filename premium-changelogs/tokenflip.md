@@ -1,3 +1,6 @@
+## Version 3.0.2
+- fixed issue with incorrect setting configuration
+
 ## Version 3.0.1
 - Fixed actor menu showing non owned actors
 - Added setting to suppress auto flipping
