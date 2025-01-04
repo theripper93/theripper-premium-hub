@@ -1,3 +1,9 @@
+## Version 3.0.0
+- Remastered module with complete rewrite
+- Updated to APP V2
+- New feature to auto flip based on combat
+- New feature to auto flip based on macro condition
+
 ## Version 2.1.2
 - If a subject image is present, the token flip hud menu will prioritize that image as a preview
 
