@@ -1,3 +1,6 @@
+## Version 3.0.3
+- Fixed flip macro no longer working after remaster
+
 ## Version 3.0.2
 - fixed issue with incorrect setting configuration
 
