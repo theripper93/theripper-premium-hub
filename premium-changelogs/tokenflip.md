@@ -1,3 +1,6 @@
+## Version 3.0.4
+- fixed auto-flip in combat only flipping 1 token
+
 ## Version 3.0.3
 - Fixed flip macro no longer working after remaster
 
