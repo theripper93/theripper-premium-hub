@@ -1,3 +1,6 @@
+## Version 1.1.4
+- Fixed errors erroring out when there were no skill trees availeble
+
 ## Version 1.1.3
 - Fixed uuid field data validation which was mistakenly undone in the 1.1.2 update
 
