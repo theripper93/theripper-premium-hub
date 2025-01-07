@@ -1,3 +1,6 @@
+## Version 4.2.3
+- Fixes and updates for dnd 4.1.x adv\dis and fast forward handling
+
 ## Version 4.2.2
 - Updated for new roll methods in dnd 4.1
 
