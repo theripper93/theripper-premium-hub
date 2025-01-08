@@ -1,3 +1,6 @@
+## Version 4.1.1
+- If tokens are too large, hover distance will fallback to a center to center distance
+
 ## Version 4.1
 - Reworked highlight method to make it more resilient and solid
 
