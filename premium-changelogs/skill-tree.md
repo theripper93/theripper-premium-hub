@@ -1,3 +1,6 @@
+## Version 1.1.5
+- Sound effect is now independent from an item beeing unlocked
+
 ## Version 1.1.4
 - Fixed errors erroring out when there were no skill trees availeble
 
