@@ -1,3 +1,6 @@
+## Version 4.1.0
+- Removed deprecated custom docking feature
+
 ## Version 4.0.6
 - Improved error handling
 
