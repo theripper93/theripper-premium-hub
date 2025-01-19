@@ -1,3 +1,6 @@
+## Version 2.4.0
+- Added auto import feature for content creators, see wiki for details
+
 ## Version 2.3.10
 - fixed issue with incorrect zoom before first zoom event on map markers with fixed size
 
