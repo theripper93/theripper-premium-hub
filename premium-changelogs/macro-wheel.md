@@ -1,3 +1,6 @@
+## Version 2.0.4
+- Improved fix for compendium execution
+
 ## Version 2.0.3
 - fixed issue preventing macros from beein run from compendiums
 
