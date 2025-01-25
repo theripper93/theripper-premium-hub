@@ -1,3 +1,6 @@
+## Version 3.0.3
+- Fixed tile combiner not reading modified file name if clean name option is enabled
+
 ## Version 3.0.2
 - Added api endpoint to call the merge tiles function
 
