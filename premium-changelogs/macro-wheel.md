@@ -1,3 +1,6 @@
+## Version 2.0.3
+- fixed issue preventing macros from beein run from compendiums
+
 ## Version 2.0.2
 - Removed debugger
 - Fixed permission issue when not using the macro wheel folder
