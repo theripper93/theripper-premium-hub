@@ -1,3 +1,6 @@
+## Version 6.3.6
+- Fixed issue with 2d hidden door visualization on player side
+
 ## Version 6.3.4
 - Fixed issue with new socket library and particle effects
 - Fixed issue with 3d canvas not working correctly without optional dependency wall height
