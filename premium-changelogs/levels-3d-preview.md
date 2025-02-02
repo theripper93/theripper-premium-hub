@@ -1,3 +1,6 @@
+## Version 6.3.7
+- added utility macro to render current scene to a top down version game.Levels3DPreview.UTILS.renderSceneToImage() - shared context must be disable for the correct results
+
 ## Version 6.3.6
 - Fixed issue with 2d hidden door visualization on player side
 
