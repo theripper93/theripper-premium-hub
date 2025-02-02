@@ -1,3 +1,6 @@
+## Version 1.0.1
+- Bump version again
+
 ## Version 1.0.0
 - Bump version
 
