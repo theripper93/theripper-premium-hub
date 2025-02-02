@@ -1,3 +1,6 @@
+## Version 1.0.0
+- Bump version
+
 ## Version 0.3
 - Added new setting that changes the scene sidebar click to view a scene instead of open the configuration
 - Added setting to disable dynamic sorting
