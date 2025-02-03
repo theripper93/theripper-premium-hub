@@ -1,3 +1,6 @@
+## Version 1.4.0
+- Fixed wrong animation speed and or scaling due to DSN api canges
+
 ## Version 1.3.1
 - updated for DSN 5.1.1
 
