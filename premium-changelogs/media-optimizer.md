@@ -1,3 +1,6 @@
+## Version 4.0.0
+- Revamped module with new Appv2 for a fresh interface and dark mode support
+
 ## Version 3.0.3
 - Fixed tile combiner not reading modified file name if clean name option is enabled
 
