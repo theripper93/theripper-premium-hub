@@ -1,3 +1,6 @@
+## Version 4.2.4
+- Fixed blind rolls issue with latest dnd update
+
 ## Version 4.2.3
 - Fixes and updates for dnd 4.1.x adv\dis and fast forward handling
 
