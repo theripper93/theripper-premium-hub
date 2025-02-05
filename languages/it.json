@@ -1,0 +1,44 @@
+{
+    "theripper-premium-hub": {
+        "settings": {
+            "autoCheck": {
+                "hint": "Controlla automaticamente il carico mondiale se uno dei miei moduli premium ha aggiornamenti.",
+                "name": "Controlla gli aggiornamenti all'avvio"
+            },
+            "checkDisabled": {
+                "hint": "Controlla gli aggiornamenti sui moduli installati ma non abilitati.",
+                "name": "Controlla i moduli non abilitati"
+            }
+        },
+        "tweaks-menu": {
+            "cleanHeaderButtons": {
+                "hint": "Rimuovere il testo dai pulsanti di intestazione per renderli più puliti. \nSe usi molti dei miei moduli, potresti finire con molti pulsanti nelle intestazioni della finestra, questa opzione rimuove il testo da loro. \n(Richiede libwrapper)",
+                "name": "Pulsanti di intestazione puliti"
+            },
+            "compactSidebar": {
+                "hint": "Rendi le voci della barra laterale più piccole per adattarsi a più elementi sullo schermo.",
+                "name": "Barra laterale compatta"
+            },
+            "cssTweak": {
+                "hint": "Scrivi CSS personalizzati per modificare gli stili di fonderia o moduli. \nSono previsti tre campi per l'organizzazione, ma potresti anche usare solo un campo.",
+                "name": "Modifiche CSS"
+            },
+            "hint": "Configurare alcune funzionalità di qualità della vita, come macro di avvio, pulsanti di intestazione puliti e modifiche CSS.",
+            "initMacros": {
+                "hint": "Esegui macro sul carico mondiale. \nLe macro sono eseguite nell'ordine in cui sono elencate qui.",
+                "name": "Macro di avvio"
+            },
+            "label": "Configurare le modifiche",
+            "readyMacros": {
+                "hint": "Esegui macro quando il client è pronto. \nLe macro sono eseguite nell'ordine in cui sono elencate qui.",
+                "name": "Macro pronte"
+            },
+            "tabs": {
+                "css-tweaks": "Modifiche CSS",
+                "misc": "Varie",
+                "startup-macros": "Macro di avvio"
+            },
+            "title": "Modifiche"
+        }
+    }
+}

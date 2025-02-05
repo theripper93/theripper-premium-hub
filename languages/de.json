@@ -1,0 +1,44 @@
+{
+    "theripper-premium-hub": {
+        "settings": {
+            "autoCheck": {
+                "hint": "Überprüfen Sie die Weltlast automatisch, wenn eines meiner Premium -Module Aktualisierungen hat.",
+                "name": "Suchen Sie nach Updates zum Startup"
+            },
+            "checkDisabled": {
+                "hint": "Überprüfen Sie die Updates zu Modulen, die installiert, aber nicht aktiviert sind.",
+                "name": "Überprüfen Sie die Module, die nicht aktiviert sind"
+            }
+        },
+        "tweaks-menu": {
+            "cleanHeaderButtons": {
+                "hint": "Entfernen Sie den Text aus den Headertasten, um sie sauberer zu machen. \nWenn Sie viele meiner Module verwenden, werden Sie möglicherweise viele Schaltflächen in Fensterkopfzeilen entstehen. Diese Option entfernt den Text von ihnen. \n(Erfordert libwrapper)",
+                "name": "Säuber der Headerknöpfe"
+            },
+            "compactSidebar": {
+                "hint": "Machen Sie die Seitenleisteneinträge kleiner, um mehr Elemente auf den Bildschirm zu stecken.",
+                "name": "Kompakte Seitenleiste"
+            },
+            "cssTweak": {
+                "hint": "Schreiben Sie benutzerdefinierte CSS, um Gießerei- oder Modulstile zu ändern. \nFür die Organisation werden drei Felder bereitgestellt, aber Sie können auch nur ein Feld verwenden.",
+                "name": "CSS -Optimierungen"
+            },
+            "hint": "Konfigurieren Sie einige Lebensqualitätsfunktionen wie Startmakros, saubere Header -Tasten und CSS -Optimierungen.",
+            "initMacros": {
+                "hint": "Makros auf der Weltlast ausführen. \nMakros werden in der Reihenfolge ausgeführt, die sie hier aufgeführt sind.",
+                "name": "Start -up -Makros"
+            },
+            "label": "Tweaks konfigurieren",
+            "readyMacros": {
+                "hint": "Führen Sie Makros aus, wenn der Client fertig ist. \nMakros werden in der Reihenfolge ausgeführt, die sie hier aufgeführt sind.",
+                "name": "Bereitete Makros"
+            },
+            "tabs": {
+                "css-tweaks": "CSS -Optimierungen",
+                "misc": "Verschiedenes",
+                "startup-macros": "Start -up -Makros"
+            },
+            "title": "Optimierungen"
+        }
+    }
+}

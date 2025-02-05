@@ -1,0 +1,21 @@
+@import 'globals';
+
+#theripper-premium-hub ol {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    padding-bottom: 1rem;
+}
+
+#theripper-premium-hub a {
+    text-align: right;
+}
+
+.settings-list .theripper-premium-hub-announcements {
+    border: 1px solid var(--color-border-light-2);
+}
+
+#client-settings .item.category-tab.outdated::before {
+    content: "\f071";
+    color: var(--color-level-warning);
+}

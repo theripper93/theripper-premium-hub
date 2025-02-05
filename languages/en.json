@@ -1,3 +1,44 @@
 {
-    "MODULE.hello": "hello"
+    "theripper-premium-hub": {
+        "settings": {
+            "autoCheck": {
+                "name": "Check for Updates on Startup",
+                "hint": "Automatically check on world load if any of my premium modules have updates."
+            },
+            "checkDisabled": {
+                "name": "Check Modules not Enabled",
+                "hint": "Check for updates on modules that are installed but not enabled."
+            }
+        },
+        "tweaks-menu": {
+            "title": "Tweaks",
+            "label": "Configure Tweaks",
+            "hint": "Configure some quality of life features, such as Startup Macros, Clean Header Buttons, and CSS tweaks.",
+            "tabs": {
+                "misc": "Miscellaneous",
+                "startup-macros": "Startup Macros",
+                "css-tweaks": "CSS Tweaks"
+            },
+            "initMacros": {
+                "name": "Startup Macros",
+                "hint": "Execute macros on world load. Macros are executed in the order they are listed here."
+            },
+            "readyMacros": {
+                "name": "Ready Macros",
+                "hint": "Execute macros when the client is ready. Macros are executed in the order they are listed here."
+            },
+            "cssTweak": {
+                "name": "CSS Tweaks",
+                "hint": "Write custom CSS to modify Foundry or Modules styles. Three fields are provided for organization but you could also use just one field."
+            },
+            "cleanHeaderButtons": {
+                "name": "Clean Header Buttons",
+                "hint": "Remove text from header buttons to make them cleaner. If you use a lot of my modules, you might end up with a lot of buttons in window headers, this option removes the text from them. (Requires LibWrapper)"
+            },
+            "compactSidebar": {
+                "name": "Compact Sidebar",
+                "hint": "Make the sidebar entries smaller to fit more items on the screen."
+            }
+        }
+    }
 }

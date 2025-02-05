@@ -1,0 +1,44 @@
+{
+    "theripper-premium-hub": {
+        "settings": {
+            "autoCheck": {
+                "hint": "Vérifiez automatiquement le chargement mondial si l'un de mes modules premium a des mises à jour.",
+                "name": "Vérifiez les mises à jour sur le démarrage"
+            },
+            "checkDisabled": {
+                "hint": "Vérifiez les mises à jour sur les modules installés mais non activés.",
+                "name": "Vérifier les modules non activés"
+            }
+        },
+        "tweaks-menu": {
+            "cleanHeaderButtons": {
+                "hint": "Retirez le texte des boutons d'en-tête pour les rendre plus propres. \nSi vous utilisez beaucoup de mes modules, vous pourriez vous retrouver avec beaucoup de boutons dans les en-têtes de fenêtre, cette option en supprime le texte. \n(Nécessite libwrapper)",
+                "name": "Boutons d'en-tête"
+            },
+            "compactSidebar": {
+                "hint": "Rendez les entrées de la barre latérale plus petites pour s'adapter à plus d'éléments à l'écran.",
+                "name": "Barre latérale compacte"
+            },
+            "cssTweak": {
+                "hint": "Écrivez CSS personnalisé pour modifier les styles de fonderie ou de modules. \nTrois champs sont fournis pour l'organisation, mais vous pouvez également utiliser un seul champ.",
+                "name": "Ajustements CSS"
+            },
+            "hint": "Configurez certaines fonctionnalités de qualité de vie, telles que les macros de démarrage, les boutons d'en-tête propres et les ajustements CSS.",
+            "initMacros": {
+                "hint": "Exécutez des macros sur la charge mondiale. \nLes macros sont exécutées dans l'ordre où ils sont répertoriés ici.",
+                "name": "Macros de démarrage"
+            },
+            "label": "Configurer les ajustements",
+            "readyMacros": {
+                "hint": "Exécutez des macros lorsque le client est prêt. \nLes macros sont exécutées dans l'ordre où ils sont répertoriés ici.",
+                "name": "Macros prêtes"
+            },
+            "tabs": {
+                "css-tweaks": "Ajustements CSS",
+                "misc": "Divers",
+                "startup-macros": "Macros de démarrage"
+            },
+            "title": "Modifications"
+        }
+    }
+}

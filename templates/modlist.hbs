@@ -1,13 +1,13 @@
-<form id="theripper-premium-hub">
-    <ol>
+<div id="theripper-premium-hub">
+    <ol class="scrollable">
         {{#each this}}
         <li>
             <h2>{{title}}</h2>
-            <div class="form-group slim" style="flex-direction: column;align-items: flex-start;">
+            <div class="flexcol">
                 <label style="font-weight: bold;font-size: medium;">Version: {{currentVersion}} → {{version}}</label>
                 <p>{{{latestChangeLog}}}</p>
             </div>
         </li>
         {{/each}}
     </ol>
-</form>
+</div>

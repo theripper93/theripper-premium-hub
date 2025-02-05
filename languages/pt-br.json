@@ -1,0 +1,44 @@
+{
+    "theripper-premium-hub": {
+        "settings": {
+            "autoCheck": {
+                "hint": "Verifique automaticamente a carga mundial se algum dos meus módulos premium tiver atualizações.",
+                "name": "Verifique se há atualizações na inicialização"
+            },
+            "checkDisabled": {
+                "hint": "Verifique se há atualizações nos módulos instalados, mas não ativados.",
+                "name": "Verifique os módulos não ativados"
+            }
+        },
+        "tweaks-menu": {
+            "cleanHeaderButtons": {
+                "hint": "Remova o texto dos botões do cabeçalho para torná -los mais limpos. \nSe você usar muitos dos meus módulos, poderá acabar com muitos botões nos cabeçalhos da janela, essa opção remove o texto deles. \n(Requer libwrapper)",
+                "name": "Botões de cabeçalho limpos"
+            },
+            "compactSidebar": {
+                "hint": "Torne as entradas da barra lateral menor para se ajustarem a mais itens na tela.",
+                "name": "Barra lateral compacta"
+            },
+            "cssTweak": {
+                "hint": "Escreva CSS personalizado para modificar os estilos de fundição ou módulos. \nTrês campos são fornecidos para a organização, mas você também pode usar apenas um campo.",
+                "name": "Tweaks CSS"
+            },
+            "hint": "Configure alguns recursos de qualidade de vida, como macros de inicialização, botões de cabeçalho limpo e ajustes de CSS.",
+            "initMacros": {
+                "hint": "Execute macros na carga mundial. \nAs macros são executadas na ordem em que estão listadas aqui.",
+                "name": "Macros de inicialização"
+            },
+            "label": "Configure ajustes",
+            "readyMacros": {
+                "hint": "Execute macros quando o cliente estiver pronto. \nAs macros são executadas na ordem em que estão listadas aqui.",
+                "name": "Macros prontos"
+            },
+            "tabs": {
+                "css-tweaks": "Tweaks CSS",
+                "misc": "Variado",
+                "startup-macros": "Macros de inicialização"
+            },
+            "title": "Tweaks"
+        }
+    }
+}

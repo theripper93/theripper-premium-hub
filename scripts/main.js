@@ -1,23 +1,32 @@
-Hooks.on("ready", async () => {
-    if (game.settings.get("theripper-premium-hub", "cleanHeaderButtons")) {
-        libWrapper.register("theripper-premium-hub", "Application.prototype._renderOuter", async function (wrapped, ...args) {
-            const html = await wrapped(...args);
-            setTimeout(() => {
-                const header = html.find(".window-header")[0];
-                if (!header) return;
-                header.querySelectorAll(".header-button").forEach((button) => {
-                    const innerText = button.innerText.trim();
-                    if (innerText) {
-                        button.dataset.tooltip = button.innerText;
-                        button.dataset.tooltipDirection = "UP";
-                        button.innerHTML = button.innerHTML.replace(innerText, "");
-                    }
-                });
-            }, 1);
-            return html;
-        });
-    }
+import { TheRipperPremiumHUB } from "./app/TheRipperPremiumHUB.js";
+import { registerTweaksMenu } from "./app/tweaksMenu.js";
+import { initConfig } from "./config.js";
+import { showWelcome } from "./lib/welcome.js";
+import { registerSettings } from "./settings.js";
+import { runInitMacros, runReadyMacros } from "./tweaks/autorunMacros.js";
+import { registerCleanHeaderButtons } from "./tweaks/cleanHeaderButtons.js";
+import {applyCompactSidebar} from "./tweaks/compactSidebar.js";
+import {applyCSSTweaks} from "./tweaks/loadCss.js";
+import { reEnableModules } from "./tweaks/troubleshooter.js";
+
+export const MODULE_ID = "theripper-premium-hub";
+
+export const API = {};
+
+Hooks.on("init", () => {
+    registerSettings();
+    registerTweaksMenu();
+    registerCleanHeaderButtons();
+    applyCSSTweaks();
+    applyCompactSidebar();
+});
+
+Hooks.on("ready", () => {
+    showWelcome();
+    initConfig();
+    runReadyMacros();
 
     if (!game.user.isGM) return;
-    game.theripperpremiumhub = new TheRipperPremiumHUB();
+    reEnableModules();
+    API.hub = new TheRipperPremiumHUB();
 });

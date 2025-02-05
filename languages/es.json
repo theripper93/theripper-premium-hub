@@ -1,0 +1,44 @@
+{
+    "theripper-premium-hub": {
+        "settings": {
+            "autoCheck": {
+                "hint": "Verifique automáticamente la carga mundial si alguno de mis módulos premium tiene actualizaciones.",
+                "name": "Verifique las actualizaciones sobre el inicio"
+            },
+            "checkDisabled": {
+                "hint": "Verifique las actualizaciones de los módulos que están instalados pero no habilitados.",
+                "name": "Verificar módulos no habilitados"
+            }
+        },
+        "tweaks-menu": {
+            "cleanHeaderButtons": {
+                "hint": "Retire el texto de los botones de encabezado para que los limpien. \nSi usa muchos de mis módulos, puede terminar con muchos botones en los encabezados de la ventana, esta opción elimina el texto de ellos. \n(Requiere librapper)",
+                "name": "Botones de encabezado limpio"
+            },
+            "compactSidebar": {
+                "hint": "Haga las entradas de la barra lateral más pequeñas para adaptarse a más elementos en la pantalla.",
+                "name": "Barra lateral compacta"
+            },
+            "cssTweak": {
+                "hint": "Escriba CSS personalizado para modificar los estilos de fundición o módulos. \nSe proporcionan tres campos para la organización, pero también puede usar solo un campo.",
+                "name": "Ajustes CSS"
+            },
+            "hint": "Configure algunas características de calidad de vida, como macros de inicio, botones de encabezado limpio y ajustes CSS.",
+            "initMacros": {
+                "hint": "Ejecutar macros en la carga mundial. \nLas macros se ejecutan en el orden en que se enumeran aquí.",
+                "name": "Macros de inicio"
+            },
+            "label": "Configurar ajustes",
+            "readyMacros": {
+                "hint": "Ejecutar macros cuando el cliente esté listo. \nLas macros se ejecutan en el orden en que se enumeran aquí.",
+                "name": "Macros listas"
+            },
+            "tabs": {
+                "css-tweaks": "Ajustes CSS",
+                "misc": "Misceláneas",
+                "startup-macros": "Macros de inicio"
+            },
+            "title": "Ajustes"
+        }
+    }
+}
