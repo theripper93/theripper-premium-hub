@@ -238,6 +238,10 @@ export class TheRipperPremiumHUB {
     }
 
     async fetchAnnouncements() {
+        return { announcements: {} };
+
+        // Announcements are disabled for now
+
         try {
             const response = await fetch(`https://raw.githubusercontent.com/theripper93/theripper-premium-hub/master/moduleListing.json`, { cache: "no-cache" })
                 .then((response) => response.json())

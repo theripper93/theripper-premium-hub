@@ -38,7 +38,12 @@
             "compactSidebar": {
                 "name": "Compact Sidebar",
                 "hint": "Make the sidebar entries smaller to fit more items on the screen."
+            },
+            "enableSettingsSwap": {
+                "name": "Forced Client Settings",
+                "hint": "Enable the ability to change world settings to client settings. This will force the selected settings for all clients, players also no longer be able to see these settings."
             }
-        }
+        },
+        "wtcNotification": "Configuration for {setting} set to {value}. Please reload the game for the changes to take effect. Changes to the setting will not be saved until the next reload."
     }
 }

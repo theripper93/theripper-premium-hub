@@ -3,6 +3,7 @@ import {l} from "../lib/utils.js";
 import { MODULE_ID } from "../main";
 import {applyCompactSidebar} from "../tweaks/compactSidebar.js";
 import {applyCSSTweaks} from "../tweaks/loadCss.js";
+import {updateRegisterWrapper} from "../tweaks/worldToClient.js";
 
 export function registerTweaksMenu() {
     new FormBuilder().title(`${MODULE_ID}.tweaks-menu.title`)
@@ -17,6 +18,12 @@ export function registerTweaksMenu() {
             name: "compactSidebar",
             label: `${MODULE_ID}.tweaks-menu.compactSidebar.name`,
             hint: `${MODULE_ID}.tweaks-menu.compactSidebar.hint`,
+            value: false,
+        })
+        .checkbox({
+            name: "enableSettingsSwap",
+            label: `${MODULE_ID}.tweaks-menu.enableSettingsSwap.name`,
+            hint: `${MODULE_ID}.tweaks-menu.enableSettingsSwap.hint`,
             value: false,
         })
         .tab({id: "startup-macros", label: `${MODULE_ID}.tweaks-menu.tabs.startup-macros`, icon: "fas fa-magic"})
@@ -50,9 +57,11 @@ export function registerTweaksMenu() {
             icon: "fas fa-tools",
             scope: "world",
             defaultValue: {},
-            onChange: () => {
-                applyCSSTweaks();
-                applyCompactSidebar();
-            },
         });
+}
+
+export function onUpdateTweaksMenu() {
+    applyCSSTweaks();
+    applyCompactSidebar();
+    updateRegisterWrapper();
 }

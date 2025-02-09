@@ -8,10 +8,13 @@ import { registerCleanHeaderButtons } from "./tweaks/cleanHeaderButtons.js";
 import {applyCompactSidebar} from "./tweaks/compactSidebar.js";
 import {applyCSSTweaks} from "./tweaks/loadCss.js";
 import { reEnableModules } from "./tweaks/troubleshooter.js";
+import {initWorldToClient} from "./tweaks/worldToClient.js";
 
 export const MODULE_ID = "theripper-premium-hub";
 
 export const API = {};
+
+initWorldToClient();
 
 Hooks.on("init", () => {
     registerSettings();

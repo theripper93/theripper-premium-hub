@@ -94,15 +94,6 @@ export class FormBuilder {
             type: cls,
         });
 
-        game.settings.register(moduleId, key, {
-            scope,
-            config: false,
-            default: defaultValue,
-            type: Object,
-            onChange,
-            requiresReload,
-        });
-
         return {
             getSetting: () => game.settings.get(moduleId, key),
             setSetting: (value) => game.settings.set(moduleId, key, value),
