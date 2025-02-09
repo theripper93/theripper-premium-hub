@@ -113,7 +113,7 @@ export function dynamicImport(url) {
 export function confirm(title, content, options = {}) {
     title = l(title);
     content = l(content);
-    return foundry.applications.api.DialogV2.confirm({ window: { title }, content });
+    return foundry.applications.api.DialogV2.confirm({ window: { title }, width: 400, content, rejectClose: false, ...options });
 }
 
 export function prompt(title, content, options = {}) {
