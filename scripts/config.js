@@ -55,7 +55,7 @@ export function initConfig() {
             const moduleId = el.getAttribute("data-tab");
             const module = game.modules.get(moduleId);
             if (!module) return;
-            if (!Array.from(module.authors).some((a) => a.name === "theripper93")) return;
+            const isRipper = Array.from(module.authors).some((a) => a.name === "theripper93");
             const title = el.querySelector("h2");
             title.style.display = "flex";
             const wikiButton = document.createElement("a");
@@ -65,10 +65,10 @@ export function initConfig() {
             wikiButton.setAttribute("href", `https://api.theripper93.com/modulewiki/${moduleId}/${status}`);
             wikiButton.setAttribute("target", "_blank");
             wikiButton.innerHTML = `<i data-tooltip="Open Documentation" class="fas fa-book"></i>`;
-            title.appendChild(wikiButton);
+            if(isRipper) title.appendChild(wikiButton);
 
             const supportButton = document.createElement("a");
-            supportButton.style.marginLeft = "0.5rem";
+            supportButton.style.marginLeft = isRipper ? "0.5rem" : "auto";
             supportButton.classList.add("wiki-button");
             supportButton.innerHTML = `<i data-tooltip="Generate Support Report" class="fas fa-question-circle"></i>`;
             supportButton.addEventListener("click", (e) => {

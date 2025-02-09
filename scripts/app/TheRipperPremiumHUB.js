@@ -1,4 +1,4 @@
-import { prompt } from "../lib/utils";
+import {prompt, confirm} from "../lib/utils";
 
 export class TheRipperPremiumHUB {
     constructor() {
@@ -282,17 +282,11 @@ export class TheRipperPremiumHUB {
     }
 
     async troubleshoot(moduleId) {
-        const confirm = await Dialog.confirm({
-            title: "TheRipper93 Premium HUB - Troubleshoot",
-            content: `<p>Do you want to start the troubleshoot for ${game.modules.get(moduleId).title}?</p><br><p>This will disable all modules except the one you selected and its dependencies. You will be prompted to restore your modules after the troubleshoot.</p>`,
-            yes: () => {
-                return true;
-            },
-            no: () => {
-                return false;
-            },
-        });
-        if (!confirm) return;
+        const confirmed = await confirm(
+            "TheRipper93 Premium HUB - Troubleshoot",
+            `<p>Do you want to start the troubleshoot for ${game.modules.get(moduleId).title}?</p><br><p>This will disable all modules except the one you selected and its dependencies. You will be prompted to restore your modules after the troubleshoot.</p>`,
+        );
+        if (!confirmed) return;
         const dependencies = this.getDependencies(moduleId);
         const dependenciesIds = [...Array.from(dependencies).map((m) => m.id), moduleId, "theripper-premium-hub"];
         const modulesSetting = game.settings.get("core", ModuleManagement.CONFIG_SETTING);
@@ -304,6 +298,6 @@ export class TheRipperPremiumHUB {
         }
         await game.settings.set("theripper-premium-hub", "prevEnabledModules", currentlyEnabled);
         await game.settings.set("core", ModuleManagement.CONFIG_SETTING, modulesSetting);
-        debouncedReload();
+        foundry.utils.debouncedReload();
     }
 }
