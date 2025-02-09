@@ -1,6 +1,6 @@
-import {onUpdateTweaksMenu} from "../app/tweaksMenu.js";
+import { onUpdateTweaksMenu } from "../app/tweaksMenu.js";
 import { MODULE_ID } from "../main.js";
-import {getSetting, setSetting} from "../settings.js";
+import { getSetting, setSetting } from "../settings.js";
 
 const ALLOW_WORLD_TO_CLIENT = false;
 
@@ -21,8 +21,8 @@ export function initWorldToClient() {
 }
 
 export function updateRegisterWrapper(wrap) {
-    if(wrap === undefined) wrap = getSetting("tweaks").enableSettingsSwap;
-    if(wrap) {
+    if (wrap === undefined) wrap = getSetting("tweaks").enableSettingsSwap;
+    if (wrap) {
         wrapRegister();
     } else {
         unwrapRegister();
@@ -45,22 +45,27 @@ function registerFirst() {
         type: Object,
         onChange: (value) => {
             onUpdateTweaksMenu();
-        }
+        },
     });
     updateRegisterWrapper();
 }
 
 function wrapRegister() {
     ClientSettings.prototype.register = function (...args) {
-        registerFirst.call(this);
-        const [namespace, key, data] = args;
-        if (namespace === MODULE_ID) return originalRegisterSetting.call(this, ...args);
-        const configuration = getSetting("ctwConfiguration");
-        if (configuration[namespace + key] && configuration[namespace + key] !== data.scope) {
-            data.scope = configuration[namespace + key];
-            ALTERED_SETTING_IDS.push(namespace + "." + key);
+        try {
+            registerFirst.call(this);
+            const [namespace, key, data] = args;
+            if (namespace === MODULE_ID) return originalRegisterSetting.call(this, ...args);
+            const configuration = getSetting("ctwConfiguration");
+            if (configuration[namespace + key] && configuration[namespace + key] !== data.scope) {
+                data.scope = configuration[namespace + key];
+                ALTERED_SETTING_IDS.push(namespace + "." + key);
+            }
+            return originalRegisterSetting.call(this, ...args);
+        } catch (error) {
+            console.error(error);
+            return originalRegisterSetting.call(this, ...args);
         }
-        return originalRegisterSetting.call(this, ...args);
     };
 }
 
@@ -71,7 +76,7 @@ function unwrapRegister() {
 function initConfig() {
     if (!game.user.isGM) return;
     Hooks.on("renderSettingsConfig", (app, html) => {
-        if(!getSetting("tweaks").enableSettingsSwap) return;
+        if (!getSetting("tweaks").enableSettingsSwap) return;
         const element = html[0] ?? html;
 
         const settingsFormGroups = element.querySelectorAll(".form-group[data-setting-id]");
