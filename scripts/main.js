@@ -6,6 +6,7 @@ import { registerSettings } from "./settings.js";
 import { runInitMacros, runReadyMacros } from "./tweaks/autorunMacros.js";
 import { registerCleanHeaderButtons } from "./tweaks/cleanHeaderButtons.js";
 import {applyCompactSidebar} from "./tweaks/compactSidebar.js";
+import {applyDiceTrayTweaks} from "./tweaks/diceTray.js";
 import {applyCSSTweaks} from "./tweaks/loadCss.js";
 import { reEnableModules } from "./tweaks/troubleshooter.js";
 import {initWorldToClient} from "./tweaks/worldToClient.js";
@@ -22,6 +23,7 @@ Hooks.on("init", () => {
     registerCleanHeaderButtons();
     applyCSSTweaks();
     applyCompactSidebar();
+    applyDiceTrayTweaks(true);
 });
 
 Hooks.on("ready", () => {

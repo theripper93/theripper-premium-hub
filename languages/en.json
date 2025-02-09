@@ -42,6 +42,10 @@
             "enableSettingsSwap": {
                 "name": "Forced Client Settings",
                 "hint": "Enable the ability to change world settings to client settings. This will force the selected settings for all clients, players also no longer be able to see these settings."
+            },
+            "diceTray": {
+                "name": "Dice Tray",
+                "hint": "Add a dice tray to the chat log. This will allow you to roll dice and add modifiers to them."
             }
         },
         "wtcNotification": "Configuration for {setting} set to {value}. Please reload the game for the changes to take effect. Changes to the setting will not be saved until the next reload."
