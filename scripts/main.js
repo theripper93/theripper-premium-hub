@@ -3,6 +3,7 @@ import { registerTweaksMenu } from "./app/tweaksMenu.js";
 import { initConfig } from "./config.js";
 import { showWelcome } from "./lib/welcome.js";
 import { registerSettings } from "./settings.js";
+import {initAutoRotation} from "./tweaks/autoRotation.js";
 import { runInitMacros, runReadyMacros } from "./tweaks/autorunMacros.js";
 import { registerCleanHeaderButtons } from "./tweaks/cleanHeaderButtons.js";
 import {applyCompactSidebar} from "./tweaks/compactSidebar.js";
@@ -24,6 +25,7 @@ Hooks.on("init", () => {
     applyCSSTweaks();
     applyCompactSidebar();
     applyDiceTrayTweaks(true);
+    initAutoRotation();
 });
 
 Hooks.on("ready", () => {

@@ -1,6 +1,7 @@
 import {FormBuilder} from "../lib/formBuilder.js";
 import {l} from "../lib/utils.js";
 import { MODULE_ID } from "../main";
+import {initAutoRotation} from "../tweaks/autoRotation.js";
 import {applyCompactSidebar} from "../tweaks/compactSidebar.js";
 import {applyDiceTrayTweaks} from "../tweaks/diceTray.js";
 import {applyCSSTweaks} from "../tweaks/loadCss.js";
@@ -32,6 +33,17 @@ export function registerTweaksMenu() {
             label: `${MODULE_ID}.tweaks-menu.diceTray.name`,
             hint: `${MODULE_ID}.tweaks-menu.diceTray.hint`,
             value: false,
+        })
+        .select({
+            name: "autoRotate",
+            label: `${MODULE_ID}.tweaks-menu.autoRotate.name`,
+            hint: `${MODULE_ID}.tweaks-menu.autoRotate.hint`,
+            options: {
+                0: `${MODULE_ID}.tweaks-menu.autoRotate.none`,
+                1: `${MODULE_ID}.tweaks-menu.autoRotate.defaultOn`,
+                2: `${MODULE_ID}.tweaks-menu.autoRotate.defaultOff`,
+            },
+            value: 0,
         })
         .tab({id: "startup-macros", label: `${MODULE_ID}.tweaks-menu.tabs.startup-macros`, icon: "fas fa-magic"})
         .uuid({
@@ -72,4 +84,5 @@ export function onUpdateTweaksMenu() {
     applyCompactSidebar();
     updateRegisterWrapper();
     applyDiceTrayTweaks();
+    initAutoRotation();
 }
