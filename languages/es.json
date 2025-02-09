@@ -38,7 +38,26 @@
                 "misc": "Misceláneas",
                 "startup-macros": "Macros de inicio"
             },
-            "title": "Ajustes"
-        }
+            "title": "Ajustes",
+            "autoRotate": {
+                "default": "Por defecto",
+                "defaultOff": "Habilitado (desactivado por defecto)",
+                "defaultOn": "Habilitado (predeterminado encendido)",
+                "hint": "Gire automáticamente las fichas para enfrentar la dirección de movimiento y el token objetivo.",
+                "name": "Rotación automática",
+                "none": "Desactivado",
+                "off": "Desactivado",
+                "on": "Activado"
+            },
+            "diceTray": {
+                "hint": "Agregue una bandeja de dados al registro de chat. \nEsto le permitirá tirar dados y agregarles modificadores.",
+                "name": "Bandeja de dados"
+            },
+            "enableSettingsSwap": {
+                "hint": "Habilite la capacidad de cambiar la configuración del mundo a la configuración del cliente. \nEsto obligará a la configuración seleccionada para todos los clientes, los jugadores ya no podrán ver estas configuraciones.",
+                "name": "Configuración del cliente forzado"
+            }
+        },
+        "wtcNotification": "Configuración para {configuración} establecida en {valor}. \nRecargue el juego para que los cambios entren en vigencia. \nLos cambios en la configuración no se guardarán hasta la próxima recarga."
     }
 }

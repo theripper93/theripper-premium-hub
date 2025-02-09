@@ -38,7 +38,26 @@
                 "misc": "Verschiedenes",
                 "startup-macros": "Start -up -Makros"
             },
-            "title": "Optimierungen"
-        }
+            "title": "Optimierungen",
+            "autoRotate": {
+                "default": "Standard",
+                "defaultOff": "Aktiviert (Standard aus)",
+                "defaultOn": "Aktiviert (standardmäßig)",
+                "hint": "Drehen Sie die Token automatisch, um sich der Bewegungsrichtung und dem gezielten Token zu stellen.",
+                "name": "Automatisch drehen",
+                "none": "Deaktiviert",
+                "off": "Deaktiviert",
+                "on": "Ermöglicht"
+            },
+            "diceTray": {
+                "hint": "Fügen Sie dem Chat -Protokoll eine Würfelschale hinzu. \nAuf diese Weise können Sie Würfel rollen und ihnen Modifikatoren hinzufügen.",
+                "name": "Würfelschale"
+            },
+            "enableSettingsSwap": {
+                "hint": "Aktivieren Sie die Fähigkeit, die Welteinstellungen in Kundeneinstellungen zu ändern. \nDies erzwingt die ausgewählten Einstellungen für alle Kunden, und Spieler können diese Einstellungen auch nicht mehr sehen.",
+                "name": "Erzwungene Kundeneinstellungen"
+            }
+        },
+        "wtcNotification": "Konfiguration für {Einstellung} auf {value} festgelegt. \nBitte laden Sie das Spiel neu, damit die Änderungen wirksam werden. \nÄnderungen an der Einstellung werden erst zum nächsten Nachladen gespeichert."
     }
 }

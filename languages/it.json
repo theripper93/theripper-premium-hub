@@ -38,7 +38,26 @@
                 "misc": "Varie",
                 "startup-macros": "Macro di avvio"
             },
-            "title": "Modifiche"
-        }
+            "title": "Modifiche",
+            "autoRotate": {
+                "default": "Predefinito",
+                "defaultOff": "Abilitato (impostazione predefinita)",
+                "defaultOn": "Abilitato (impostazione predefinita)",
+                "hint": "Ruotare automaticamente i token per affrontare la direzione del movimento e il token mirato.",
+                "name": "Ruotare automaticamente",
+                "none": "Disabile",
+                "off": "Disabile",
+                "on": "Abilitato"
+            },
+            "diceTray": {
+                "hint": "Aggiungi un vassoio di dadi al registro della chat. \nQuesto ti permetterà di lanciare dadi e aggiungere modificatori ad essi.",
+                "name": "Vassoio da dadi"
+            },
+            "enableSettingsSwap": {
+                "hint": "Abilita la possibilità di modificare le impostazioni del mondo alle impostazioni del client. \nCiò costringerà le impostazioni selezionate per tutti i clienti, anche i giocatori non saranno più in grado di vedere queste impostazioni.",
+                "name": "Impostazioni client forzate"
+            }
+        },
+        "wtcNotification": "Configurazione per {impostazione} imposta su {value}. \nRicarica il gioco per le modifiche per avere effetto. \nLe modifiche all'impostazione non verranno salvate fino alla ricarica successiva."
     }
 }

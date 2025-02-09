@@ -38,7 +38,26 @@
                 "misc": "Divers",
                 "startup-macros": "Macros de démarrage"
             },
-            "title": "Modifications"
-        }
+            "title": "Modifications",
+            "autoRotate": {
+                "default": "Défaut",
+                "defaultOff": "Activé (par défaut)",
+                "defaultOn": "Activé (par défaut sur)",
+                "hint": "Faites tourner automatiquement les jetons pour faire face à la direction du mouvement et au jeton ciblé.",
+                "name": "Faire pivoter automatiquement",
+                "none": "Désactivé",
+                "off": "Désactivé",
+                "on": "Activé"
+            },
+            "diceTray": {
+                "hint": "Ajoutez un plateau de dés au journal de chat. \nCela vous permettra de rouler des dés et de leur ajouter des modificateurs.",
+                "name": "Plateau en dés"
+            },
+            "enableSettingsSwap": {
+                "hint": "Activez la possibilité de modifier les paramètres du monde en paramètres du client. \nCela forcera les paramètres sélectionnés pour tous les clients, les joueurs ne pourront pas non plus voir ces paramètres.",
+                "name": "Paramètres du client forcé"
+            }
+        },
+        "wtcNotification": "Configuration pour {paramètre} Défini sur {valeur}. \nVeuillez recharger le jeu pour que les modifications prennent effet. \nLes modifications du paramètre ne seront pas enregistrées avant le prochain rechargement."
     }
 }

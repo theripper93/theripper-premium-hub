@@ -38,7 +38,26 @@
                 "misc": "Variado",
                 "startup-macros": "Macros de inicialização"
             },
-            "title": "Tweaks"
-        }
+            "title": "Tweaks",
+            "autoRotate": {
+                "default": "Padrão",
+                "defaultOff": "Ativado (padrão desligado)",
+                "defaultOn": "Ativado (padrão)",
+                "hint": "Gire automaticamente os tokens para enfrentar a direção do movimento e o token alvo.",
+                "name": "Gire automático",
+                "none": "Desabilitado",
+                "off": "Desabilitado",
+                "on": "Habilitado"
+            },
+            "diceTray": {
+                "hint": "Adicione uma bandeja de dados ao log de bate -papo. \nIsso permitirá que você role dados e adicione modificadores a eles.",
+                "name": "Bandeja de dados"
+            },
+            "enableSettingsSwap": {
+                "hint": "Habilite a capacidade de alterar as configurações mundiais para as configurações do cliente. \nIsso forçará as configurações selecionadas para todos os clientes, os jogadores também não poderão mais ver essas configurações.",
+                "name": "Configurações forçadas do cliente"
+            }
+        },
+        "wtcNotification": "Configuração para {Setting} definido como {value}. \nRecarregue o jogo para que as mudanças entrem em vigor. \nAs alterações na configuração não serão salvas até a próxima recarga."
     }
 }
