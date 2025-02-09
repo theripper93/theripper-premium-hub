@@ -46,6 +46,9 @@ diceButtons.forEach((button) => {
 function renderChatHook(app) {
     const diceTray = document.createElement("div");
     diceTray.style.flex = "0 0";
+    diceTray.style.height = "3rem";
+    diceTray.style.minHeight = "3rem";
+    diceTray.style.overflow = "hidden";
     let html = "";
     html += `<div class="flexrow">`;
     diceButtons.forEach((button) => {
@@ -66,6 +69,8 @@ function renderChatHook(app) {
     const style = document.createElement("style");
     style.innerHTML = `
         .buttons-stacked{
+            align-items: center;
+            justify-content: space-around;
             button{
                 font-size: x-small;
                 padding: 0;
@@ -119,11 +124,13 @@ function onButtonClick(event) {
     const action = button.dataset.button;
 
     //Play bounce up animation
-    button.animate([{transform: isLeftClick ? 'scale(1.1)' : 'scale(0.9)'}, {transform: 'scale(1)'}], {duration: 100});
+    button.style.transformOrigin = isLeftClick ? 'bottom' : 'top';
+    button.animate([{transform: isLeftClick ? 'scale(1.1)' : 'scale(1.1)'}, {transform: 'scale(1)'}], {duration: 100});
 
     // Handle roll button emulate enter press
     if (action === "roll") {
         diceTrayData = deepClone(defaultDiceTrayData);
+        document.querySelector(".dice-tray-button[data-button='count']").innerText = "0";
         if(isLeftClick) ui.chat.processMessage(document.querySelector("#chat-form textarea").value);
         return buildRoll();
     }
