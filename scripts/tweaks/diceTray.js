@@ -5,7 +5,7 @@ export function applyDiceTrayTweaks(startup = false) {
     getSetting("tweaks").diceTray ? Hooks.on("renderChatLog", renderChatHook) : Hooks.off("renderChatLog", renderChatHook);
     if (!startup) ui.chat.render(true);
 }
-const diceButtons = ["4", "6", "8", "10", "12", "20"].map((count) => ({ name: `d${count}`, icon: `dice-d${count}` }));
+const diceButtons = ["4", "6", "8", "10", "12", "20", "100"].map((count) => ({ name: `d${count}`, icon: `dice-d${count}` }));
 let diceTrayData = {};
 
 const defaultDiceTrayData = {
@@ -15,7 +15,9 @@ const defaultDiceTrayData = {
 };
 
 function renderChatHook(app) {
+    if(document.querySelector(".dice-tray-container")) return;
     const diceTray = document.createElement("div");
+    diceTray.classList.add("dice-tray-container");
     diceTray.style.flex = "0 0";
     diceTray.style.height = "3rem";
     diceTray.style.minHeight = "3rem";
@@ -23,7 +25,10 @@ function renderChatHook(app) {
     let html = "";
     html += `<div class="flexrow">`;
     diceButtons.forEach((button) => {
-        html += `<button class="dice-tray-button" data-tooltip-direction="UP" data-tooltip="${button.name.toUpperCase()}" data-button="dice|${button.name}"><i class="fad fa-${button.icon}"></i></button>`;
+        if (button.name === "d100") return;
+        let tooltip = button.name.toUpperCase();
+        if(button.name === "d20") tooltip += " (ALT → D100)";
+        html += `<button class="dice-tray-button" data-tooltip-direction="UP" data-tooltip="${tooltip}" data-button="dice|${button.name}"><i class="fad fa-${button.icon}"></i></button>`;
     });
     // Adv Dis buttons
     html += `<div class="flexcol buttons-stacked">`;
@@ -87,15 +92,19 @@ function onButtonClick(event) {
     const isLeftClick = event.button === 0;
     const isRightClick = event.button === 2;
     const increment = event.shiftKey ? 2 : event.ctrlKey ? 5 : 1;
-    const action = button.dataset.button;
+    const action = button.dataset.button === "dice|d20" && event.altKey ? "dice|d100" : button.dataset.button;
 
     button.style.transformOrigin = isLeftClick ? "bottom" : "top";
     button.animate([{ transform: "scale(1.1)" }, { transform: "scale(1)" }], { duration: 100 });
 
     if (action === "roll") {
+        const manualRoll = event.altKey;
+        const diceConfiguration = deepClone(game.settings.get("core", "diceConfiguration"));
+        if (manualRoll) game.settings.set("core", "diceConfiguration", Object.keys(diceConfiguration).reduce((acc, key) => ({ ...acc, [key]: "manual" }), {}));
         diceTrayData = deepClone(defaultDiceTrayData);
         document.querySelector(".dice-tray-button[data-button='count']").innerText = "+0";
         if (isLeftClick) ui.chat.processMessage(document.querySelector("#chat-form textarea").value);
+        if (manualRoll) game.settings.set("core", "diceConfiguration", diceConfiguration);
     }
 
     if (action.includes("dice|")) {
