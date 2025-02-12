@@ -1,3 +1,6 @@
+## Version 1.0.5
+- Minor fixes
+
 ## Version 1.0.4
 - Minor small corrections and fixes
 - Blood will now appear once the lockdown starts
