@@ -1,8 +1,16 @@
 import { deepClone } from "../lib/utils";
-import { getSetting } from "../settings";
+import {getSetting} from "../settings";
+
+let hookState = false;
 
 export function applyDiceTrayTweaks(startup = false) {
-    getSetting("tweaks").diceTray ? Hooks.on("renderChatLog", renderChatHook) : Hooks.off("renderChatLog", renderChatHook);
+    if (getSetting("tweaks").diceTray) {
+        if (!hookState) Hooks.on("renderChatLog", renderChatHook);
+        hookState = true;
+    } else {
+        if (hookState) Hooks.off("renderChatLog", renderChatHook);
+        hookState = false;
+    }
     if (!startup) ui.chat.render(true);
 }
 const diceButtons = ["4", "6", "8", "10", "12", "20", "100"].map((count) => ({ name: `d${count}`, icon: `dice-d${count}` }));

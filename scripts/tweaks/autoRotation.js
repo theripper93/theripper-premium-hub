@@ -2,6 +2,8 @@ import { l } from "../lib/utils";
 import { MODULE_ID } from "../main";
 import { getSetting } from "../settings";
 
+let hookState = false;
+
 export function initAutoRotation() {
     const enabled = getSetting("tweaks").autoRotate;
 
@@ -9,10 +11,14 @@ export function initAutoRotation() {
         Hooks.on("preUpdateToken", onTokenPreUpdate);
         Hooks.on("targetToken", onTarget);
         Hooks.on("renderTokenConfig", onRenderTokenConfig);
+        hookState = true;
     } else {
-        Hooks.off("preUpdateToken", onTokenPreUpdate);
-        Hooks.off("targetToken", onTarget);
-        Hooks.off("renderTokenConfig", onRenderTokenConfig);
+        if (hookState) {
+            Hooks.off("preUpdateToken", onTokenPreUpdate);
+            Hooks.off("targetToken", onTarget);
+            Hooks.off("renderTokenConfig", onRenderTokenConfig);
+            hookState = false;
+        }
     }
 }
 
@@ -23,7 +29,7 @@ function onTokenPreUpdate(tokenDocument, updates) {
             y: updates.y ?? tokenDocument.y,
             originalX: tokenDocument.x,
             originalY: tokenDocument.y,
-        })
+        });
         const rotation = getRotation(tokenDocument, {
             x: updates.x ?? tokenDocument.x,
             y: updates.y ?? tokenDocument.y,
@@ -31,7 +37,7 @@ function onTokenPreUpdate(tokenDocument, updates) {
             height: tokenDocument.height,
             parent: tokenDocument.parent,
         });
-        if(rotation !== false) updates.rotation = rotation;
+        if (rotation !== false) updates.rotation = rotation;
     }
 }
 
@@ -39,7 +45,7 @@ function onTarget(user, token, targeted) {
     if (!targeted || !canvas.tokens.controlled.length) return;
     const sourceToken = canvas.tokens.controlled[0];
     const rotation = getRotation(sourceToken.document, token.document);
-    if(rotation !== false) sourceToken.document.update({ rotation });
+    if (rotation !== false) sourceToken.document.update({ rotation });
 }
 
 function onRenderTokenConfig(app) {
