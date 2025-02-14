@@ -1,3 +1,6 @@
+## Version 2.2.2
+- Effect description display setting is now correctly mirrored from CCT
+
 ## Version 2.2.1
 - fixed border rounding on wrong side in new docking mode
 - if the portraits are too big or too many, party hud will try to scroll the container
