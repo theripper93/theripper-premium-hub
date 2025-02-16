@@ -1,3 +1,8 @@
+## Version 2.1.0
+- The module can now be used even without Levels
+- Changed module name to AutoCover - Automatic Cover Calculator
+- Added option to always show token names ignoring ownership
+
 ## Version 2.0.0
 - V12 update
 
