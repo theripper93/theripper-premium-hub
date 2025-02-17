@@ -1,3 +1,6 @@
+## Version 2.4.1
+- Fixed permission issues with some map interactions
+
 ## Version 2.4.0
 - Added auto import feature for content creators, see wiki for details
 
