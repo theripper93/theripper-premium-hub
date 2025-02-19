@@ -1,3 +1,7 @@
+## Version 2.4.2
+- Removed delete and duplicate buttons from top header
+- Added right click context menu to most things in simple quest that lets you configure ownership\delete\edit\duplicate
+
 ## Version 2.4.1
 - Fixed permission issues with some map interactions
 
