@@ -1,3 +1,6 @@
+## Version 6.3.8
+- Fixed issue that could potentially reveal the scene for one frame  when switching to very simple scenes on fast hardware
+
 ## Version 6.3.7
 - added utility macro to render current scene to a top down version game.Levels3DPreview.UTILS.renderSceneToImage() - shared context must be disable for the correct results
 
