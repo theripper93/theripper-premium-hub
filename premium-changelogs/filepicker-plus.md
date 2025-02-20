@@ -1,3 +1,6 @@
+## Version 4.3.3
+- Swapped browser native clipboard helper with foundry one for better compatibility
+
 ## Version 4.3.2
 - Added missing lib wrapper requirement to manifest
 
