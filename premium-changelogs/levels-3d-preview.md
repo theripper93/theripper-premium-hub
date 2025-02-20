@@ -1,3 +1,7 @@
+## Version 6.3.9
+- Fixed problem with broken compendium in previous release
+- Fixed ray templates not rendering at correct width
+
 ## Version 6.3.8
 - Fixed issue that could potentially reveal the scene for one frame  when switching to very simple scenes on fast hardware
 
