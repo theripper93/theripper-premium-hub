@@ -1,3 +1,6 @@
+## Version 6.3.10
+- Prevented 2D canvas from flashing for 1 frame revealing the scene during 3D loading under certain circumstances
+
 ## Version 6.3.9
 - Fixed problem with broken compendium in previous release
 - Fixed ray templates not rendering at correct width
