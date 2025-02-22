@@ -1,3 +1,6 @@
+## Version 2.5.3
+- re-release
+
 ## Version 2.5.2
 - Attempt at blind fix to potential context menu issues
 
