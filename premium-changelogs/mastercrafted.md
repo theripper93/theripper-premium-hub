@@ -1,3 +1,6 @@
+## Version 3.0.6
+- Added better error handling for broken items
+
 ## Version 3.0.5
 - Added compatibility for AppV2 item sheets
 
