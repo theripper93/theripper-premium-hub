@@ -1,3 +1,6 @@
+## Version 2.5.2
+- Attempt at blind fix to potential context menu issues
+
 ## Version 2.5.1
 - Fixed issue with history not correctly processed when simple quest is closed
 
