@@ -1,3 +1,7 @@
+## Version 2.5.4
+- Fixed issue with context menu in windowed mode
+- Improved context menu styling
+
 ## Version 2.5.3
 - re-release
 
