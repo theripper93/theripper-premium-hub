@@ -1,3 +1,6 @@
+## Version 2.5.1
+- Fixed issue with history not correctly processed when simple quest is closed
+
 ## Version 2.5.0
 - Added new history feature (default on) that can be used to navigate back to previously visited pages
 
