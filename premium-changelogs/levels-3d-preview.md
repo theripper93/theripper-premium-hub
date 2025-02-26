@@ -1,3 +1,6 @@
+## Version 6.3.11
+- Fixed issue with templates beeing flattened upon placement
+
 ## Version 6.3.10
 - Prevented 2D canvas from flashing for 1 frame revealing the scene during 3D loading under certain circumstances
 
