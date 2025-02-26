@@ -44,6 +44,7 @@ function onTokenPreUpdate(tokenDocument, updates) {
 function onTarget(user, token, targeted) {
     if (!targeted || !canvas.tokens.controlled.length) return;
     const sourceToken = canvas.tokens.controlled[0];
+    if(token === sourceToken) return;
     const rotation = getRotation(sourceToken.document, token.document);
     if (rotation !== false) sourceToken.document.update({ rotation });
 }
