@@ -1,3 +1,6 @@
+## Version 6.3.12
+- Fixed issue with template elevation rendering
+
 ## Version 6.3.11
 - Fixed issue with templates beeing flattened upon placement
 
