@@ -1,3 +1,6 @@
+## Version 2.5.5
+- Fixed issue with history beeing shared between worlds. This will reset your current history
+
 ## Version 2.5.4
 - Fixed issue with context menu in windowed mode
 - Improved context menu styling
