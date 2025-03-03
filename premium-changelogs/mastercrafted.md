@@ -1,3 +1,6 @@
+## Version 3.0.7
+- Improved item fetching safety for edge cases
+
 ## Version 3.0.6
 - Added better error handling for broken items
 
