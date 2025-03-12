@@ -1,4 +1,7 @@
 ## Version 2.5.5
+- secret can now be visible to all owners instead of gm only
+
+## Version 2.5.5
 - Fixed issue with history beeing shared between worlds. This will reset your current history
 
 ## Version 2.5.4
