@@ -2,62 +2,62 @@
     "theripper-premium-hub": {
         "settings": {
             "autoCheck": {
-                "hint": "Verifique automaticamente a carga mundial se algum dos meus módulos premium tiver atualizações.",
-                "name": "Verifique se há atualizações na inicialização"
+                "name": "Verificar Atualizações ao Iniciar",
+                "hint": "Verifica automaticamente no carregamento do mundo se algum dos meus módulos premium possuem atualizações."
             },
             "checkDisabled": {
-                "hint": "Verifique se há atualizações nos módulos instalados, mas não ativados.",
-                "name": "Verifique os módulos não ativados"
+                "name": "Verificar Módulos Desabilitados",
+                "hint": "Verifica se há atualizações em módulos instalados, porém desabilitados."
             }
         },
         "tweaks-menu": {
-            "cleanHeaderButtons": {
-                "hint": "Remova o texto dos botões do cabeçalho para torná -los mais limpos. \nSe você usar muitos dos meus módulos, poderá acabar com muitos botões nos cabeçalhos da janela, essa opção remove o texto deles. \n(Requer libwrapper)",
-                "name": "Botões de cabeçalho limpos"
+            "title": "Ajustes",
+            "label": "Configurar Ajustes",
+            "hint": "Configure alguns recursos de qualidade de vida, como Macros de Inicialização, Botões de Cabeçalho Limpos e Ajustes de CSS.",
+            "tabs": {
+                "misc": "Diversos",
+                "startup-macros": "Macros de Inicialização",
+                "css-tweaks": "Ajustes de CSS"
             },
-            "compactSidebar": {
-                "hint": "Torne as entradas da barra lateral menor para se ajustarem a mais itens na tela.",
-                "name": "Barra lateral compacta"
+            "initMacros": {
+                "name": "Macros de Inicialização",
+                "hint": "Executa macros no carregamento do mundo. As macros são executadas na ordem em que estiverem listadas aqui."
+            },
+            "readyMacros": {
+                "name": "Macros Prontas",
+                "hint": "Executa macros quando o cliente estiver pronto. As macros são executadas na ordem em que estiverem listadas aqui."
             },
             "cssTweak": {
-                "hint": "Escreva CSS personalizado para modificar os estilos de fundição ou módulos. \nTrês campos são fornecidos para a organização, mas você também pode usar apenas um campo.",
-                "name": "Tweaks CSS"
+                "name": "Ajustes de CSS",
+                "hint": "Escreva CSS personalizado para modificar os estilos do Foundry ou Módulos. Três campos são fornecidos para organização, mas você também pode usar apenas um campo."
             },
-            "hint": "Configure alguns recursos de qualidade de vida, como macros de inicialização, botões de cabeçalho limpo e ajustes de CSS.",
-            "initMacros": {
-                "hint": "Execute macros na carga mundial. \nAs macros são executadas na ordem em que estão listadas aqui.",
-                "name": "Macros de inicialização"
+            "cleanHeaderButtons": {
+                "name": "Botões de Cabeçalho Limpos",
+                "hint": "Remova o texto dos botões de cabeçalho para torná-los mais limpos. Se você usar muitos dos meus módulos, pode acabar com muitos botões nos cabeçalhos das janelas, esta opção remove o texto deles. (Requer LibWrapper)"
             },
-            "label": "Configure ajustes",
-            "readyMacros": {
-                "hint": "Execute macros quando o cliente estiver pronto. \nAs macros são executadas na ordem em que estão listadas aqui.",
-                "name": "Macros prontos"
-            },
-            "tabs": {
-                "css-tweaks": "Tweaks CSS",
-                "misc": "Variado",
-                "startup-macros": "Macros de inicialização"
-            },
-            "title": "Tweaks",
-            "autoRotate": {
-                "default": "Padrão",
-                "defaultOff": "Ativado (padrão desligado)",
-                "defaultOn": "Ativado (padrão)",
-                "hint": "Gire automaticamente os tokens para enfrentar a direção do movimento e o token alvo.",
-                "name": "Gire automático",
-                "none": "Desabilitado",
-                "off": "Desabilitado",
-                "on": "Habilitado"
-            },
-            "diceTray": {
-                "hint": "Adicione uma bandeja de dados ao log de bate -papo. \nIsso permitirá que você role dados e adicione modificadores a eles.",
-                "name": "Bandeja de dados"
+            "compactSidebar": {
+                "name": "Barra Lateral Compacta",
+                "hint": "Reduz as entradas da barra lateral para caber mais itens na tela."
             },
             "enableSettingsSwap": {
-                "hint": "Habilite a capacidade de alterar as configurações mundiais para as configurações do cliente. \nIsso forçará as configurações selecionadas para todos os clientes, os jogadores também não poderão mais ver essas configurações.",
-                "name": "Configurações forçadas do cliente"
+                "name": "Configurações Forçadas do Cliente",
+                "hint": "Habilita a habilidade de mudar as configurações do mundo para as configurações do cliente. Isso forçará as configurações selecionadas para todos os clientes, os jogadores também não poderão mais ver essas configurações."
+            },
+            "diceTray": {
+                "name": "Bandeja de Dados",
+                "hint": "Adiciona uma bandeja de dados ao registro de chat. Isso permitirá que você role dados e adicione modificadores a eles."
+            },
+            "autoRotate": {
+                "name": "Girar Automaticamente",
+                "hint": "Gira automaticamente os tokens para ficarem de frente para a direção do movimento e para o token alvo.",
+                "none": "Desabilitado",
+                "defaultOn": "Habilitado (Padrão Ativado)",
+                "defaultOff": "Habilitado (Padrão Desativado)",
+                "on": "Ativado",
+                "off": "Desativado",
+                "default": "Padrão"
             }
         },
-        "wtcNotification": "Configuração para {Setting} definido como {value}. \nRecarregue o jogo para que as mudanças entrem em vigor. \nAs alterações na configuração não serão salvas até a próxima recarga."
+        "wtcNotification": "Configuração para {setting} definida como {value}. Recarregue o jogo para que as alterações entrem em vigor. As alterações na configuração não serão salvas até a próxima recarga."
     }
 }
