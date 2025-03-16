@@ -1,3 +1,6 @@
+## Version 3.0.9
+- updated roll tool logic for latest dnd version
+
 ## Version 3.0.8
 - added gathering api
 
