@@ -1,3 +1,6 @@
+## Version 1.0.2
+- Added handling of case where user deletes the color field producing an invalid color
+
 ## Version 1.0.1
 - Added localizations
 - Added warning for gridless scenes
