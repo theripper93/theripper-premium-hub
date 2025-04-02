@@ -1,3 +1,6 @@
+## Version 4.0.2
+- Fixed issue with tile combiner not opening 
+
 ## Version 4.0.0
 - Revamped module with new Appv2 for a fresh interface and dark mode support
 
