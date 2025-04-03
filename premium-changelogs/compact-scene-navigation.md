@@ -1,3 +1,6 @@
+## Version 1.0.2
+- Folder sorting now matches sidebar folder sortin
+
 ## Version 1.0.1
 - Bump version again
 
