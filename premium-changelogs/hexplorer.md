@@ -1,3 +1,6 @@
+## Version 1.0.3
+- Allow decimals in token speed
+
 ## Version 1.0.2
 - Added handling of case where user deletes the color field producing an invalid color
 
