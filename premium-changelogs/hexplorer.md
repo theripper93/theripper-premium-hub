@@ -1,3 +1,6 @@
+## Version 1.0.4
+- Fixed area check for map note revealing logic
+
 ## Version 1.0.3
 - Allow decimals in token speed
 
