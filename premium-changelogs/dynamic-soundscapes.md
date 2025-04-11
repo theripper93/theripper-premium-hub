@@ -1,3 +1,6 @@
+## Version 2.0.3
+- Fixed missing icon field in sound configuration
+
 ## Version 2.0.2
 - Attemptinig to play a soundboard block sound on an inactive soundscape will now display a warning instead of playing and immediatelly stopping the sound
 - Updated colorpicker to v12 standards
