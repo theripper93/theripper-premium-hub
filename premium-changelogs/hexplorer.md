@@ -1,3 +1,6 @@
+## Version 1.0.6
+- fix ptbr localization
+
 ## Version 1.0.5
 - Further fixes on  area check for map note revealing logic
 
