@@ -1,3 +1,6 @@
+## Version 2.0.1
+- Fixed error on close
+
 ## Version 2.0.0
 - Module completely rewritten for Application V2
 - The window can now be repositioned by dragging
