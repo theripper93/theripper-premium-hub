@@ -1,3 +1,6 @@
+## Version 4.0.3
+- Rewritten sorting logic that could result at times in sorting errors when combining tiles
+
 ## Version 4.0.2
 - Fixed issue with tile combiner not opening 
 
