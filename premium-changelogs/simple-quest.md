@@ -1,3 +1,6 @@
+## Version 2.5.7
+- Fixed history page names not updating without cycling pages out
+
 ## Version 2.5.5
 - secret can now be visible to all owners instead of gm only
 
