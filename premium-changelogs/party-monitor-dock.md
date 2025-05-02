@@ -1,3 +1,6 @@
+## Version 2.2.3
+- Update player list when actor ownership is updated
+
 ## Version 2.2.2
 - Effect description display setting is now correctly mirrored from CCT
 
