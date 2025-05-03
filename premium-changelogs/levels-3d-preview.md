@@ -1,3 +1,6 @@
+## Version 6.4.0
+- Added ambient light setting in scene configuration for additional lighting fine tuning
+
 ## Version 6.3.12
 - Fixed issue with template elevation rendering
 
