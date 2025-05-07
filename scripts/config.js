@@ -6,7 +6,7 @@ export function initConfig() {
     if (!game.user.isGM) return;
 
     Hooks.on("renderSettingsConfig", (app, html, data) => {
-        const element = html[0];
+        const element = html;
 
         async function generateSupportReport(moduleId) {
             const supportInfo = await SupportDetails.generateSupportReport();
@@ -51,12 +51,14 @@ export function initConfig() {
 
         //Add wiki buttons
 
-        element.querySelectorAll(".tab.category").forEach((el) => {
+        element.querySelectorAll(".tab[data-group='categories']").forEach((el) => {
             const moduleId = el.getAttribute("data-tab");
             const module = game.modules.get(moduleId);
             if (!module) return;
             const isRipper = Array.from(module.authors).some((a) => a.name === "theripper93");
-            const title = el.querySelector("h2");
+            const title = document.createElement("h2");
+            title.innerText = module.title;
+            el.prepend(title);
             title.style.display = "flex";
             const wikiButton = document.createElement("a");
             wikiButton.style.marginLeft = "auto";
@@ -106,12 +108,13 @@ export function initConfig() {
         });
         menuSetting.after(container);
 
-        element.querySelectorAll(".item.category-tab").forEach((el) => {
+        element.querySelectorAll("button[data-action='tab']").forEach((el) => {
             const modId = el.dataset.tab;
             const outdated = API.hub.outdatedModules[modId];
             if (!outdated) return;
-            el.innerHTML = el.innerHTML.replace(outdated.title, `<span><i style="color: var(--color-level-warning)" class="fas fa-circle-info"></i> ${outdated.title}</span>`);
-            el.dataset.tooltip = game.i18n.format("SETUP.UpdateAvailable", { channel: outdated.title, version: outdated.version });
+            const title = el.querySelector("span");
+            title.innerHTML = title.innerHTML.replace(outdated.title, `<span><i style="color: var(--color-level-warning)" class="fas fa-circle-info"></i> ${outdated.title}</span>`);
+            title.dataset.tooltip = game.i18n.format("SETUP.UpdateAvailable", { channel: outdated.title, version: outdated.version });
         });
     });
 }

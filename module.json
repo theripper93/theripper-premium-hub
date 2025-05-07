@@ -57,7 +57,7 @@
   "download": "https://github.com/theripper93/theripper-premium-hub/releases/latest/download/module.zip",
   "id": "theripper-premium-hub",
   "compatibility": {
-    "minimum": "12",
-    "verified": "12"
+    "minimum": "13",
+    "verified": "13"
   }
 }

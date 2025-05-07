@@ -51,7 +51,7 @@ function onTarget(user, token, targeted) {
 
 function onRenderTokenConfig(app) {
     const tokenDocument = app.document;
-    const html = app.element[0] ?? app.element;
+    const html = app.element;
     const formGroup = document.createElement("div");
     formGroup.classList.add("form-group");
     const defaultSetting = getSetting("tweaks").autoRotate;

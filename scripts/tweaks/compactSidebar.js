@@ -4,7 +4,7 @@ const styleElement = document.createElement("style");
 
 const compactCSS = `
 
-:root{
+.sidebar-tab{
     --sidebar-item-height: 32px;
 }
 
@@ -20,6 +20,9 @@ const compactCSS = `
     }
     .compendium-footer{
         display: none;
+    }
+    img{
+        height: 50px;
     }
 }
 `;
