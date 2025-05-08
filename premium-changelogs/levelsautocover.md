@@ -1,3 +1,6 @@
+## Version 3.0.0
+- V13 update
+
 ## Version 2.1.0
 - The module can now be used even without Levels
 - Changed module name to AutoCover - Automatic Cover Calculator
