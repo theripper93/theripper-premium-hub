@@ -1,4 +1,7 @@
 ## Version 2.0.2
+- V13 Update
+
+## Version 2.0.2
 - Fixed paste menu triggering in undesired situations
 
 ## Version 2.0.1
