@@ -1,3 +1,7 @@
+## Version 5.0.0
+- Added new "center" option for allignment which is now default
+- Updated for V13
+
 ## Version 4.1.1
 - If tokens are too large, hover distance will fallback to a center to center distance
 
