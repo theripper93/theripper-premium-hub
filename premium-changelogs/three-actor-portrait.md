@@ -1,3 +1,6 @@
+## Version 3.0.0
+- V13 Update
+
 ## Version 2.0.2
 - Fixed issue with HF browser not correctly applying 3d model to tokens
 
