@@ -1,3 +1,6 @@
+## Version 4.0.0
+- V13 Update
+
 ## Version 3.0.9
 - updated roll tool logic for latest dnd version
 
