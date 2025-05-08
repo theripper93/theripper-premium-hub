@@ -1,3 +1,6 @@
+## Version 2.0.0
+- V13 Update
+
 ## Version 1.4.0
 - Fixed wrong animation speed and or scaling due to DSN api canges
 
