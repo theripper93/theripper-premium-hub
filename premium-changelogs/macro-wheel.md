@@ -1,3 +1,6 @@
+## Version 3.0.0
+- V13 update
+
 ## Version 2.0.4
 - Improved fix for compendium execution
 
