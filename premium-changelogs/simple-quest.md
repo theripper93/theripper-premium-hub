@@ -1,3 +1,6 @@
+## Version 3.0.0
+- V13 Update
+
 ## Version 2.5.7
 - Fixed history page names not updating without cycling pages out
 
