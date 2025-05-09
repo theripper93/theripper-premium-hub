@@ -1,3 +1,6 @@
+## Version 5.0.0
+- V13 Update
+
 ## Version 4.1.0
 - Removed deprecated custom docking feature
 
