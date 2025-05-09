@@ -1,3 +1,6 @@
+## Version 5.0.1
+- Fixed file upload
+
 ## Version 5.0.0
 - V13 update
 
