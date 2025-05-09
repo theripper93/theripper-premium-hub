@@ -1,3 +1,6 @@
+## Version 2.0.0
+- V13 update
+
 ## Version 1.1
 - Removed socketlib dependency
 
