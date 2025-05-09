@@ -1,3 +1,6 @@
+## Version 3.0.1
+- Moved thumbnail generation button on filepicker from filepicker+ module to this
+
 ## Version 3.0.0
 - V13 Update
 
