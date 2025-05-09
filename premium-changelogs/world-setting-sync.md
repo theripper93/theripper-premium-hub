@@ -1,3 +1,6 @@
+## Version 2.0.0
+- V13 Update
+
 ## Version 1.0.1
 - Fixed exclusion list sorting to be by module Title instead of ID
 
