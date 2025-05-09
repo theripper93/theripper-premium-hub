@@ -1,3 +1,6 @@
+## Version 3.0.0
+- V13 Update
+
 ## Version 2.0.1
 - Fixed error on close
 
