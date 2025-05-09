@@ -1,3 +1,6 @@
+## Version 3.0.0
+- V13 Update
+
 ## Version 2.1.4
 - Fixed issue where refreshing a client while a video is in a paused state would not restore the paused state and play the video instead
 
