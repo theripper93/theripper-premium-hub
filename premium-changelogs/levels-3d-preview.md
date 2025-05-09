@@ -1,3 +1,6 @@
+## Version 7.0.0
+- V13 Update (Just restored basic functionality)
+
 ## Version 6.4.0
 - Added ambient light setting in scene configuration for additional lighting fine tuning
 
