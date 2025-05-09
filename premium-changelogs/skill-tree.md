@@ -1,3 +1,6 @@
+## Version 2.0.0
+- V13 Update
+
 ## Version 1.1.5
 - Sound effect is now independent from an item beeing unlocked
 
