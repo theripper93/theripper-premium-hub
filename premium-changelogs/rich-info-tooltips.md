@@ -1,3 +1,6 @@
+## Version 2.0.0
+- V13 Update
+
 ## Version 0.3
 - V12 update
 - The module no longer overrides prexisting non-title tooltips
