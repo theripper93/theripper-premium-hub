@@ -1,3 +1,6 @@
+## Version 3.0.0
+- V13 Update
+
 ## Version 2.0.2
 - Fixed issue with match puzzle with images not beeing correctly alligned
 
