@@ -1,3 +1,6 @@
+## Version 2.0.0
+- V13 Update
+
 ## Version 1.1.5
 - Fixed issue with multiple paper doll instances beeing opened under certain circumstances
 
