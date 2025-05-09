@@ -1,3 +1,6 @@
+## Version 4.0.0
+- V13 Update
+
 ## Version 3.0.4
 - fixed auto-flip in combat only flipping 1 token
 
