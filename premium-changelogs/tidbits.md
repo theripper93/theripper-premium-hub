@@ -1,3 +1,6 @@
+## Version 3.0.0
+- V13 Update
+
 ## Version 2.0.4
 - Fixed bad cycle timers when toggling pause multiple time in rapid succession
 
