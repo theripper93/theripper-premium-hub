@@ -1,3 +1,6 @@
+## Version 5.0.0
+- V13 update
+
 ## Version 4.0.3
 - Rewritten sorting logic that could result at times in sorting errors when combining tiles
 
