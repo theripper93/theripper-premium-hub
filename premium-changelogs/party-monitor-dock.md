@@ -1,3 +1,6 @@
+## Version 3.0.0
+- V13 Update
+
 ## Version 2.2.3
 - Update player list when actor ownership is updated
 
