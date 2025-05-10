@@ -1,3 +1,6 @@
+## Version 2.0.1
+- Fixed ownership configuration not working
+
 ## Version 2.0.0
 - V13 Update
 
