@@ -1,3 +1,6 @@
+## Version 7.0.2
+- More configuration form fixes
+
 ## Version 7.0.1
 - Fixed configuration menus
 
