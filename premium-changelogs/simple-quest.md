@@ -1,3 +1,6 @@
+## Version 3.0.2
+- Fixed ownership config not working
+
 ## Version 3.0.1
 - More V13 Compatibility
 
