@@ -1,3 +1,6 @@
+## Version 7.0.1
+- Fixed configuration menus
+
 ## Version 7.0.0
 - V13 Update (Just restored basic functionality)
 
