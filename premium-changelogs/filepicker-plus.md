@@ -1,3 +1,6 @@
+## Version 5.0.0
+- Filepicker+ reborn. Scrapped and rewritten from scratch for V13. Some minor features are missing but the bulk is there, including improved fixes to the audio previews getting stuck.
+
 ## Version 4.3.3
 - Swapped browser native clipboard helper with foundry one for better compatibility
 
