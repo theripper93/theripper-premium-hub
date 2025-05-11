@@ -1,3 +1,6 @@
+## Version 3.0.3
+- Fixed missing form inputs
+
 ## Version 3.0.2
 - Fixed ownership config not working
 
