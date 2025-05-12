@@ -1,3 +1,6 @@
+## Version 3.0.3
+- Fixed dropdowns in block config not pre-selecting the saved option
+
 ## Version 3.0.2
 - Fixed missing input updates
 
