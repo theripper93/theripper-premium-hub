@@ -1,3 +1,6 @@
+## Version 3.0.2
+- Fixed missing input updates
+
 ## Version 3.0.1
 - Fixed block configuration not working correctly
 
