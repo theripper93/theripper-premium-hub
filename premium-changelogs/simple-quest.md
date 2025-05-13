@@ -1,3 +1,6 @@
+## Version 3.0.4
+- Fix scroll to header not working under certain circumstances
+
 ## Version 3.0.3
 - Fixed missing form inputs
 
