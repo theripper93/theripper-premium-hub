@@ -1,3 +1,6 @@
+## Version 7.0.4
+- Fixed potential data duplication
+
 ## Version 7.0.3
 - Fixed missing token 3d tab
 
