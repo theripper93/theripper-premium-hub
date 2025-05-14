@@ -1,3 +1,10 @@
+## Version 5.0.1
+- Color settings is now an optional dependency
+- Fixed minimized icon rendering as missing character
+- Fixed macro docking stacking on low resolution
+- Fixed better fitting with new sidebar layout
+- Fixed interactions with UI scale
+
 ## Version 5.0.0
 - V13 Update
 
