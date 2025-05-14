@@ -1,3 +1,7 @@
+## Version 7.0.5
+- Fixed prototype token missing 3d configuration
+- Fixed token hud not alligning
+
 ## Version 7.0.4
 - Fixed potential data duplication
 
