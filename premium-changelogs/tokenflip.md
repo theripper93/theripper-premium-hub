@@ -1,3 +1,6 @@
+## Version 4.0.1
+- Fixed prototype token config
+
 ## Version 4.0.0
 - V13 Update
 
