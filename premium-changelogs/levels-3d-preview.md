@@ -1,3 +1,6 @@
+## Version 7.0.3
+- Fixed missing token 3d tab
+
 ## Version 7.0.2
 - More configuration form fixes
 
