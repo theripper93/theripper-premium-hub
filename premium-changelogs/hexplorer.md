@@ -1,4 +1,7 @@
 ## Version 2.0.0
+- Fixed missing scene configuration checkbox
+
+## Version 2.0.0
 - V13 Update
 
 ## Version 1.0.6
