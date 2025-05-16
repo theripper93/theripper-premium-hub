@@ -1,3 +1,6 @@
+## Version 5.0.2
+- added rgba color picker to taskbar settings
+
 ## Version 5.0.1
 - Color settings is now an optional dependency
 - Fixed minimized icon rendering as missing character
