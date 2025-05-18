@@ -1,3 +1,6 @@
+## Version 7.0.7
+- Restored arrow movement functionality
+
 ## Version 7.0.6
 - Fixed selection box invisible
 - Fixed issues with multi segment movement
