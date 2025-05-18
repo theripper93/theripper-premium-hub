@@ -1,3 +1,8 @@
+## Version 7.0.6
+- Fixed selection box invisible
+- Fixed issues with multi segment movement
+- 3D Canvas rouler will now take into consideration 'unconnstrained movement' core toggle
+
 ## Version 7.0.5
 - Fixed prototype token missing 3d configuration
 - Fixed token hud not alligning
