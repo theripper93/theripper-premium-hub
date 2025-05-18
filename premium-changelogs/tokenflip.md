@@ -1,3 +1,6 @@
+## Version 4.0.2
+- Fixed localization text on some form fields
+
 ## Version 4.0.1
 - Fixed prototype token config
 
