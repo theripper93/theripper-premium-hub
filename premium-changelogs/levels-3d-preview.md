@@ -1,3 +1,6 @@
+## Version 7.0.8
+- Fixed hard edge on some lights
+
 ## Version 7.0.7
 - Restored arrow movement functionality
 
