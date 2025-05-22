@@ -1,3 +1,6 @@
+## Version 7.0.9
+- Restored cursor functionality
+
 ## Version 7.0.8
 - Fixed hard edge on some lights
 
