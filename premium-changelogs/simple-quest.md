@@ -1,3 +1,6 @@
+## Version 3.0.5
+- Restored secret block functionality
+
 ## Version 3.0.4
 - Fix scroll to header not working under certain circumstances
 
