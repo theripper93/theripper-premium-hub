@@ -1,3 +1,6 @@
+## Version 5.0.2
+- Fixed issues with latest foundry release and filepicker reopening
+
 ## Version 5.0.1
 - Fixed layout issues with folders without subfolders
 
