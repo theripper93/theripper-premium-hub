@@ -1,3 +1,6 @@
+## Version 3.0.6
+- Fixed secret headings visibility
+
 ## Version 3.0.5
 - Restored secret block functionality
 
