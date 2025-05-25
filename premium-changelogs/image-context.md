@@ -1,3 +1,6 @@
+## Version 3.0.2
+- Fixed paste to chat
+
 ## Version 3.0.1
 - Fixed source inference
 
