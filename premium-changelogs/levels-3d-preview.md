@@ -1,3 +1,6 @@
+## Version 7.0.10
+- Fixed file browser in tile layer
+
 ## Version 7.0.9
 - Restored cursor functionality
 
