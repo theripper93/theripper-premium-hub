@@ -1,3 +1,6 @@
+## Version 3.0.2
+- Fixed issue with heroforge button under some circumstances
+
 ## Version 3.0.1
 - Moved thumbnail generation button on filepicker from filepicker+ module to this
 
