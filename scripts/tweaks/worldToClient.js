@@ -77,12 +77,12 @@ function initConfig() {
     if (!game.user.isGM) return;
     Hooks.on("renderSettingsConfig", (app, html) => {
         if (!getSetting("tweaks").enableSettingsSwap) return;
-        const element = html[0] ?? html;
-
-        const settingsFormGroups = element.querySelectorAll(".form-group[data-setting-id]");
+        const element = html;
+        console.log("Setting up forced world to client settings swap");
+        const settingsFormGroups = element.querySelectorAll(".form-group:has([name])");
 
         settingsFormGroups.forEach((formGroup) => {
-            const settingId = formGroup.dataset.settingId;
+            const settingId = formGroup.querySelector("[name]")?.name;
             if (!settingId) return;
             const setting = game.settings.settings.get(settingId);
             if (!setting) return;
@@ -97,8 +97,9 @@ function initConfig() {
                 return;
             }
             const select = document.createElement("select");
-            select.style.maxWidth = "3rem";
+            select.style.maxWidth = "3.5rem";
             select.style.marginRight = "0.3rem";
+            select.style.background = "transparent";
             if (altered) select.style.border = "2px dotted var(--color-shadow-primary)";
             const worldOption = document.createElement("option");
             worldOption.value = "world";
