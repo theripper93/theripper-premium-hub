@@ -1,3 +1,6 @@
+## Version 5.0.3
+- Changed file picker type to any
+
 ## Version 5.0.2
 - Fixed issues with latest foundry release and filepicker reopening
 
