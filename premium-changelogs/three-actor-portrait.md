@@ -1,3 +1,6 @@
+## Version 3.0.3
+- Update applications to appv2
+
 ## Version 3.0.2
 - Fixed issue with heroforge button under some circumstances
 
