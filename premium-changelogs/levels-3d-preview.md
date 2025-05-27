@@ -1,3 +1,7 @@
+## Version 7.0.11
+- Fixed issues with shader configuration
+- Updated shader configuration to appv2
+
 ## Version 7.0.10
 - Fixed file browser in tile layer
 
