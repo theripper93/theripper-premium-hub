@@ -1,3 +1,6 @@
+## Version 3.0.4
+- Fixed missing heroforge button in prototype token
+
 ## Version 3.0.3
 - Update applications to appv2
 
