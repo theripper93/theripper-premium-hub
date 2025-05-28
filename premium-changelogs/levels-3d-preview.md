@@ -1,3 +1,6 @@
+## Version 7.0.12
+- Fixed zindex clash with pause
+
 ## Version 7.0.11
 - Fixed issues with shader configuration
 - Updated shader configuration to appv2
