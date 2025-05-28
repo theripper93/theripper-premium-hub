@@ -1,3 +1,6 @@
+## Version 4.0.1
+- Fixed issue with roll table results not in compendiums
+
 ## Version 4.0.0
 - V13 Update
 
