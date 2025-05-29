@@ -1,3 +1,6 @@
+## Version 4.0.2
+- Fix ability checks in dnd5e
+
 ## Version 4.0.1
 - Fixed issue with roll table results not in compendiums
 
