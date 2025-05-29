@@ -1,3 +1,6 @@
+## Version 4.0.1
+- Fixed import dialog
+
 ## Version 3.0.7
 - Improved item fetching safety for edge cases
 
