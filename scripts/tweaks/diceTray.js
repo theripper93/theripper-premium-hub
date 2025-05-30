@@ -47,8 +47,6 @@ function renderChatHook(app) {
   const diceTray = document.createElement("div");
   diceTray.classList.add("dice-tray-container");
   diceTray.style.flex = "0 0";
-  diceTray.style.height = "3rem";
-  diceTray.style.minHeight = "3rem";
   diceTray.style.pointerEvents = "all";
   let html = "";
   html += `<div class="flexrow">`;
@@ -79,6 +77,7 @@ function renderChatHook(app) {
                 font-size: x-small;
                 padding: 0;
                 max-height: 0.9rem;
+                min-height: auto;
                 padding: 0;
             }
         }
@@ -87,20 +86,28 @@ function renderChatHook(app) {
             place-content: center;
             align-items: center;
             aspect-ratio: 1;
-            font-size: 1.2rem;
+            font-size: 1rem;
             background: transparent;
             border: none;
             color: var(--color-text-light-highlight);
             i{
                 margin: 0;
+                transform: scale(1.5);
             }
         }
          .dice-tray-button:hover{
-            background: var(--color-shadow-highlight);
+            color: var(--color-shadow-highlight);
          }
         .dice-tray-button:active, .dice-tray-button:focus{
             border: none;
             box-shadow: none;
+        }
+            .dice-tray-container{
+            border: 2px solid var(--border-color, var(--color-cool-4));
+            border-radius: 5px;
+            }
+        .dice-tray-container > div{
+          padding: 0.3rem;
         }
     `;
 
