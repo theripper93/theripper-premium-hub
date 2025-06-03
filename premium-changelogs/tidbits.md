@@ -1,3 +1,6 @@
+## Version 3.0.2
+- fixed typo
+
 ## Version 3.0.1
 - Fixed loading screen for scenes
 
