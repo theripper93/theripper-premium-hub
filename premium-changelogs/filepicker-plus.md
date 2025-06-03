@@ -1,3 +1,6 @@
+## Version 5.0.4
+- Added localization
+
 ## Version 5.0.3
 - Changed file picker type to any
 
