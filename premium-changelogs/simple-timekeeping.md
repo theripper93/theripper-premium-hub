@@ -1,3 +1,6 @@
+## Version 0.1.4
+- Fixed issue with weather effect applications
+
 ## Version 0.1.3
 - Season are now correctly determined instead of beeing shifted by 1
 - Day of month is now correctly displayed instead of beeing 1 behind
