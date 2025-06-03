@@ -1,3 +1,8 @@
+## Version 0.1.3
+- Season are now correctly determined instead of beeing shifted by 1
+- Day of month is now correctly displayed instead of beeing 1 behind
+- Changing calendar json no longer requires a refresh
+
 ## Version 0.1.2
 - Fixed issue when setting weather badge
 
