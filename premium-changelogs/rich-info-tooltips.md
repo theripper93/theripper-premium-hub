@@ -1,3 +1,6 @@
+## Version 2.0.1
+- Fixed issue where text was not enriched on some toolitips
+
 ## Version 2.0.0
 - V13 Update
 
