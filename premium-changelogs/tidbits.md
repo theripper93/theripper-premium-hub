@@ -1,3 +1,6 @@
+## Version 3.0.1
+- Fixed loading screen for scenes
+
 ## Version 3.0.0
 - V13 Update
 
