@@ -1,3 +1,7 @@
+## Version 0.1.6
+- Improved error handling in case of bad data so that you can always edit the calendar json
+- Added custom badge setting api
+
 ## Version 0.1.5
 - Added macro command to reset custom calendar
 
