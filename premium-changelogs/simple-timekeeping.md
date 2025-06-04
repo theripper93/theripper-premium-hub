@@ -1,3 +1,6 @@
+## Version 0.1.5
+- Added macro command to reset custom calendar
+
 ## Version 0.1.4
 - Fixed issue with weather effect applications
 
