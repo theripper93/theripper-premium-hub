@@ -1,3 +1,7 @@
+## Version 0.1.7
+- Fixed date picker returnig a date one off by one day
+- Badges will now wrap to a new line if they don't fit instead of overflowing
+
 ## Version 0.1.6
 - Improved error handling in case of bad data so that you can always edit the calendar json
 - Added custom badge setting api
