@@ -1,3 +1,7 @@
+## Version 0.1.8
+- Fixed moon offset beeing wrongly read
+- Changed sheet creation method to support any journal sheet
+
 ## Version 0.1.7
 - Fixed date picker returnig a date one off by one day
 - Badges will now wrap to a new line if they don't fit instead of overflowing
