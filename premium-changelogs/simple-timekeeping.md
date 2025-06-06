@@ -1,3 +1,6 @@
+## Version 0.2.1
+- Fixed default not grabbed correctly in weather genratio
+
 ## Version 0.2.0
 - Added weather customization for advanced users
 
