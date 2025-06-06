@@ -1,3 +1,6 @@
+## Version 0.2.0
+- Added weather customization for advanced users
+
 ## Version 0.1.8
 - Fixed moon offset beeing wrongly read
 - Changed sheet creation method to support any journal sheet
