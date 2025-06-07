@@ -48,6 +48,7 @@ function renderChatHook(app) {
   diceTray.classList.add("dice-tray-container");
   diceTray.style.flex = "0 0";
   diceTray.style.pointerEvents = "all";
+  diceTray.style.order = "999";
   let html = "";
   html += `<div class="flexrow">`;
   diceButtons.forEach((button) => {
