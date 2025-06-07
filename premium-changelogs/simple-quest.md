@@ -1,3 +1,6 @@
+## Version 3.0.7
+- Fixed broken arrow icons
+
 ## Version 3.0.6
 - Fixed secret headings visibility
 

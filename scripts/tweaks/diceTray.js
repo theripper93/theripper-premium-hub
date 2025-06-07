@@ -108,6 +108,7 @@ function renderChatHook(app) {
             }
         .dice-tray-container > div{
           padding: 0.3rem;
+          background: var(--background-color, var(--color-cool-5));
         }
     `;
 
