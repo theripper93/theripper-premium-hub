@@ -1,3 +1,6 @@
+## Version 0.3.1
+- Added more calendars and fixed some broken ones
+
 ## Version 0.3.0
 - Added built in calendars
 
