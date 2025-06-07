@@ -54,7 +54,7 @@ function renderChatHook(app) {
     if (button.name === "d100") return;
     let tooltip = button.name.toUpperCase();
     if (button.name === "d20") tooltip += " (ALT → D100)";
-    html += `<button class="dice-tray-button" data-tooltip-direction="UP" data-tooltip="${tooltip}" data-button="dice|${button.name}"><i class="fad fa-${button.icon}"></i></button>`;
+    html += `<button type="button" class="dice-tray-button" data-tooltip-direction="UP" data-tooltip="${tooltip}" data-button="dice|${button.name}"><i class="fad fa-${button.icon}"></i></button>`;
   });
   // Adv Dis buttons
   html += `<div class="flexcol buttons-stacked">`;
