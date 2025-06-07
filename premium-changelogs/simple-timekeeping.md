@@ -1,3 +1,6 @@
+## Version 0.3.0
+- Added built in calendars
+
 ## Version 0.2.1
 - Fixed default not grabbed correctly in weather genratio
 
