@@ -58,13 +58,13 @@ function renderChatHook(app) {
   });
   // Adv Dis buttons
   html += `<div class="flexcol buttons-stacked">`;
-  html += `<button class="dice-tray-button" data-button="adv">ADV</button>`;
+  html += `<button type="button" class="dice-tray-button" data-button="adv">ADV</button>`;
   // Count button
-  html += `<button class="dice-tray-button" data-button="count">+0</button>`;
-  html += `<button class="dice-tray-button" data-button="dis">DIS</button>`;
+  html += `<button type="button" class="dice-tray-button" data-button="count">+0</button>`;
+  html += `<button type="button" class="dice-tray-button" data-button="dis">DIS</button>`;
   html += `</div>`;
   // Roll button
-  html += `<button class="dice-tray-button" data-tooltip-direction="UP" data-tooltip="ROLL" data-button="roll"><i class="fas fa-dice"></i></button>`;
+  html += `<button type="button" class="dice-tray-button" data-tooltip-direction="UP" data-tooltip="ROLL" data-button="roll"><i class="fas fa-dice"></i></button>`;
   html += `</div>`;
   diceTray.innerHTML = html;
 
