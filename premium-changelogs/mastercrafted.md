@@ -1,3 +1,6 @@
+## Version 4.0.2
+- Fixed missing header controls
+
 ## Version 4.0.1
 - Fixed import dialog
 
