@@ -1,3 +1,6 @@
+## Version 3.0.1
+- Fixed deprecated active effects definitions causing errors
+
 ## Version 3.0.0
 - V13 update
 
