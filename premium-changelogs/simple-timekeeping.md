@@ -1,3 +1,6 @@
+## Version 0.4.1
+- Fixed weekday display for intercalary
+
 ## Version 0.4.0
 - Added support for intercalary days (as months) and updated the harptos calendar
 
