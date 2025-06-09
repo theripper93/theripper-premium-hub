@@ -1,3 +1,6 @@
+## Version 0.4.0
+- Added support for intercalary days (as months) and updated the harptos calendar
+
 ## Version 0.3.1
 - Added more calendars and fixed some broken ones
 
