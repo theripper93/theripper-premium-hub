@@ -1,3 +1,6 @@
+## Version 0.5.1
+- Style fix for badges
+
 ## Version 0.5.0
 - Added new settings to customize the font to make it more compact for users that want a lot of badges on at the same time
 - Seasons tab renamed to aspect tab
