@@ -1,3 +1,6 @@
+## Version 3.0.8
+- Fixed issue with some icons not working
+
 ## Version 3.0.7
 - Fixed broken arrow icons
 
