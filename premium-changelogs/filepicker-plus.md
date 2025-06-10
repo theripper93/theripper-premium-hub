@@ -1,3 +1,6 @@
+## Version 5.0.5
+- Fixed issue with sidebar picker activating while the tab was inactive
+
 ## Version 5.0.4
 - Added localization
 
