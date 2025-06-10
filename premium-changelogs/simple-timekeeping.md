@@ -1,3 +1,8 @@
+## Version 0.5.0
+- Added new settings to customize the font to make it more compact for users that want a lot of badges on at the same time
+- Seasons tab renamed to aspect tab
+- Added new day macros field where macros can be run automatically when a new day starts 
+
 ## Version 0.4.1
 - Fixed weekday display for intercalary
 
