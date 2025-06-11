@@ -1,3 +1,6 @@
+## Version 2.0.2
+- @ will now be read as system. in requirements data paths
+
 ## Version 2.0.1
 - Fixed ownership configuration not working
 
