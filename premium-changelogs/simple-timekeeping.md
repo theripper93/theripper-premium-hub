@@ -1,3 +1,6 @@
+## Version 0.5.2
+- Added alt\shift\ctrl modifiers to time advancement for different increments
+
 ## Version 0.5.1
 - Style fix for badges
 
