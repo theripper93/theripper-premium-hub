@@ -76,5 +76,6 @@ function getRotation(sourceDocument, targetDocument) {
     const sourceCenter = { x: sourceDocument.x + (sourceDocument.width / 2) * sourceDocument.parent.grid.sizeX, y: sourceDocument.y + (sourceDocument.height / 2) * sourceDocument.parent.grid.sizeY };
     const targetCenter = { x: targetDocument.x + (targetDocument.width / 2) * targetDocument.parent.grid.sizeX, y: targetDocument.y + (targetDocument.height / 2) * targetDocument.parent.grid.sizeY };
     const angle = Math.atan2(targetCenter.y - sourceCenter.y, targetCenter.x - sourceCenter.x);
-    return Math.toDegrees(angle - Math.PI / 2);
+    const deg = Math.toDegrees(angle - Math.PI / 2);
+    return deg < 0 ? deg + 360 : deg;
 }
