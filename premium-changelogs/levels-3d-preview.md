@@ -1,3 +1,7 @@
+## Version 7.0.13
+- Match core autorotation on ruler movement
+- Fixed font awesome icons
+
 ## Version 7.0.12
 - Fixed zindex clash with pause
 
