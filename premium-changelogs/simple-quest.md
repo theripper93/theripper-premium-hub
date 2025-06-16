@@ -1,3 +1,7 @@
+## Version 3.0.9
+- Adjusted ttm button to not overlap with simple timekeeping
+- Fixed background width of ttm mode
+
 ## Version 3.0.8
 - Fixed issue with some icons not working
 
