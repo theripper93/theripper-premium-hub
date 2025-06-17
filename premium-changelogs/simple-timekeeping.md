@@ -1,3 +1,6 @@
+## Version 0.5.4
+- Hiding simple timekeeping in combat is now an option (default off)
+
 ## Version 0.5.3
 - Added and fixed dragonlance calendars
 - Weather menu now renders in two columns so that lower resolution screens don't have issues with the context menu rendering upwards due to a core context menu bug
