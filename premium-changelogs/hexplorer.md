@@ -1,3 +1,6 @@
+## Version 2.0.2
+- Fixed tooltips not parsing html correctyl
+
 ## Version 2.0.1
 - Fixed missing scene configuration checkbox
 
