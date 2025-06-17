@@ -1,3 +1,6 @@
+## Version 0.5.5
+- Fixed date-time picker beeing one day off from current date
+
 ## Version 0.5.4
 - Hiding simple timekeeping in combat is now an option (default off)
 
