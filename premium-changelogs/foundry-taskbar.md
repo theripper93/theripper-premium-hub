@@ -1,3 +1,6 @@
+## Version 5.0.3
+- Fixed player list offset interaction with ui scale
+
 ## Version 5.0.2
 - added rgba color picker to taskbar settings
 
