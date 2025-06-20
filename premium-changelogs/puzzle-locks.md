@@ -1,3 +1,6 @@
+## Version 3.0.1
+- Restored support for legacy application v1 header buttons order
+
 ## Version 3.0.0
 - V13 Update
 
