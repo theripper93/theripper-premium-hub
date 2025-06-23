@@ -1,3 +1,6 @@
+## Version 2.0.1
+- Fixed simple filter setting not saving correctly
+
 ## Version 2.0.0
 - V13 Update
 
