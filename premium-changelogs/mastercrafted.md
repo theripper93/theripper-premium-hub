@@ -1,3 +1,6 @@
+## Version 4.0.3
+- Fixed issue with notifications preventing chat message from beeing created when crafting
+
 ## Version 4.0.2
 - Fixed missing header controls
 
