@@ -1,3 +1,6 @@
+## Version 0.5.6
+- Added option for AM/PM time display
+
 ## Version 0.5.5
 - Fixed date-time picker beeing one day off from current date
 
