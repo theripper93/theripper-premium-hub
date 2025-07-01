@@ -1,3 +1,6 @@
+## Version 0.5.7
+- Removed some season override code that was causing issue now that seasons calculations are fixed in core foundry
+
 ## Version 0.5.6
 - Added option for AM/PM time display
 
