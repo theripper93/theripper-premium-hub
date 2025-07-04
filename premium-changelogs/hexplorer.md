@@ -1,3 +1,6 @@
+## Version 2.0.3
+- Fixed colored cell display toggle not working correctly
+
 ## Version 2.0.2
 - Fixed tooltips not parsing html correctyl
 
