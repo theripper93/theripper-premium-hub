@@ -1,3 +1,6 @@
+## Version 3.0.2
+- Fixed issue with filepicker inputs not reading stored values
+
 ## Version 3.0.1
 - Restored support for legacy application v1 header buttons order
 
