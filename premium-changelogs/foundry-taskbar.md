@@ -1,3 +1,6 @@
+## Version 5.0.4
+- Fixed issue with minimize button beeing triggered on enter key if the window had no other submit buttons
+
 ## Version 5.0.3
 - Fixed player list offset interaction with ui scale
 
