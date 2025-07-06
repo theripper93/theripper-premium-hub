@@ -1,3 +1,8 @@
+## Version 0.6.0
+- Clicking a custom badge now brings up a quick edit menu
+- Custom badges now support HTML which means you can use custom images as icons and so on
+- Added more automation macros for different times of day
+
 ## Version 0.5.7
 - Removed some season override code that was causing issue now that seasons calculations are fixed in core foundry
 
