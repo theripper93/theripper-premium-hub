@@ -1,3 +1,7 @@
+## Version 0.6.1
+- Added button to weather list to regenerate weather
+- Added more localizations
+
 ## Version 0.6.0
 - Clicking a custom badge now brings up a quick edit menu
 - Custom badges now support HTML which means you can use custom images as icons and so on
