@@ -1,3 +1,6 @@
+## Version 2.0.2
+- Fixed issue with some tooltips not having their html rendered correctly
+
 ## Version 2.0.1
 - Fixed issue where text was not enriched on some toolitips
 
