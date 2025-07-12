@@ -1,3 +1,9 @@
+## Version 0.6.2
+- Improved support in case of system defined calendar
+- Added separate moon customization json to settings in case user is using the system provided calendar
+- Darkness is now synced across all viewed scenes by all users
+- Other minor fixes
+
 ## Version 0.6.1
 - Added button to weather list to regenerate weather
 - Added more localizations
