@@ -1,3 +1,7 @@
+## Version 0.7.0
+- Added first time setup window
+- Renamed latitude to climate zone and change it to a select dropdown instead of a range slider
+
 ## Version 0.6.4
 - Fixed moon phase calculation not checking if user was gm when setting the moon badge
 
