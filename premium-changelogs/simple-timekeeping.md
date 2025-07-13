@@ -1,3 +1,9 @@
+## Version 0.6.3
+- Clicking on a custom badge will open a quick edit dialog
+- Shift clicking on a custom badge will increase or (right click) decrease the last number in the badge, if any
+- Latitude based dawn\dusk calculations improved for more realism
+- Events name are now updated immediatelly after changing them instead of beein updated on the next time update
+
 ## Version 0.6.2
 - Improved support in case of system defined calendar
 - Added separate moon customization json to settings in case user is using the system provided calendar
