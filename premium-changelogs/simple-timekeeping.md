@@ -1,3 +1,7 @@
+## Version 0.7.1
+- Fixed issue with first time setup setting causing error
+- removed unecessary libwrapper dependency
+
 ## Version 0.7.0
 - Added first time setup window
 - Renamed latitude to climate zone and change it to a select dropdown instead of a range slider
