@@ -1,3 +1,6 @@
+## Version 0.6.4
+- Fixed moon phase calculation not checking if user was gm when setting the moon badge
+
 ## Version 0.6.3
 - Clicking on a custom badge will open a quick edit dialog
 - Shift clicking on a custom badge will increase or (right click) decrease the last number in the badge, if any
