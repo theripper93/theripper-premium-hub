@@ -1,3 +1,7 @@
+## Version 0.7.5
+- Reverted last change
+- In progress events now show in progress text instead of start date
+
 ## Version 0.7.4
 - Localization fix
 
