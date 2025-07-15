@@ -1,3 +1,6 @@
+## Version 0.7.2
+- Fixed issues with repeated events not working correctly
+
 ## Version 0.7.1
 - Fixed issue with first time setup setting causing error
 - removed unecessary libwrapper dependency
