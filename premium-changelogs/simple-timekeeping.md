@@ -1,3 +1,6 @@
+## Version 0.7.3
+- Removed event end and replaced it with an event duration
+
 ## Version 0.7.2
 - Fixed issues with repeated events not working correctly
 
