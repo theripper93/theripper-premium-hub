@@ -1,3 +1,6 @@
+## Version 0.7.4
+- Localization fix
+
 ## Version 0.7.3
 - Removed event end and replaced it with an event duration
 
