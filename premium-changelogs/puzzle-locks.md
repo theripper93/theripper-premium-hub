@@ -1,3 +1,6 @@
+## Version 3.0.3
+- Fixed application v2 support not working correctly
+
 ## Version 3.0.2
 - Fixed issue with filepicker inputs not reading stored values
 
