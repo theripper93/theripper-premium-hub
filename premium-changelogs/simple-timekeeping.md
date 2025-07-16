@@ -1,4 +1,8 @@
 ## Version 0.7.6
+- Time badge now blinks if time is paused
+- Clicking the time badge now manually pauses time
+
+## Version 0.7.6
 - Fixed some in-progress event not highlighted
 
 ## Version 0.7.5
