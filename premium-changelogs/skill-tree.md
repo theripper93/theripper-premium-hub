@@ -1,3 +1,6 @@
+## Version 2.0.3
+- Fixed issue with skills not in any group potentially preventing the skill tree application from opening
+
 ## Version 2.0.2
 - @ will now be read as system. in requirements data paths
 
