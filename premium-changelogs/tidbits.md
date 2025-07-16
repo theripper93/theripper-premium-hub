@@ -1,3 +1,6 @@
+## Version 3.0.3
+- Fixed chached image list not getting cleared on empty image path
+
 ## Version 3.0.2
 - fixed typo
 
