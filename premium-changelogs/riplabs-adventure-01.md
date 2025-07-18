@@ -1,4 +1,7 @@
 ## Version 2.0.1
+- Fixed some misspelled name enrichers
+
+## Version 2.0.1
 - Updated time shift script to work correctly in V13
 
 ## Version 2.0.0
