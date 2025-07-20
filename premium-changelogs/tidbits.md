@@ -1,3 +1,6 @@
+## Version 3.0.4
+- Fixed wrong color of chat message text under certain circumstances
+
 ## Version 3.0.3
 - Fixed chached image list not getting cleared on empty image path
 
