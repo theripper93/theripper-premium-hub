@@ -1,3 +1,6 @@
+## Version 0.7.8
+- Added option to separate darkness and weather sync
+
 ## Version 0.7.6
 - Time badge now blinks if time is paused
 - Clicking the time badge now manually pauses time
