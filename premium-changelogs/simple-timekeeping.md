@@ -1,3 +1,7 @@
+## Version 0.7.9
+- Added PF2 warning
+- Fixed typo
+
 ## Version 0.7.8
 - Added option to separate darkness and weather sync
 
