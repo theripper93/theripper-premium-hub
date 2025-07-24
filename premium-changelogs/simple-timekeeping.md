@@ -1,3 +1,7 @@
+## Version 0.7.10
+- Added data validation for calendar to prevent the module from locking up due to bad data
+- Added setting to force simple timekeeping to be always at max width
+
 ## Version 0.7.9
 - Added PF2 warning
 - Fixed typo
