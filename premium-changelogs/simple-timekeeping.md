@@ -1,3 +1,6 @@
+## Version 0.7.12
+- Fixed validation issue
+
 ## Version 0.7.11
 - Added further data validation
 
