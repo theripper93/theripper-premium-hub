@@ -1,3 +1,6 @@
+## Version 0.7.11
+- Added further data validation
+
 ## Version 0.7.10
 - Added data validation for calendar to prevent the module from locking up due to bad data
 - Added setting to force simple timekeeping to be always at max width
