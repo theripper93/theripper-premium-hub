@@ -1,3 +1,6 @@
+## Version 0.7.14
+- Fixed error thrown when no moons are present on the calendar
+
 ## Version 0.7.13
 
 
