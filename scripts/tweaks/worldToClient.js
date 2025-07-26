@@ -4,7 +4,7 @@ import { getSetting, setSetting } from "../settings.js";
 
 const ALLOW_WORLD_TO_CLIENT = false;
 
-const ALTERED_SETTING_IDS = [];
+const ALTERED_SETTING_IDS = {};
 
 let registered = false;
 
@@ -58,8 +58,8 @@ function wrapRegister() {
             if (namespace === MODULE_ID) return originalRegisterSetting.call(this, ...args);
             const configuration = getSetting("ctwConfiguration");
             if (configuration[namespace + key] && configuration[namespace + key] !== data.scope) {
+                ALTERED_SETTING_IDS[namespace + "." + key] = data.scope;
                 data.scope = configuration[namespace + key];
-                ALTERED_SETTING_IDS.push(namespace + "." + key);
             }
             return originalRegisterSetting.call(this, ...args);
         } catch (error) {
@@ -86,8 +86,8 @@ function initConfig() {
             if (!settingId) return;
             const setting = game.settings.settings.get(settingId);
             if (!setting) return;
-            const altered = ALTERED_SETTING_IDS.includes(settingId);
-            const originalScope = altered ? (setting.scope === "world" ? "client" : "world") : setting.scope;
+            const altered = ALTERED_SETTING_IDS[settingId] !== undefined;
+            const originalScope = altered ? ALTERED_SETTING_IDS[settingId] : setting.scope;
             if (originalScope === "world" && !ALLOW_WORLD_TO_CLIENT) {
                 const worldIcon = document.createElement("label");
                 worldIcon.innerText = "🌎";
@@ -107,16 +107,17 @@ function initConfig() {
             worldOption.selected = setting.scope === "world";
             select.appendChild(worldOption);
             const clientOption = document.createElement("option");
-            clientOption.value = "client";
+            clientOption.value = "original";
             clientOption.text = "👤";
-            clientOption.selected = setting.scope === "client";
+            clientOption.selected = setting.scope !== "world";
             select.appendChild(clientOption);
             const label = formGroup.querySelector("label");
             formGroup.prepend(select);
             select.addEventListener("change", (event) => {
                 const value = event.target.value;
                 const configuration = getSetting("ctwConfiguration");
-                configuration[settingId.replace(".", "")] = value;
+                configuration[settingId.replace(".", "")] = value === "world" ? "world" : originalScope;
+                if(value === "original") delete configuration[settingId.replace(".", "")];
                 setSetting("ctwConfiguration", configuration);
                 ui.notifications.info(game.i18n.localize(`${MODULE_ID}.wtcNotification`).replace("{setting}", label.textContent).replace("{value}", value));
             });
