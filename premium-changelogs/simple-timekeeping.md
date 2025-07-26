@@ -1,3 +1,6 @@
+## Version 0.7.15
+- Fixed issue with custom moons not working correctly
+
 ## Version 0.7.14
 - Fixed error thrown when no moons are present on the calendar
 
