@@ -1,3 +1,6 @@
+## Version 4.0.3
+- Added scene fallback for in combat autoflip for when combat is not linked to a scene
+
 ## Version 4.0.2
 - Fixed localization text on some form fields
 
