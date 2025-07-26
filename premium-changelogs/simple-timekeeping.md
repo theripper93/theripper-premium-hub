@@ -1,3 +1,6 @@
+## Version 0.7.17
+- Added data validation for custom moons
+
 ## Version 0.7.16
 - fixed issue with darkness syncronization not working after one scene was found with syncronization disabled
 - fixed issue with year calculations on calendars with no leap yeras
