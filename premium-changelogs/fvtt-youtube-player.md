@@ -1,3 +1,6 @@
+## Version 3.0.1
+- Fixed sound library import dialog not working correctly
+
 ## Version 3.0.0
 - V13 Update
 
