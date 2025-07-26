@@ -1,3 +1,6 @@
+## Version 4.0.4
+- Improved in-combat check logic to work cross scenes and only process in combat tokens instead of all tokens in the scene in which combat takes place
+
 ## Version 4.0.3
 - Added scene fallback for in combat autoflip for when combat is not linked to a scene
 
