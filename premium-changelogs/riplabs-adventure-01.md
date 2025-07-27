@@ -1,3 +1,7 @@
+## Version 2.0.3
+- Fixed actor bio tooltips not working
+- Fixed missing icons for some text boxes
+
 ## Version 2.0.1
 - Fixed some misspelled name enrichers
 
