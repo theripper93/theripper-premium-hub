@@ -1,3 +1,6 @@
+## Version 3.0.11
+- Fixed events starting in era start year beeing set on previous era
+
 ## Version 3.0.10
 - Changed notification blocks to display block to revert v13 change which was breaking layout under some circumstances
 
