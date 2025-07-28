@@ -1,3 +1,6 @@
+## Version 0.7.18
+- Darkness update is now limited only to viewed and active scenes
+
 ## Version 0.7.17
 - Added data validation for custom moons
 
