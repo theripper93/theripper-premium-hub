@@ -1,3 +1,6 @@
+## Version 3.0.2
+- update ptbr localization
+
 ## Version 3.0.1
 - Fixed issue with some layer icons crashing the application
 
