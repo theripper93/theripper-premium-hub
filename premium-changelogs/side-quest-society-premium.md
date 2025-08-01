@@ -1,3 +1,6 @@
+## Version 1.5.0
+- New adventure - Fire in the Hall
+
 ## Version 1.4.1
 - New Adventure - An environmental hazard
 - Added tokens for all creatures and npc for all adventures up to this one
