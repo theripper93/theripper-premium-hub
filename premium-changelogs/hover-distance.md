@@ -1,3 +1,6 @@
+## Version 5.0.1
+- Added new option to use the new core 3d ruler calculations
+
 ## Version 5.0.0
 - Added new "center" option for allignment which is now default
 - Updated for V13
