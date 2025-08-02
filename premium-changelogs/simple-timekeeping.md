@@ -1,3 +1,8 @@
+## Version 1.0.1
+- Fixed some issue with some calendar data added by simple timekeeping not beein validated correctly
+- Added top offset setting to move the widget vertically
+- Moved days offset under days display setting since they are related and added hint
+
 ## Version 1.0.0
 - Supporter release
 - Added configure menu button in module settings in the event that the configure button in the module becomes unreachable
