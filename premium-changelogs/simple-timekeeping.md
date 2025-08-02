@@ -1,3 +1,7 @@
+## Version 1.0.0
+- Supporter release
+- Added configure menu button in module settings in the event that the configure button in the module becomes unreachable
+
 ## Version 0.7.18
 - Darkness update is now limited only to viewed and active scenes
 
