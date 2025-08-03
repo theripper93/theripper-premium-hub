@@ -1,3 +1,6 @@
+## Version 1.0.3
+- Switched calendar calculations to slower but more exact logic
+
 ## Version 1.0.2
 - Added barovian calendar
 - Fixed weekdays in Harptos calendar
