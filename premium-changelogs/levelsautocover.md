@@ -1,3 +1,6 @@
+## Version 3.0.2
+- Fixed duck icon not working correctly
+
 ## Version 3.0.1
 - Fixed deprecated active effects definitions causing errors
 
