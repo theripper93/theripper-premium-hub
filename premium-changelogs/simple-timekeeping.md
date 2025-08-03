@@ -1,3 +1,8 @@
+## Version 1.0.2
+- Added barovian calendar
+- Fixed weekdays in Harptos calendar
+- Fixed day of week calculation under some circumstances
+
 ## Version 1.0.1
 - Fixed some issue with some calendar data added by simple timekeeping not beein validated correctly
 - Added top offset setting to move the widget vertically
