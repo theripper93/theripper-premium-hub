@@ -1,3 +1,6 @@
+## Version 1.0.4
+- Corrected starting weekday for gregorian calendar
+
 ## Version 1.0.3
 - Switched calendar calculations to slower but more exact logic
 
