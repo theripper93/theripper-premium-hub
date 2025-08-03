@@ -1,3 +1,6 @@
+## Version 4.0.4
+- Changed order of operation so it's now possible to change productData item quantity directly in a macro
+
 ## Version 4.0.3
 - Fixed issue with notifications preventing chat message from beeing created when crafting
 
