@@ -1,3 +1,6 @@
+## Version 4.0.5
+- Updated content link to use default styling
+
 ## Version 4.0.4
 - Changed order of operation so it's now possible to change productData item quantity directly in a macro
 
