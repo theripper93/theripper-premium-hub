@@ -1,3 +1,8 @@
+## Version 1.0.5
+- Fixed disaply issue in date picker
+- Fixed issues with month repeating events
+- Fixed issues with leap year calculations
+
 ## Version 1.0.4
 - Corrected starting weekday for gregorian calendar
 
