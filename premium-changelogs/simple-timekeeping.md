@@ -1,3 +1,8 @@
+## Version 1.0.6
+- Improved darnkess curve so that dawn time is already bright and dusk is already dark
+- Added plain style visual setting
+- Dawn\dusk settings are now hidden if a climate zone is selected
+
 ## Version 1.0.5
 - Fixed disaply issue in date picker
 - Fixed issues with month repeating events
