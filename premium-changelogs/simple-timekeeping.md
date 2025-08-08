@@ -1,3 +1,6 @@
+## Version 1.1.0
+- Updated time logic for v13 update. WARNING, BREAKING: Due to core changes this will shift timestamps, unfortunatelly there is no solution or migration besides fixing the dates manually, sorry for the inconvinience
+
 ## Version 1.0.6
 - Improved darnkess curve so that dawn time is already bright and dusk is already dark
 - Added plain style visual setting
