@@ -1,3 +1,7 @@
+## Version 1.1.1
+- Fixed 1 day offset in day picker
+- Fixed gregorian calendar day of the week matching
+
 ## Version 1.1.0
 - Updated time logic for v13 update. WARNING, BREAKING: Due to core changes this will shift timestamps, unfortunatelly there is no solution or migration besides fixing the dates manually, sorry for the inconvinience
 
