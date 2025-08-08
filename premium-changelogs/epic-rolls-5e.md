@@ -1,3 +1,6 @@
+## Version 5.0.3
+- Updated button injection for latest fvtt update
+
 ## Version 5.0.2
 - Removed reliance on broken dice so nice api to determine if the roll finished in favor of a more generic custom implementation that checks for the message visibility in chat
 
