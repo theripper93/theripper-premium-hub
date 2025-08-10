@@ -1,3 +1,6 @@
+## Version 2.0.4
+- Module no longer throws errors when attempting to execute actions on documents that where deleted
+
 ## Version 2.0.3
 - Fixed colored cell display toggle not working correctly
 
