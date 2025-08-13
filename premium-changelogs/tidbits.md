@@ -1,3 +1,6 @@
+## Version 3.0.5
+- Fixed styling on pause text for latest dnd version
+
 ## Version 3.0.4
 - Fixed wrong color of chat message text under certain circumstances
 
