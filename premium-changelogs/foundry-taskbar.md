@@ -1,3 +1,6 @@
+## Version 5.0.5
+- removed legacy gmscreen integration
+
 ## Version 5.0.4
 - Fixed issue with minimize button beeing triggered on enter key if the window had no other submit buttons
 
