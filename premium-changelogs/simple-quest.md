@@ -1,3 +1,6 @@
+## Version 3.0.12
+- updated some text color css variables
+
 ## Version 3.0.11
 - Fixed events starting in era start year beeing set on previous era
 
