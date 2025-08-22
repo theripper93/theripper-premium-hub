@@ -1,3 +1,6 @@
+## Version 3.0.13
+- force display block in notification callouts to work around foundry bug
+
 ## Version 3.0.12
 - updated some text color css variables
 
