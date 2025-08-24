@@ -1,3 +1,6 @@
+## Version 5.0.4
+- Fixed dark mode \ light mode issues with latestr dnd versions
+
 ## Version 5.0.3
 - Updated button injection for latest fvtt update
 
