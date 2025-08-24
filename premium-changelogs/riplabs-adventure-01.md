@@ -1,3 +1,6 @@
+## Version 2.0.4
+- updated for newest dnd versions
+
 ## Version 2.0.3
 - Fixed actor bio tooltips not working
 - Fixed missing icons for some text boxes
