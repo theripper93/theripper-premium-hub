@@ -1,3 +1,6 @@
+## Version 2.0.3
+- removed image banner if image is not present
+
 ## Version 2.0.2
 - Fixed issue with some tooltips not having their html rendered correctly
 
