@@ -1,3 +1,6 @@
+## Version 2.0.5
+- fixed issue with dynamic events not updating
+
 ## Version 2.0.4
 - updated for newest dnd versions
 
