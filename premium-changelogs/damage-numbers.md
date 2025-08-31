@@ -1,3 +1,6 @@
+## Version 5.0.1
+- Fixed issue with missing asset
+
 ## Version 5.0.0
 - V13 Update
 
