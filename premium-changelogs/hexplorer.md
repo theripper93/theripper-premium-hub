@@ -1,3 +1,6 @@
+## Version 2.0.5
+- Updated message creation logic to forward gm message creation to gm
+
 ## Version 2.0.4
 - Module no longer throws errors when attempting to execute actions on documents that where deleted
 
