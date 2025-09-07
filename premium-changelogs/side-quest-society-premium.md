@@ -1,3 +1,6 @@
+## Version 1.6.0
+- New adventure - Chaos Chromatic
+
 ## Version 1.5.0
 - New adventure - Fire in the Hall
 
