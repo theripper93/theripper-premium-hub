@@ -1,3 +1,6 @@
+## Version 5.0.6
+- Fixes to styles and sizing for core css changes
+
 ## Version 5.0.5
 - Fixed issue with sidebar picker activating while the tab was inactive
 
