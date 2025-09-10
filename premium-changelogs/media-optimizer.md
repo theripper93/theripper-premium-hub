@@ -1,3 +1,6 @@
+## Version 5.0.3
+- Updated way filepicker is wrapped to maximize compatibility
+
 ## Version 5.0.2
 - Fixed issue causing all images to be duplicated when uploading multiple images that are oversized and needed shrinking
 
