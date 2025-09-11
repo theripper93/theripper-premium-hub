@@ -1,3 +1,6 @@
+## Version 3.0.3
+- Cleaned up some token intersection calculations to improve precision
+
 ## Version 3.0.2
 - Fixed duck icon not working correctly
 
