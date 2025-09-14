@@ -1,3 +1,8 @@
+## Version 2.0.6
+- Fixed window scrolling when overflowing
+- Added option to always show the new region as a full banner
+- Added button to reset discovered regions
+
 ## Version 2.0.5
 - Updated message creation logic to forward gm message creation to gm
 
