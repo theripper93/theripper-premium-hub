@@ -1,3 +1,8 @@
+## Version 2.0.6
+- Fixed some typos and inconsistency in introduction for the beginning
+- Fixed wrongly placed map pin
+- Slightly reworded the beginning welcome center description to more closely match the direction players are entering
+
 ## Version 2.0.5
 - fixed issue with dynamic events not updating
 
