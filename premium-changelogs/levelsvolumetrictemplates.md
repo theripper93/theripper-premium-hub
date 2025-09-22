@@ -1,3 +1,6 @@
+## Version 3.0.1
+- Fixed issue with toggles not beeing set to disabled internally when toggled off
+
 ## Version 3.0.0
 - V13 Update
 
