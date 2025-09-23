@@ -1,3 +1,6 @@
+## Version 7.0.14
+- Fixed issues with some file and range input fields not working as intended
+
 ## Version 7.0.13
 - Match core autorotation on ruler movement
 - Fixed font awesome icons
