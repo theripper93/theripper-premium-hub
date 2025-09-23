@@ -1,3 +1,6 @@
+## Version 7.0.16
+- Fixed issue with shader macro export not working correctly
+
 ## Version 7.0.15
 - When calculating ruler distance on uneven elevation, 3d canvas will now use the new v13 core 3d grid distance calculation to match the 2d ruler
 
