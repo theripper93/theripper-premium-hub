@@ -1,3 +1,6 @@
+## Version 7.0.17
+- Fixed input changes previews not working 
+
 ## Version 7.0.16
 - Fixed issue with shader macro export not working correctly
 
