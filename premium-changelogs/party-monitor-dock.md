@@ -1,3 +1,6 @@
+## Version 3.0.2
+- In the event the dock is not on the left side, the controls can no longer be hidden
+
 ## Version 3.0.1
 - Added more docking options
 
