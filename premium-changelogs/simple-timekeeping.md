@@ -1,3 +1,6 @@
+## Version 1.1.2
+- Clarified wording on PF2 warning
+
 ## Version 1.1.1
 - Fixed 1 day offset in day picker
 - Fixed gregorian calendar day of the week matching
