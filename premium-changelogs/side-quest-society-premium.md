@@ -1,3 +1,6 @@
+## Version 1.7.0
+- New adventure - Tides That Bind
+
 ## Version 1.6.0
 - New adventure - Chaos Chromatic
 
