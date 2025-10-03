@@ -1,3 +1,6 @@
+## Version 3.0.4
+- Fixed issue that in some cases could interfeere with dialog operations
+
 ## Version 3.0.3
 - Fixed application v2 support not working correctly
 
