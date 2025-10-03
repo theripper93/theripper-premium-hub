@@ -1,3 +1,6 @@
+## Version 7.0.18
+- Fixed issue with various buttons not beeing added to the tile hud
+
 ## Version 7.0.17
 - Fixed input changes previews not working 
 
