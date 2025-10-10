@@ -1,3 +1,7 @@
+## Version 7.0.19
+- Fixed rounding on gridless scenes for range finder
+- Fixed templates no longer displaying vfx
+
 ## Version 7.0.18
 - Fixed issue with various buttons not beeing added to the tile hud
 
