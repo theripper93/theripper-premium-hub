@@ -1,3 +1,6 @@
+## Version 5.0.7
+- moved sidebar injection to later hook
+
 ## Version 5.0.6
 - Fixes to styles and sizing for core css changes
 
