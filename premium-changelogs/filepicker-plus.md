@@ -1,3 +1,6 @@
+## Version 5.0.8
+- more improvements to sidebar injection
+
 ## Version 5.0.7
 - moved sidebar injection to later hook
 
