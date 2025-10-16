@@ -42,9 +42,10 @@ function onTokenPreUpdate(tokenDocument, updates) {
 }
 
 function onTarget(user, token, targeted) {
-    if (!targeted || !canvas.tokens.controlled.length) return;
-    const sourceToken = canvas.tokens.controlled[0];
-    if(token === sourceToken) return;
+    if(user !== game.user) return;
+    const sourceToken = canvas.tokens.controlled[0] ?? _token;
+    if (!targeted || !sourceToken) return;
+    if(token === sourceToken || sourceToken.scene !== canvas?.scene) return;
     const rotation = getRotation(sourceToken.document, token.document);
     if (rotation !== false) sourceToken.document.update({ rotation });
 }
