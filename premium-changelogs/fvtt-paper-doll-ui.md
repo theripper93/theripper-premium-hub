@@ -1,3 +1,6 @@
+## Version 2.0.2
+- fixed issue with empty item filter not working correctly after customizing paper doll
+
 ## Version 2.0.1
 - Fixed simple filter setting not saving correctly
 
