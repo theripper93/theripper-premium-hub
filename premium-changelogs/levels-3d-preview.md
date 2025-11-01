@@ -1,3 +1,6 @@
+## Version 7.0.20
+- Fixed issues with some of the tours not working correctly
+
 ## Version 7.0.19
 - Fixed rounding on gridless scenes for range finder
 - Fixed templates no longer displaying vfx
