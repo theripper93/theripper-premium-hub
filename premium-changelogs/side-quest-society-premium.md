@@ -1,3 +1,6 @@
+## Version 1.8.0
+- new adventure Binding Comradery
+
 ## Version 1.7.0
 - New adventure - Tides That Bind
 
