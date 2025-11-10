@@ -1,3 +1,6 @@
+## Version 2.0.7
+- Fixed issue where on click journal entries were revealed when they should have not
+
 ## Version 2.0.6
 - Fixed window scrolling when overflowing
 - Added option to always show the new region as a full banner
