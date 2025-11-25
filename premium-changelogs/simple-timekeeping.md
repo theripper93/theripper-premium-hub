@@ -1,3 +1,7 @@
+## Version 1.1.3
+- Fixed startingWeekday not working on custom calendars
+- Fixed ordinals in weekdays for harptos calendar
+
 ## Version 1.1.2
 - Clarified wording on PF2 warning
 
