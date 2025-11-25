@@ -1,0 +1,63 @@
+{
+    "theripper-premium-hub": {
+        "settings": {
+            "autoCheck": {
+                "name": "Kontrolovat aktualizace při startu?",
+                "hint": "Po zaškrtnutí bude při načtení světa automaticky kontrolovate, zda některý z Ripperových prémiových modulů nemá aktualizaci."
+            },
+            "checkDisabled": {
+                "name": "Kontrolovat i nepovolené moduly?",
+                "hint": "Po zaškrtnutí bude kontrolovat aktualizace i u modulů, které jsou nainstalovány, ale nejsou povoleny."
+            }
+        },
+        "tweaks-menu": {
+            "title": "Úpravy",
+            "label": "Nastavit úpravy",
+            "hint": "Nastaví některé funkce pro zlepšení komfortu, jako jsou startovací makra, čistá tlačítka v hlavičce a CSS úpravy.",
+            "tabs": {
+                "misc": "Různé",
+                "startup-macros": "Startovací makra",
+                "css-tweaks": "CSS úpravy"
+            },
+            "initMacros": {
+                "name": "Startovací makra",
+                "hint": "Spustí makra při načtení světa. Makra se spouštějí v pořadí, v jakém jsou zde uvedena."
+            },
+            "readyMacros": {
+                "name": "Makra po přípravě",
+                "hint": "Spustí makra, když je klient připraven. Makra se spouštějí v pořadí, v jakém jsou zde uvedena."
+            },
+            "cssTweak": {
+                "name": "CSS úpravy",
+                "hint": "Napiš si vlastní CSS k úpravě vzhledu Foundry či modulů. Pro lepší organizaci jsou k dispozici tři pole, ale můžeš použít i jen jedno pole."
+            },
+            "cleanHeaderButtons": {
+                "name": "Čistá tlačítka v hlavičce?",
+                "hint": "Zaškrtnutí odstraní texty z tlačítek v hlavičce, aby byly přehlednější. Pokud používáš mnoho mých modulů, můžeš mít v hlavičkách oken hodně tlačítek, tato volba odstraní jejich texty. (Vyžaduje modul LibWrapper)"
+            },
+            "compactSidebar": {
+                "name": "Kompaktní postranní panel?",
+                "hint": "Zmenší položky v postranním panelu, aby se jich na obrazovku vešlo více."
+            },
+            "enableSettingsSwap": {
+                "name": "Vynutit nastavení klientů?",
+                "hint": "Zaškrtnutí umožní přepsat nastavení světa u klientů na nastavení PJ. Vynutí to vybraná nastavení pro všechny klienty a hráči už tato nastavení neuvidí."
+            },
+            "diceTray": {
+                "name": "Panel kostek?",
+                "hint": "Zaškrtnutí přidá do chatu panel kostek. Umožní házet kostkami a přidávat k nim opravy."
+            },
+            "autoRotate": {
+                "name": "Automatické otáčení",
+                "hint": "Po aktivaci se budou tokeny automaticky otáčet směrem pohybu a k cílovému tokenu.",
+                "none": "Deaktivováno",
+                "defaultOn": "Aktivováno (výchozí zapnuto)",
+                "defaultOff": "Aktivováno (výchozí vypnuto)",
+                "on": "Aktivováno",
+                "off": "Deaktivováno",
+                "default": "Výchozí"
+            }
+        },
+        "wtcNotification": "Nastavení {setting} změněno na {value}. Změny v nastavení nebudou uplatněny a uloženy, dokud nebude svět znovunenačten."
+    }
+}
