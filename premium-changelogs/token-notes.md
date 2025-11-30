@@ -1,3 +1,6 @@
+## Version 3.0.1
+- Removed docked position setting since it's not needed anymore since the draggable update
+
 ## Version 3.0.0
 - V13 Update
 
