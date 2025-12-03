@@ -1,3 +1,6 @@
+## Version 5.0.2
+- Updated number recognition logic to correctly recognize number strings
+
 ## Version 5.0.1
 - Fixed issue with missing asset
 
