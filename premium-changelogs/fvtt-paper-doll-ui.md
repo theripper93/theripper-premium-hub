@@ -1,3 +1,6 @@
+## Version 2.0.3
+- Fixed color\hue not beeing saved correctly
+
 ## Version 2.0.2
 - fixed issue with empty item filter not working correctly after customizing paper doll
 
