@@ -1,3 +1,7 @@
+## Version 1.9.0
+- New and Final adventure, Touch of Gold
+- All backlog of tokens has been completed, all minor creatures now have tokens assigned for all adventures
+
 ## Version 1.8.0
 - new adventure Binding Comradery
 
