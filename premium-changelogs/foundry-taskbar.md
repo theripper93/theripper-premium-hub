@@ -1,3 +1,6 @@
+## Version 5.0.6
+- Fixed workspaces not working for app v2s
+
 ## Version 5.0.5
 - removed legacy gmscreen integration
 
