@@ -1,3 +1,6 @@
+## Version 3.0.15
+- Fixed color settings not updating correctly
+
 ## Version 3.0.14
 - Added workaround for broken v13 update handling in order to restore notifications function
 
