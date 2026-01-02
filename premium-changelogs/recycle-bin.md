@@ -1,3 +1,7 @@
+## Version 3.1.0
+- Updated to AppV2
+- Fixed incorrect behavior when deleting many documents at the same time while window was open
+
 ## Version 3.0.2
 - update ptbr localization
 
