@@ -1,3 +1,7 @@
+## Version 3.1.0
+- Updated to AppV2
+- Reworked Puzzle Lock control bar to match V13 button style and moved it to left side of the screen
+
 ## Version 3.0.4
 - Fixed issue that in some cases could interfeere with dialog operations
 
