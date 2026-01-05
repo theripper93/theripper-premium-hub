@@ -1,3 +1,6 @@
+## Version 5.1.0
+- Updated to AppV2
+
 ## Version 5.0.4
 - Fixed dark mode \ light mode issues with latestr dnd versions
 
