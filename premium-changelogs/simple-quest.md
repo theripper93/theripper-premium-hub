@@ -1,3 +1,6 @@
+## Version 3.0.16
+- Fixed context menu triggering when right clicking counters
+
 ## Version 3.0.15
 - Fixed color settings not updating correctly
 
