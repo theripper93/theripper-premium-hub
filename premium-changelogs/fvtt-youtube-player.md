@@ -1,3 +1,7 @@
+## Version 3.1.0
+- Updated to AppV2
+- Refreshed playlist interface
+
 ## Version 3.0.1
 - Fixed sound library import dialog not working correctly
 
