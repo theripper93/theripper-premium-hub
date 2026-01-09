@@ -1,3 +1,6 @@
+## Version 2.0.7
+- Added logic to skip tokens with no actor assigned when teleporting
+
 ## Version 2.0.6
 - Fixed some typos and inconsistency in introduction for the beginning
 - Fixed wrongly placed map pin
