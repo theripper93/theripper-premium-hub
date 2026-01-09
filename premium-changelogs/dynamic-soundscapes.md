@@ -1,3 +1,6 @@
+## Version 3.1.0
+- Updated to appV2
+
 ## Version 3.0.3
 - Fixed dropdowns in block config not pre-selecting the saved option
 
