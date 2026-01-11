@@ -1,3 +1,7 @@
+## Version 3.1.0
+- Updated to AppV2
+- Fixed Macro Wheel not opening when MacroWheel folder had no child folders
+
 ## Version 3.0.1
 - Corrected mislabled condition field in macro config
 
