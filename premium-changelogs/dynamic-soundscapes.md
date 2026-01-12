@@ -1,3 +1,6 @@
+## Version 3.1.1
+- Fixed multiple visibility issues with application V2 update
+
 ## Version 3.1.0
 - Updated to appV2
 
