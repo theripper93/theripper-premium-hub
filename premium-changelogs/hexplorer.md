@@ -1,3 +1,6 @@
+## Version 2.0.8
+- Table rolling is now awaited in order to ensure consistent sequencing
+
 ## Version 2.0.7
 - Fixed issue where on click journal entries were revealed when they should have not
 
