@@ -1,3 +1,8 @@
+## Version 3.1.0
+- Updated to AppV2
+- Removed Dock mode in favor of new adaptive Floating mode
+- Added Horizontal mode
+
 ## Version 3.0.2
 - In the event the dock is not on the left side, the controls can no longer be hidden
 
