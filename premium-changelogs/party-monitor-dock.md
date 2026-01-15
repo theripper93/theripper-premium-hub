@@ -1,3 +1,6 @@
+## Version 3.1.1
+- Cleaned up redundant settings
+
 ## Version 3.1.0
 - Updated to AppV2
 - Removed Dock mode in favor of new adaptive Floating mode
