@@ -1,3 +1,6 @@
+## Version 3.0.17
+- Fixed hide checkboxed not beeing always visible in windowed mode
+
 ## Version 3.0.16
 - Fixed context menu triggering when right clicking counters
 
