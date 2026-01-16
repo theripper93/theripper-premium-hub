@@ -1,3 +1,7 @@
+## Version 3.2.0
+- Added back Docked Mode (right)
+- Added Hidden Mode
+
 ## Version 3.1.1
 - Cleaned up redundant settings
 
