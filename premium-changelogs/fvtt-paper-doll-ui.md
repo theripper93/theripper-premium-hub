@@ -1,3 +1,6 @@
+## Version 2.1.0
+- Updated to AppV2
+
 ## Version 2.0.3
 - Fixed color\hue not beeing saved correctly
 
