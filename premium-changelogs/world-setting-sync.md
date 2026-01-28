@@ -1,4 +1,7 @@
 ## Version 2.0.1
+- Added forge warning
+
+## Version 2.0.1
 - Added game time as hardcoded ignored setting
 
 ## Version 2.0.0
