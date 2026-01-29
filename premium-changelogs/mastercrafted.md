@@ -1,3 +1,6 @@
+## Version 4.0.6
+- updated context menus to the new non jquery ones
+
 ## Version 4.0.5
 - Updated content link to use default styling
 
