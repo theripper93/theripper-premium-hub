@@ -1,3 +1,6 @@
+## Version 4.1.1
+- Fixed compendium migration not working
+
 ## Version 4.0.2
 - Fix ability checks in dnd5e
 
