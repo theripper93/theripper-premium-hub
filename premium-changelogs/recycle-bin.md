@@ -1,3 +1,6 @@
+## Version 3.1.1
+- Fixed scroll not working correctly
+
 ## Version 3.1.0
 - Updated to AppV2
 - Fixed incorrect behavior when deleting many documents at the same time while window was open

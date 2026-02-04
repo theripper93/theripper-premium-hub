@@ -1,3 +1,6 @@
+## Version 5.1.1
+- Fixed Tools in configuration window
+
 ## Version 5.1.0
 - Updated to AppV2
 

@@ -1,5 +1,9 @@
-## Version 4.1.1
-- Fixed compendium migration not working
+## Version 4.1.0
+- Updated to AppV2
+- Migrated from using Text journal page to Custom Gatherer Type journal page
+- Added support for nested tables
+- Added support for non-item table results (eg: actors, text)
+- Added option to alter quantity based on DC result
 
 ## Version 4.0.2
 - Fix ability checks in dnd5e

@@ -1,3 +1,6 @@
+## Version 3.2.1
+- Fixed wrong width in floating horizontal mode without corners
+
 ## Version 3.2.0
 - Added back Docked Mode (right)
 - Added Hidden Mode
