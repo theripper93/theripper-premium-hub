@@ -1,3 +1,6 @@
+## Version 4.1.1
+- Fixed compendium migration not working
+
 ## Version 4.1.0
 - Updated to AppV2
 - Migrated from using Text journal page to Custom Gatherer Type journal page
