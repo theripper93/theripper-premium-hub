@@ -1,3 +1,8 @@
+## Version 4.1.2
+- Changed buttons handling for increased module compatibility
+- Readded header in edit window
+- Improved edit window styling
+
 ## Version 4.1.0
 - Updated to AppV2
 - Migrated from using Text journal page to Custom Gatherer Type journal page
