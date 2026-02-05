@@ -1,3 +1,6 @@
+## Version 4.1.3
+- Fixed modifiers activation order
+
 ## Version 4.1.2
 - Changed buttons handling for increased module compatibility
 - Readded header in edit window
