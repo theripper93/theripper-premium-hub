@@ -1,3 +1,7 @@
+## Version 3.1.1
+- Fixed sidebar icons being covered in some situations
+- Fixed shuffle icon not showing
+
 ## Version 3.1.0
 - Updated to AppV2
 - Reworked Puzzle Lock control bar to match V13 button style and moved it to left side of the screen
