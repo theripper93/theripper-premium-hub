@@ -1,3 +1,6 @@
+## Version 3.1.1
+- Fixed bad style interaction with scene controls sidebar
+
 ## Version 3.1.0
 - Updated to AppV2
 - Refreshed playlist interface
