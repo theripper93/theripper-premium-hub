@@ -1,3 +1,6 @@
+## Version 4.1.4
+- Gatherer pages can now be embedded using the @Embed enricher
+
 ## Version 4.1.3
 - Fixed modifiers activation order
 
