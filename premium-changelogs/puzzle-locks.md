@@ -1,3 +1,7 @@
+## Version 3.1.2
+- Fixed cryptex puzzle, now cylinders shrink to accomodate long puzzles or small screens
+- Fixed styling issues
+
 ## Version 3.1.1
 - Fixed sidebar icons being covered in some situations
 - Fixed shuffle icon not showing
