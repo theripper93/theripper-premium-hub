@@ -1,3 +1,6 @@
+## Version 4.1.5
+- Improved robustness in tool parsing
+
 ## Version 4.1.4
 - Gatherer pages can now be embedded using the @Embed enricher
 
