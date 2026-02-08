@@ -1,3 +1,6 @@
+## Version 2.1.1
+- Fixed minimize actor sheet when Paper Doll is open
+
 ## Version 2.1.0
 - Updated to AppV2
 
