@@ -1,6 +1,9 @@
 ## Version 5.1.3
 - Improved compatibility with legacy tools
 
+## Version 5.1.2
+- Fixed module crashing when handling items from other modules
+
 ## Version 5.1.1
 - Fixed Tools in configuration window
 
