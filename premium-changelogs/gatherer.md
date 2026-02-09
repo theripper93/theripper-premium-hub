@@ -1,3 +1,6 @@
+## Version 4.1.6
+- Improved compatibility with legacy tools
+
 ## Version 4.1.5
 - Improved robustness in tool parsing
 
