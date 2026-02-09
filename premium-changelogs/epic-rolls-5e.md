@@ -1,3 +1,6 @@
+## Version 5.1.3
+- Improved compatibility with legacy tools
+
 ## Version 5.1.1
 - Fixed Tools in configuration window
 
