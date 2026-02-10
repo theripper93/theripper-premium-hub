@@ -1,3 +1,6 @@
+## Version 3.1.2
+- Fixed player movement
+
 ## Version 3.1.1
 - Fixed bad style interaction with scene controls sidebar
 
