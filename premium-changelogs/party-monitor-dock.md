@@ -1,3 +1,6 @@
+## Version 3.2.2
+- Fixed wrong sizing after minimization
+
 ## Version 3.2.1
 - Fixed wrong width in floating horizontal mode without corners
 
