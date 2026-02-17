@@ -1,3 +1,6 @@
+## Version 3.1.3
+- Fixed Item Lock not showing slots
+
 ## Version 3.1.2
 - Fixed cryptex puzzle, now cylinders shrink to accomodate long puzzles or small screens
 - Fixed styling issues
