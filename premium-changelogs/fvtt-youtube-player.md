@@ -1,3 +1,6 @@
+## Version 3.1.3
+- Fixed widget sticking on mouse while dragging on client
+
 ## Version 3.1.2
 - Fixed player movement
 
