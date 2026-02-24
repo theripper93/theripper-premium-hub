@@ -1,3 +1,6 @@
+## Version 4.1.7
+- Fixed error message
+
 ## Version 4.1.6
 - Improved compatibility with legacy tools
 
