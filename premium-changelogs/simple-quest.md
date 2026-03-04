@@ -1,3 +1,6 @@
+## Version 3.0.18
+- Improved checks for page permissions
+
 ## Version 3.0.17
 - Fixed hide checkboxed not beeing always visible in windowed mode
 
