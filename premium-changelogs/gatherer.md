@@ -1,3 +1,7 @@
+## Version 4.1.8
+- Changed Harvest Resource Value check to pass if resource <= value instead of resource = value
+- This will accomodate systems that allow negative resources (like HP)
+
 ## Version 4.1.7
 - Fixed error message
 
