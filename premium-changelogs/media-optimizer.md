@@ -1,3 +1,6 @@
+## Version 5.0.4
+- Fixed tile scale not beeing applied correctly when combining
+
 ## Version 5.0.3
 - Updated way filepicker is wrapped to maximize compatibility
 
