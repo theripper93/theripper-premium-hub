@@ -1,3 +1,10 @@
+## Version 3.0.19
+- Changed how permissions for Maps tab are handled so that they match the overall foundry permission logic. You might need to make the maps visible again to your players as they might now be hidden by default
+- If a player attempts to edit an Owned Map, the window will automatically close, preventing players with ownership from seeing the map through fog of war while enablign them to place pins
+
+## Version 3.0.18
+- Improved checks for page permissions
+
 ## Version 3.0.17
 - Fixed hide checkboxed not beeing always visible in windowed mode
 

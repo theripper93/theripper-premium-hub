@@ -1,3 +1,9 @@
+## Version 1.1.5
+- Improved dusk\dawn calculations
+
+## Version 1.1.4
+- Invalid dusk and dawn data now fails with a soft error instead of a hard one
+
 ## Version 1.1.3
 - Fixed startingWeekday not working on custom calendars
 - Fixed ordinals in weekdays for harptos calendar
