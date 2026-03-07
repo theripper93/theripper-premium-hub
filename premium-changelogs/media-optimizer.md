@@ -1,3 +1,6 @@
+## Version 5.0.5
+- Fixed further issues with scale calculations on tile combiner
+
 ## Version 5.0.4
 - Fixed tile scale not beeing applied correctly when combining
 
