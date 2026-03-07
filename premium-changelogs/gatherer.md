@@ -1,3 +1,11 @@
+## Version 4.1.9
+- Harvest Resource Value checks for resource < value only if resource is negative.
+- Checks with positive resource (like HP > 0) has been reverted to value = resource to keep backward compatibility
+
+## Version 4.1.8
+- Changed Harvest Resource Value check to pass if resource <= value instead of resource = value
+- This will accomodate systems that allow negative resources (like HP)
+
 ## Version 4.1.7
 - Fixed error message
 
