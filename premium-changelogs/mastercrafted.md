@@ -1,3 +1,12 @@
+## Version 5.0.0
+- Updated to AppV2
+- Books are now journals and Recipes are pages, you can manage permissions, export, import, duplicate, drag and drop as any Core journal
+- Added in the UI: ingredients left in the inventory, number of craftable products
+- Players can now use their character to craft and an inventory to pick ingredients from, like a party chest, a kitchen pantry or a loot stash
+- Added modifiers to multiply the crafting products if the player was particularly skilled in the craft
+- D&D5E system only: added skill checks and tool checks
+- Added the ability to require all tags or just some tags to match an ingredient
+
 ## Version 4.0.6
 - updated context menus to the new non jquery ones
 
