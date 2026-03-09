@@ -1,3 +1,8 @@
+## Version 5.0.1
+- Fixed bug with delayed crafting
+- Added setting for hiding crafting buttons for NPCs
+- Tweaked folder visibility logic
+
 ## Version 5.0.0
 - Updated to AppV2
 - Books are now journals and Recipes are pages, you can manage permissions, export, import, duplicate, drag and drop as any Core journal
