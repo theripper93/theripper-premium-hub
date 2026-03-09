@@ -1,3 +1,6 @@
+## Version 5.0.6
+- re-release due to fail deployment
+
 ## Version 5.0.5
 - Fixed further issues with scale calculations on tile combiner
 
