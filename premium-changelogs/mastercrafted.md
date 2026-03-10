@@ -1,3 +1,10 @@
+## Version 5.0.3
+- Fixed results not deleting from context menu
+- Fixed migration failing if recipes contained deleted items
+- Fixed module misbehaving if loaded in a world without actors
+- Added option to specify Recipe Books folder
+- Tweaked automatic Recipe Book main folder detection
+
 ## Version 5.0.2
 - Fixed application not keeping scroll position
 - Restored functionality: drag an item on a Recipe Book to create a new recipe with the item as result
