@@ -1,3 +1,7 @@
+## Version 5.0.2
+- Fixed application not keeping scroll position
+- Restored functionality: drag an item on a Recipe Book to create a new recipe with the item as result
+
 ## Version 5.0.1
 - Fixed bug with delayed crafting
 - Added setting for hiding crafting buttons for NPCs
