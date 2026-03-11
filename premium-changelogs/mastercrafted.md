@@ -1,3 +1,8 @@
+## Version 5.0.4
+- Added timeMultiplier and checkResult to possible macro results, see wiki for documentation
+- Added inventoryActor to macro arguments, see wiki for documentation
+- Fixed number of crafted items displayed in chat
+
 ## Version 5.0.3
 - Fixed results not deleting from context menu
 - Fixed migration failing if recipes contained deleted items
