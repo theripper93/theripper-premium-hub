@@ -1,3 +1,6 @@
+## Version 5.0.5
+- Fixed delayed crafting processing entering a loop under certain systems or conditions
+
 ## Version 5.0.4
 - Added timeMultiplier and checkResult to possible macro results, see wiki for documentation
 - Added inventoryActor to macro arguments, see wiki for documentation
