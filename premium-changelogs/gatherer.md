@@ -1,3 +1,6 @@
+## Version 4.2.0
+- Added possibility to set individual quantities for table results/items
+
 ## Version 4.1.9
 - Harvest Resource Value checks for resource < value only if resource is negative.
 - Checks with positive resource (like HP > 0) has been reverted to value = resource to keep backward compatibility
