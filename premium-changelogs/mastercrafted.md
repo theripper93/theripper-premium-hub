@@ -1,3 +1,6 @@
+## Version 5.0.6
+- Only one delayed crafting processing routine can now run at once, improving robustness with multiple subsequent calls
+
 ## Version 5.0.5
 - Fixed delayed crafting processing entering a loop under certain systems or conditions
 
