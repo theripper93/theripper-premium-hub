@@ -1,3 +1,6 @@
+## Version 4.2.1
+- Fixed gathering not working until the linked table is updated
+
 ## Version 4.2.0
 - Added possibility to set individual quantities for table results/items
 
