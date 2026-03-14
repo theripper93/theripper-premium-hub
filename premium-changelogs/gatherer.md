@@ -1,3 +1,6 @@
+## Version 4.2.2
+- Improved compatibility between specific quantities per item and multiple items per draw
+
 ## Version 4.2.1
 - Fixed gathering not working until the linked table is updated
 
