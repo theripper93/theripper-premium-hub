@@ -1,3 +1,6 @@
+## Version 4.2.3
+- Fixed items not being added to inventory
+
 ## Version 4.2.2
 - Improved compatibility between specific quantities per item and multiple items per draw
 
