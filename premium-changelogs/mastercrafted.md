@@ -1,3 +1,6 @@
+## Version 5.0.8
+- Restored Cauldron functionality
+
 ## Version 5.0.7
 - Fixed header button in AppV1 actor sheets
 
