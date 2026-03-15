@@ -1,3 +1,6 @@
+## Version 5.0.7
+- Fixed header button in AppV1 actor sheets
+
 ## Version 5.0.6
 - Only one delayed crafting processing routine can now run at once, improving robustness with multiple subsequent calls
 
