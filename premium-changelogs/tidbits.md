@@ -1,3 +1,7 @@
+## Version 3.0.6
+- Updated sample images included with module
+- Removed built in system tidbits and moved them as an example on the wiki
+
 ## Version 3.0.5
 - Fixed styling on pause text for latest dnd version
 
