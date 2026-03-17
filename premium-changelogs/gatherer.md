@@ -1,3 +1,15 @@
+## Version 4.2.3
+- Fixed items not being added to inventory
+
+## Version 4.2.2
+- Improved compatibility between specific quantities per item and multiple items per draw
+
+## Version 4.2.1
+- Fixed gathering not working until the linked table is updated
+
+## Version 4.2.0
+- Added possibility to set individual quantities for table results/items
+
 ## Version 4.1.9
 - Harvest Resource Value checks for resource < value only if resource is negative.
 - Checks with positive resource (like HP > 0) has been reverted to value = resource to keep backward compatibility

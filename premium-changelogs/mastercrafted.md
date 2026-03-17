@@ -1,3 +1,36 @@
+## Version 5.0.8
+- Restored Cauldron functionality
+
+## Version 5.0.7
+- Fixed header button in AppV1 actor sheets
+
+## Version 5.0.6
+- Only one delayed crafting processing routine can now run at once, improving robustness with multiple subsequent calls
+
+## Version 5.0.5
+- Fixed delayed crafting processing entering a loop under certain systems or conditions
+
+## Version 5.0.4
+- Added timeMultiplier and checkResult to possible macro results, see wiki for documentation
+- Added inventoryActor to macro arguments, see wiki for documentation
+- Fixed number of crafted items displayed in chat
+
+## Version 5.0.3
+- Fixed results not deleting from context menu
+- Fixed migration failing if recipes contained deleted items
+- Fixed module misbehaving if loaded in a world without actors
+- Added option to specify Recipe Books folder
+- Tweaked automatic Recipe Book main folder detection
+
+## Version 5.0.2
+- Fixed application not keeping scroll position
+- Restored functionality: drag an item on a Recipe Book to create a new recipe with the item as result
+
+## Version 5.0.1
+- Fixed bug with delayed crafting
+- Added setting for hiding crafting buttons for NPCs
+- Tweaked folder visibility logic
+
 ## Version 5.0.0
 - Updated to AppV2
 - Books are now journals and Recipes are pages, you can manage permissions, export, import, duplicate, drag and drop as any Core journal
