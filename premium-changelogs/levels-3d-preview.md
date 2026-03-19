@@ -1,3 +1,7 @@
+## Version 8.0.0
+- Updated to AppV2
+- Updated for new module split
+
 ## Version 7.0.20
 - Fixed issues with some of the tours not working correctly
 
