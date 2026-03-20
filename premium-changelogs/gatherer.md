@@ -1,3 +1,8 @@
+## Version 4.2.4
+- Improved compatibility with automations
+- Fixed Ctrl/Alt + Click for automatic dis/adv
+- Removed translations
+
 ## Version 4.2.3
 - Fixed items not being added to inventory
 
