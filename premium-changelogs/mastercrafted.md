@@ -1,3 +1,7 @@
+## Version 5.0.10
+- Improved compatibility with in-memory translation systems
+- Uuid is now checked for compendium-imported items against source id if name check fails
+
 ## Version 5.0.8
 - Restored Cauldron functionality
 
