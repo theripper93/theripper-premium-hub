@@ -1,3 +1,6 @@
+## Version 3.0.20
+- Fixed issue with quests not beeing openable for players under certain circumstances
+
 ## Version 3.0.19
 - Changed how permissions for Maps tab are handled so that they match the overall foundry permission logic. You might need to make the maps visible again to your players as they might now be hidden by default
 - If a player attempts to edit an Owned Map, the window will automatically close, preventing players with ownership from seeing the map through fog of war while enablign them to place pins
