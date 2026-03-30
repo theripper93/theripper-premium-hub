@@ -1,3 +1,6 @@
+## Version 8.0.1
+- Improved AssetBrowser API
+
 ## Version 8.0.0
 - Updated to AppV2
 - Updated for new module split
