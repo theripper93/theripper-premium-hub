@@ -1,3 +1,8 @@
+## Version 5.1.4
+- Improved compatibility between Initiative rolls and certain automations
+- Fixed API issue when passing Actors as full objects instead of uuids
+- Removed translations
+
 ## Version 5.1.3
 - Improved compatibility with legacy tools
 
