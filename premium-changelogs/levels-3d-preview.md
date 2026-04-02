@@ -1,3 +1,6 @@
+## Version 8.0.2
+- Updated Asset Browser init logic
+
 ## Version 8.0.1
 - Improved AssetBrowser API
 
