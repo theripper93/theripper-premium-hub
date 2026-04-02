@@ -1,3 +1,6 @@
+## Version 4.0.0
+- Updated to V14
+
 ## Version 3.1.0
 - Updated to AppV2
 - Fixed Macro Wheel not opening when MacroWheel folder had no child folders
