@@ -1,3 +1,6 @@
+## Version 6.0.0
+- Updated to V14
+
 ## Version 5.0.10
 - Improved compatibility with in-memory translation systems
 - Uuid is now checked for compendium-imported items against source id if name check fails
