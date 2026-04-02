@@ -1,3 +1,6 @@
+## Version 5.0.0
+- Updated to V14
+
 ## Version 4.2.4
 - Improved compatibility with automations
 - Fixed Ctrl/Alt + Click for automatic dis/adv
