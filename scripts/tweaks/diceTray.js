@@ -8,12 +8,14 @@ export function applyDiceTrayTweaks(startup = false) {
     if (!hookState) {
       Hooks.on("renderChatLog", renderChatHook);
       Hooks.on("collapseSidebar", renderChatHook);
+      Hooks.on("changeSidebarTab", renderChatHook);
     }
     hookState = true;
   } else {
     if (hookState) {
       Hooks.off("renderChatLog", renderChatHook);
       Hooks.off("collapseSidebar", renderChatHook);
+      Hooks.off("changeSidebarTab", renderChatHook);
     }
     hookState = false;
   }
@@ -207,9 +209,14 @@ function buildRoll() {
     components.push(
       `${diceTrayData.count > 0 ? "" : "- "}${Math.abs(diceTrayData.count)}`
     );
-  if (components.length === 0)
-    return (document.querySelector("#chat-message").value = "");
-  document.querySelector("#chat-message").value = `/r ${components
+  if (components.length === 0) return setChatTextContent("");
+
+  setChatTextContent(`/r ${components
     .join(" + ")
-    .replace("+ -", "-")}`;
+    .replace("+ -", "-")}`);
+}
+
+function setChatTextContent(text) {
+  const element = document.querySelector("#chat-message .editor-content p");
+  element.innerHTML = text;
 }

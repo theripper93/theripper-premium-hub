@@ -11,7 +11,7 @@ let registered = false;
 let originalRegisterSetting;
 
 export function initWorldToClient() {
-    originalRegisterSetting = ClientSettings.prototype.register;
+    originalRegisterSetting = foundry.helpers.ClientSettings.prototype.register;
 
     wrapRegister();
 
@@ -51,7 +51,7 @@ function registerFirst() {
 }
 
 function wrapRegister() {
-    ClientSettings.prototype.register = function (...args) {
+    foundry.helpers.ClientSettings.prototype.register = function (...args) {
         try {
             registerFirst.call(this);
             const [namespace, key, data] = args;
@@ -70,7 +70,7 @@ function wrapRegister() {
 }
 
 function unwrapRegister() {
-    ClientSettings.prototype.register = originalRegisterSetting;
+    foundry.helpers.ClientSettings.prototype.register = originalRegisterSetting;
 }
 
 function initConfig() {

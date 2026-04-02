@@ -106,7 +106,7 @@ export class TheRipperPremiumHUB {
             displayUpdated = this.outdatedModules;
         }
         if (Object.keys(displayUpdated).length === 0) return null;
-        const html = await renderTemplate("modules/theripper-premium-hub/templates/modlist.hbs", displayUpdated);
+        const html = await foundry.applications.handlebars.renderTemplate("modules/theripper-premium-hub/templates/modlist.hbs", displayUpdated);
         const confirmed = await prompt("TheRipper93 Premium HUB - Updates Available!", html);
         if (confirmed) {
             console.log("Confirmed updates");
@@ -124,7 +124,7 @@ export class TheRipperPremiumHUB {
         const ids = Object.keys(announcements);
         const viewedAnnouncements = game.settings.get("theripper-premium-hub", "viewedAnnouncements") ?? "";
         const allViewed = ids.every((id) => viewedAnnouncements.includes(id));
-        const html = await renderTemplate("modules/theripper-premium-hub/templates/announcements.hbs", announcements);
+        const html = await foundry.applications.handlebars.renderTemplate("modules/theripper-premium-hub/templates/announcements.hbs", announcements);
         this.announcementsHtml = html;
         if (allViewed && !this._debug) return;
         game.settings.set("theripper-premium-hub", "viewedAnnouncements", ids.join(","));

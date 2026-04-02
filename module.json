@@ -14,41 +14,6 @@
       "lang": "en",
       "name": "English",
       "path": "languages/en.json"
-    },
-    {
-      "lang": "ja",
-      "name": "日本語",
-      "path": "languages/ja.json"
-    },
-    {
-      "lang": "de",
-      "name": "Deutsch",
-      "path": "languages/de.json"
-    },
-    {
-      "lang": "fr",
-      "name": "Français",
-      "path": "languages/fr.json"
-    },
-    {
-      "lang": "es",
-      "name": "Español",
-      "path": "languages/es.json"
-    },
-    {
-      "lang": "pt-BR",
-      "name": "Português (Brasil)",
-      "path": "languages/pt-br.json"
-    },
-    {
-      "lang": "cs",
-      "name": "Čeština",
-      "path": "languages/cs.json"
-    },
-    {
-      "lang": "it",
-      "name": "Italiano",
-      "path": "languages/it.json"
     }
   ],
   "esmodules": [
@@ -62,8 +27,8 @@
   "download": "https://github.com/theripper93/theripper-premium-hub/releases/latest/download/module.zip",
   "id": "theripper-premium-hub",
   "compatibility": {
-    "minimum": "13",
-    "verified": "13"
+    "minimum": "14",
+    "verified": "14"
   }
 
 }
