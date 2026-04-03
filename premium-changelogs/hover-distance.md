@@ -1,3 +1,6 @@
+## Version 6.0.0
+- Updated to V14
+
 ## Version 5.0.1
 - Added new option to use the new core 3d ruler calculations
 
