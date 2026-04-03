@@ -1,3 +1,6 @@
+## Version 4.0.0
+- Updated to V14
+
 ## Version 3.0.20
 - Fixed issue with quests not beeing openable for players under certain circumstances
 
