@@ -1,3 +1,6 @@
+## Version 6.0.0
+- Updated to V14
+
 ## Version 5.0.8
 - more improvements to sidebar injection
 
