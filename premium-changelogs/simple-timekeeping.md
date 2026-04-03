@@ -1,3 +1,6 @@
+## Version 2.0.0
+- Updated to V14
+
 ## Version 1.1.5
 - Improved dusk\dawn calculations
 
