@@ -1,3 +1,6 @@
+## Version 3.0.0
+- Updated to V14
+
 ## Version 2.0.3
 - removed image banner if image is not present
 
