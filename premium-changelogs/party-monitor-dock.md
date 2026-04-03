@@ -1,3 +1,6 @@
+## Version 4.0.1
+- Replaced AI assets with human-made artwork
+
 ## Version 4.0.0
 - Updated to V14
 
