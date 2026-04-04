@@ -1,3 +1,6 @@
+## Version 5.0.1
+- Fixed text results not showing in chat
+
 ## Version 5.0.0
 - Updated to V14
 
