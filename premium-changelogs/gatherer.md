@@ -1,3 +1,7 @@
+## Version 4.2.5
+- Fixed text results not showing in chat
+- FoundryVTT v13
+
 ## Version 5.0.1
 - Fixed text results not showing in chat
 
