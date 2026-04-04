@@ -1,3 +1,6 @@
+## Version 8.0.3
+- Fixed welcome screen formatting
+
 ## Version 8.0.2
 - Updated Asset Browser init logic
 
