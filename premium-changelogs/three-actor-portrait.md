@@ -1,3 +1,6 @@
+## Version 4.0.0
+- Updated to V14
+
 ## Version 3.0.4
 - Fixed missing heroforge button in prototype token
 
