@@ -1,3 +1,6 @@
+## Version 3.0.0
+- Updated for V14
+
 ## Version 2.0.7
 - Added logic to skip tokens with no actor assigned when teleporting
 
