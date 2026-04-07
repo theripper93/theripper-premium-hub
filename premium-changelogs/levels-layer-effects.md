@@ -1,3 +1,6 @@
+## Version 3.0.0
+- Updated to v14
+
 ## Version 2.0.1
 - Moved elevation check for better filter update consistency
 
