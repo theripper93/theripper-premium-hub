@@ -1,3 +1,6 @@
+## Version 4.0.0
+- Updated to v14
+
 ## Version 3.0.3
 - Cleaned up some token intersection calculations to improve precision
 
