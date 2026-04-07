@@ -1,3 +1,13 @@
+## Version 4.2.5
+- Fixed text results not showing in chat
+- FoundryVTT v13
+
+## Version 5.0.1
+- Fixed text results not showing in chat
+
+## Version 5.0.0
+- Updated to V14
+
 ## Version 4.2.4
 - Improved compatibility with automations
 - Fixed Ctrl/Alt + Click for automatic dis/adv

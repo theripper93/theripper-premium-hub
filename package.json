@@ -18,6 +18,7 @@
   },
   "scripts": {
     "translate": "node translate-all.js",
-    "create": "node createApp.js"
+    "create": "node createApp.js",
+    "watch": "webpack --watch"
   }
 }

@@ -2,6 +2,7 @@ import {getSetting} from "../settings";
 
 export function registerCleanHeaderButtons() {
 if (getSetting("tweaks").cleanHeaderButtons) {
+    if (!window.libWrapper) return;
     libWrapper.register("theripper-premium-hub", "Application.prototype._renderOuter", async function (wrapped, ...args) {
         const html = await wrapped(...args);
         setTimeout(() => {

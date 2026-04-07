@@ -44,7 +44,7 @@ export class FormBuilder {
         const app = this.form();
         const data = app._prepareContext();
         FormHelper.registerPartial();
-        return renderTemplate(PARTIAL_KEY, data);
+        return foundry.applications.handlebars.renderTemplate(PARTIAL_KEY, data);
     }
 
     getAsClass(options) {

@@ -1,3 +1,12 @@
+## Version 8.0.3
+- Fixed welcome screen formatting
+
+## Version 8.0.2
+- Updated Asset Browser init logic
+
+## Version 8.0.1
+- Improved AssetBrowser API
+
 ## Version 8.0.0
 - Updated to AppV2
 - Updated for new module split

@@ -1,3 +1,6 @@
+## Version 3.0.0
+- Updated to V14
+
 ## Version 2.0.8
 - Table rolling is now awaited in order to ensure consistent sequencing
 

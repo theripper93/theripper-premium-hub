@@ -1,3 +1,6 @@
+## Version 4.0.0
+- Updated to V14
+
 ## Version 3.1.1
 - Fixed multiple visibility issues with application V2 update
 

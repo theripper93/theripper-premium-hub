@@ -9,7 +9,7 @@ export function initConfig() {
         const element = html;
 
         async function generateSupportReport(moduleId) {
-            const supportInfo = await SupportDetails.generateSupportReport();
+            const supportInfo = await foundry.applications.sidebar.apps.SupportDetails.generateSupportReport();
             const supportOutput = {
                 "Core Version": supportInfo.coreVersion,
                 System: supportInfo.systemVersion,

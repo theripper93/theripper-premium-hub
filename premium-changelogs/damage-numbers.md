@@ -1,3 +1,6 @@
+## Version 6.0.0
+- Updated to V14
+
 ## Version 5.0.2
 - Updated number recognition logic to correctly recognize number strings
 
