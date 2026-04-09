@@ -1,3 +1,6 @@
+## Version 4.0.2
+- Fixed module name
+
 ## Version 4.0.1
 - Fixed Delete Placed Regions tool name
 
