@@ -1,3 +1,6 @@
+## Version 4.0.1
+- Fixed Delete Placed Regions tool name
+
 ## Version 4.0.0
 - Rewoked module to work with Region templates
 - Removed template placement modes in favor of Core Region functionalities
