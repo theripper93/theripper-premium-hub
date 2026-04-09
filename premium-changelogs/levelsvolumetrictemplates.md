@@ -1,3 +1,7 @@
+## Version 4.0.3
+- Changed Target on Change and Target on Placement default to active
+- Exported API for macros
+
 ## Version 4.0.2
 - Fixed module name
 
