@@ -1,3 +1,6 @@
+## Version 8.0.4
+- Fixed chat bubble color
+
 ## Version 8.0.3
 - Fixed welcome screen formatting
 
