@@ -126,7 +126,7 @@ function renderChatHook(app) {
 
 function onButtonClick(event) {
   event.preventDefault();
-  if (!document.querySelector("#chat-message").value.startsWith("/r "))
+  if (!document.querySelector("#chat-message .editor-content p").innerHTML.startsWith("/r "))
     diceTrayData = deepClone(defaultDiceTrayData);
   const button = event.currentTarget;
   const isLeftClick = event.button === 0;
