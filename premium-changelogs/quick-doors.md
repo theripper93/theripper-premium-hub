@@ -1,3 +1,6 @@
+## Version 4.0.1
+- Fixed doors being placed on all levels
+
 ## Version 4.0.0
 - Updated to V14
 
