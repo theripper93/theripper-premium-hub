@@ -1,3 +1,7 @@
+## Version 9.0.1
+- Fixed Heightmap Painter brush size
+- Fixed Heightmap Painter position on tiles
+
 ## Version 9.0.0
 - Updated to V14
 
