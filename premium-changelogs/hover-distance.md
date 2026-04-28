@@ -1,3 +1,6 @@
+## Version 6.0.1
+- Fixed tooltip size with different grid sizes
+
 ## Version 6.0.0
 - Updated to V14
 
