@@ -1,3 +1,6 @@
+## Version 9.0.2
+- Fixed Heightmap Painter save button
+
 ## Version 9.0.1
 - Fixed Heightmap Painter brush size
 - Fixed Heightmap Painter position on tiles
