@@ -1,3 +1,6 @@
+## Version 4.0.3
+- Fixed bug on revealing FoW in Maps
+
 ## Version 4.0.2
 - Fixed release error
 
