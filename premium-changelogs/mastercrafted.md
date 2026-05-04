@@ -1,3 +1,7 @@
+## Version 5.0.11
+- Fixed crafting requiring All tools instead of At least one
+- V13
+
 ## Version 6.0.0
 - Updated to V14
 
