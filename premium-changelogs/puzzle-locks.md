@@ -1,3 +1,6 @@
+## Version 4.0.1
+- Fixed Pawns and Stars configuration
+
 ## Version 3.1.4
 - Fixed Pawns and Stars configuration
 - V13
