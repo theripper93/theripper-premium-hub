@@ -1,3 +1,6 @@
+## Version 6.0.2
+- Fixed Category and Title Level not updating
+
 ## Version 6.0.1
 - Fixed crafting requiring All tools instead of At least one
 
