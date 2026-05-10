@@ -1,3 +1,7 @@
+## Version 2.0.2
+- Fixed Sync Darkness and Weather setting not showing in scene config
+- Moved setting to Environment tab
+
 ## Version 2.0.1
 - Fixed module sometimes entering infinite loop
 
