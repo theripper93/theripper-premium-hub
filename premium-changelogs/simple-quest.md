@@ -1,3 +1,6 @@
+## Version 4.0.4
+- Fixed Timeline tint color
+
 ## Version 3.0.21
 - Fixed Timeline tint color
 - v13
