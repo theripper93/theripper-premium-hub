@@ -1,3 +1,7 @@
+## Version 3.0.21
+- Fixed Timeline tint color
+- v13
+
 ## Version 4.0.3
 - Fixed bug on revealing FoW in Maps
 
