@@ -1,3 +1,6 @@
+## Version 4.0.2
+- Fixed Fill in the blanks input spacing
+
 ## Version 4.0.1
 - Fixed Pawns and Stars configuration
 
