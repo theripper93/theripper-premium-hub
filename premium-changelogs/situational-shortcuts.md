@@ -1,3 +1,7 @@
+## Version 3.0.1
+- Improved buttons visibility
+- Updated config to AppV2
+
 ## Version 3.0.0
 - Updated to V14
 
