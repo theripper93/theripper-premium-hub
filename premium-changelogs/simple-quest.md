@@ -1,3 +1,6 @@
+## Version 5.0.1
+- Fixed glitch when editing page from Simple Quest window
+
 ## Version 5.0.0
 - Full module rework and update to AppV2
 - Revamped interface with a modern look and feel
