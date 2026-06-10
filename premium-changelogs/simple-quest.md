@@ -1,3 +1,7 @@
+## Version 5.0.4
+- Fixed bug that prevented Achievements image migration
+- Players should now not be able to search hidden objectives in Quest pages
+
 ## Version 5.0.3
 - Fixed current icon name not showing in Folder config
 - Improved map robustness
