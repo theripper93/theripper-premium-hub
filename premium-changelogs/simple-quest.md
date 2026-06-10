@@ -1,3 +1,8 @@
+## Version 5.0.3
+- Fixed current icon name not showing in Folder config
+- Improved map robustness
+- Fixed issue with themed journal pages
+
 ## Version 5.0.2
 - Fixed error in enriching Quest pages with some systems
 - Fixed sidebar scroll
