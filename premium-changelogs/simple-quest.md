@@ -1,3 +1,7 @@
+## Version 5.0.2
+- Fixed error in enriching Quest pages with some systems
+- Fixed sidebar scroll
+
 ## Version 5.0.1
 - Fixed glitch when editing page from Simple Quest window
 
