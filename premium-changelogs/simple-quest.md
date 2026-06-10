@@ -1,3 +1,11 @@
+## Version 5.0.0
+- Full module rework and update to AppV2
+- Revamped interface with a modern look and feel
+- 10 specialized Journal page types
+- Full folder support across al tabs
+- Ability to create unlimited custom tabs
+- Improved folder organization with dedicated sections for special directories
+
 ## Version 4.0.4
 - Fixed Timeline tint color
 
