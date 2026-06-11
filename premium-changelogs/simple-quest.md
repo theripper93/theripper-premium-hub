@@ -1,3 +1,8 @@
+## Version 5.0.7
+- Players who own a Journal can now create pages from the Simple Quest interface
+- Added Edit Folder contextmenu by right clicking on tab
+- Completing or failing hidden objectives will no longer trigger a notification for players
+
 ## Version 5.0.6
 - Moved `Hide` Quest Objective functionality from its own checkbox to `Alt+LClick` on objective checkbox
 - Standardized secret/hidden objectives styles
