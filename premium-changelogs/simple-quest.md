@@ -1,3 +1,11 @@
+## Version 5.0.6
+- Moved `Hide` Quest Objective functionality from its own checkbox to `Alt+LClick` on objective checkbox
+- Standardized secret/hidden objectives styles
+- Fixed style injection from certain game systems on Quest pages
+- Added popout functionality to images
+- Added Setting `Secondary Font Size` to change h3 and h4 sizes in custom pages
+- Fixed Map page migration (fallback added to already migrated pages)
+
 ## Version 5.0.5
 - Fixed interaction with some modules
 - Capped content sidebar width to 40% of screen height to accomodate widescreen setups
