@@ -1,3 +1,7 @@
+## Version 5.0.5
+- Fixed interaction with some modules
+- Capped content sidebar width to 40% of screen height to accomodate widescreen setups
+
 ## Version 5.0.4
 - Fixed bug that prevented Achievements image migration
 - Players should now not be able to search hidden objectives in Quest pages
