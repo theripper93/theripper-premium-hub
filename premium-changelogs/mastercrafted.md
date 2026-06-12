@@ -1,3 +1,6 @@
+## Version 6.0.3
+- Added interactivity to recipes embedded in other pages
+
 ## Version 6.0.2
 - Fixed Category and Title Level not updating
 
