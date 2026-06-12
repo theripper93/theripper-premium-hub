@@ -1,3 +1,6 @@
+## Version 5.0.8
+- Changed way to close Map modal from click to double click to allow interactivity with embedded pages (like Gatherer or Mastercrafted)
+
 ## Version 5.0.7
 - Players who own a Journal can now create pages from the Simple Quest interface
 - Added Edit Folder contextmenu by right clicking on tab
