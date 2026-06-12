@@ -1,3 +1,7 @@
+## Version 5.0.9
+- Fixed Multi Map Advanced Feature
+- The feature is now provided by SQ Map custom page
+
 ## Version 5.0.8
 - Changed way to close Map modal from click to double click to allow interactivity with embedded pages (like Gatherer or Mastercrafted)
 
