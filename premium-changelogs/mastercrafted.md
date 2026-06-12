@@ -1,3 +1,6 @@
+## Version 6.0.4
+- Fixed issue with opening config form after rendering a page as embed
+
 ## Version 6.0.3
 - Added interactivity to recipes embedded in other pages
 
