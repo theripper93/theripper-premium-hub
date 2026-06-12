@@ -1,3 +1,6 @@
+## Version 5.0.2
+- Fixed style when Gatherer page is used as embed
+
 ## Version 4.2.5
 - Fixed text results not showing in chat
 - FoundryVTT v13
