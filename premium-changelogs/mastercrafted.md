@@ -1,3 +1,6 @@
+## Version 6.0.5
+- Fixed style issues when Recipe page was opened outside of Journal or Mastercrafted app
+
 ## Version 6.0.4
 - Fixed issue with opening config form after rendering a page as embed
 
