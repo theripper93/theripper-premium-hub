@@ -1,3 +1,6 @@
+## Version 3.0.1
+- Fixed Hexplorer auto activation when creating a new Scene Level
+
 ## Version 3.0.0
 - Updated to V14
 
