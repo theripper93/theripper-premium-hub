@@ -1,3 +1,7 @@
+## Version 5.0.10
+- Fixed issue with pages sometimes not opening correctly
+- Added styling to some elements of non-Simple Quest pages to prevent viisibility issues with some themes
+
 ## Version 5.0.9
 - Fixed Multi Map Advanced Feature
 - The feature is now provided by SQ Map custom page
