@@ -1,3 +1,6 @@
+## Version 4.0.1
+- Fixed bug where Tidbits were showing on Scene Level change
+
 ## Version 4.0.0
 - Updated to V14
 
