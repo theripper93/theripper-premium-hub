@@ -1,3 +1,10 @@
+## Version 5.0.11
+- Added ability to hide almost every element of the custom pages
+- Right sidebar in custom pages now auto hides if empty
+- Revealed secret blocks no longer show secret blocks styling to observers
+- Added Background Image to styling options
+- Tweaked styles presets
+
 ## Version 5.0.10
 - Fixed issue with pages sometimes not opening correctly
 - Added styling to some elements of non-Simple Quest pages to prevent viisibility issues with some themes
