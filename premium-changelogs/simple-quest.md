@@ -1,3 +1,9 @@
+## Version 5.0.12
+- Added ability to open content links as modals via Alt+LClick
+- Fixed default sheet for Simple Quest pages
+- Removed custom page styling when opened outside of Simple Quest app
+- Made Simple Quest pages embeddable statically (no interactivity)
+
 ## Version 5.0.11
 - Added ability to hide almost every element of the custom pages
 - Right sidebar in custom pages now auto hides if empty
