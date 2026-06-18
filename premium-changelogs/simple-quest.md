@@ -1,3 +1,9 @@
+## Version 5.0.13
+- Fixed sidebar scroll position not being saved
+- Fixed Create Entry / Create Folder user permissions
+- Fixed Drag&Drop in sidebar
+- Fixed page order in sidebar
+
 ## Version 5.0.12
 - Added ability to open content links as modals via Alt+LClick
 - Fixed default sheet for Simple Quest pages
