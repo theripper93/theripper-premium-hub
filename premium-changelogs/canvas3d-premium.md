@@ -1,3 +1,7 @@
+## Version 8.0.1
+- Fixed Effect Browser drag issue
+- FoundryVTT v13
+
 ## Version 9.0.2
 - Fixed Heightmap Painter save button
 
