@@ -1,3 +1,7 @@
+## Version 5.0.14
+- Fixed migration issue for any user who had default Quests folder name
+- Fixed Journal Templates not appearing for all page types
+
 ## Version 5.0.13
 - Fixed sidebar scroll position not being saved
 - Fixed Create Entry / Create Folder user permissions
