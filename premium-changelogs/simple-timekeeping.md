@@ -1,3 +1,6 @@
+## Version 2.0.3
+- Added `@st-event[uuid]` text enricher
+
 ## Version 2.0.2
 - Fixed Sync Darkness and Weather setting not showing in scene config
 - Moved setting to Environment tab
