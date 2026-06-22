@@ -1,3 +1,10 @@
+## Version 5.0.15
+- Added tutorial tips in sidebar
+- Updated `@time` enricher to use Simple Timekeeping
+- Added context options to `Right Click` on tabs
+- Added `Alt + Left Click` on pages to change default ownership level
+- Fixed Color Tags section not wrapping
+
 ## Version 5.0.14
 - Fixed migration issue for any user who had default Quests folder name
 - Fixed Journal Templates not appearing for all page types
