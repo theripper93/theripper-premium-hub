@@ -1,3 +1,6 @@
+## Version 5.0.16
+- Fixed issue with tutorial tips and some localizations
+
 ## Version 5.0.15
 - Added tutorial tips in sidebar
 - Updated `@time` enricher to use Simple Timekeeping
