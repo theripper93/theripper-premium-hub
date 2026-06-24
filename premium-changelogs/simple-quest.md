@@ -1,3 +1,7 @@
+## Version 5.0.18
+- Changed notification logic to prevent too many pings when heavily editing journals
+- Fixed image popout in Achievements page
+
 ## Version 5.0.17
 - Fixed Spotlight Omnisearch integration
 
