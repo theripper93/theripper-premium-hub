@@ -1,3 +1,6 @@
+## Version 5.0.17
+- Fixed Spotlight Omnisearch integration
+
 ## Version 5.0.16
 - Fixed issue with tutorial tips and some localizations
 
