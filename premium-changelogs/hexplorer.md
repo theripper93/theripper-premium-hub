@@ -1,3 +1,6 @@
+## Version 3.0.2
+- Added `Hide Unrevealed Tooltip` options to cells. If checked, tooltip will not show for players if the cell is not revealed.
+
 ## Version 3.0.1
 - Fixed Hexplorer auto activation when creating a new Scene Level
 
