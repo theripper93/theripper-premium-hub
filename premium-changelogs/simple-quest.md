@@ -1,3 +1,8 @@
+## Version 5.0.19
+- Fixed Simple Quest not opening when using languages other than English
+- Fixed integration with other modules
+- Changed fullscreen behavior: main window will no longer be brought to front when clicked on. This allows for easier work on multiple journal pages while inside Simple Quest.
+
 ## Version 5.0.18
 - Changed notification logic to prevent too many pings when heavily editing journals
 - Fixed image popout in Achievements page
