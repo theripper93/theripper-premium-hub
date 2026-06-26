@@ -1,3 +1,8 @@
+## Version 5.0.20
+- Added ability to choose page image aspect ratio
+- Added Back functionality to history (cycles between last two pages), hotkey Ctrl+Tab
+- Fixed rare bug where Simple Quest would break and open on blurry page
+
 ## Version 5.0.19
 - Fixed Simple Quest not opening when using languages other than English
 - Fixed integration with other modules
