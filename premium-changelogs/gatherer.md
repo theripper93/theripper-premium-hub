@@ -1,3 +1,7 @@
+## Version 5.0.3
+- Fixed Gathering spots not updating on API calls
+- Fixed Gathering spots not resetting on time advancement
+
 ## Version 5.0.2
 - Fixed style when Gatherer page is used as embed
 
