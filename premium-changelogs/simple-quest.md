@@ -1,3 +1,9 @@
+## Version 5.0.21
+- Fixed bug where categorized journals were not showing their pages in `Quest Recap`
+- Fixed bug where journals were visible in Tab root even when permission was `None` for players
+- Fixed bug that allowed players to see `Eras` and `Events` they should not see
+- Added Highlight Matching to custom pages' prose mirror editors
+
 ## Version 5.0.20
 - Added ability to choose page image aspect ratio
 - Added Back functionality to history (cycles between last two pages), hotkey Ctrl+Tab
