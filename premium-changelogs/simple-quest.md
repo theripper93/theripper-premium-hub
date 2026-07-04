@@ -1,3 +1,9 @@
+## Version 5.0.22
+- New Custom Page: Investigation Board
+- Create an endless canvas with all your clues
+- Connect items however you want
+- Hide and reveal pieces of information and their connections
+
 ## Version 5.0.21
 - Fixed bug where categorized journals were not showing their pages in `Quest Recap`
 - Fixed bug where journals were visible in Tab root even when permission was `None` for players
