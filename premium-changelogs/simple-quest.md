@@ -1,3 +1,9 @@
+## Version 5.1.0
+- Added `Create Connection` and `Duplicate Item` to Items' context menu
+- Added `Save Viewport` to Action Menu in bottom right
+- Increased specificity of some style to override system defaults
+- Fixed secret block style override for players
+
 ## Version 5.0.22
 - New Custom Page: Investigation Board
 - Create an endless canvas with all your clues
