@@ -1,3 +1,7 @@
+## Version 8.0.2
+- Fixed some Build Panel apps not saving scroll position
+- FoundryVTT v13
+
 ## Version 8.0.1
 - Fixed Effect Browser drag issue
 - FoundryVTT v13
