@@ -1,3 +1,9 @@
+## Version 5.1.1
+- AAdded: when revealing a page in the sidebar with Alt+Click, asks to also reveal the parent journal (and set other `Inherit` pages to `None` so they are not spoiled)
+- Added setting: `Simple Quest Permission Handling` to skip the journal permission dialog and proceed automatically. Also creates new pages with `None` default permission.
+- Fixed issue where Journals were not revealable by Alt+Click in the sidebar
+- Fixed issue with Secret sections in Core pages not toggling
+
 ## Version 5.1.0
 - Added `Create Connection` and `Duplicate Item` to Items' context menu
 - Added `Save Viewport` to Action Menu in bottom right
