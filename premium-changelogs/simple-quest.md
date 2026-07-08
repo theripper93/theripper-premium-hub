@@ -1,3 +1,8 @@
+## Version 5.1.2
+- Fixed issue with secrets in non-SQ pages
+- Creating new pages now always puts them in last position
+- Opening a Note that contains a Simple Quest page now opens Simple Quest
+
 ## Version 5.1.1
 - AAdded: when revealing a page in the sidebar with Alt+Click, asks to also reveal the parent journal (and set other `Inherit` pages to `None` so they are not spoiled)
 - Added setting: `Simple Quest Permission Handling` to skip the journal permission dialog and proceed automatically. Also creates new pages with `None` default permission.
