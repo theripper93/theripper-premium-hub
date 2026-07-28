@@ -1,3 +1,7 @@
+## Version 5.1.3
+- Added `Collapse Sidebar` button
+- Reduced padding in SQ Investigation pages
+
 ## Version 5.1.2
 - Fixed issue with secrets in non-SQ pages
 - Creating new pages now always puts them in last position
