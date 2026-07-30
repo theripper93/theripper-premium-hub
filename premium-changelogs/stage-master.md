@@ -1,3 +1,6 @@
+## Version 0.11.0
+- General text/descriptions cleanup
+
 ## Version 0.10.0
 - Polished `Flood` tool for `Manual Fog of War`
 - Added `Vision` tool for `Manual Fog of War`
