@@ -1,3 +1,7 @@
+## Version 5.1.4
+- Fixed issue with custom Enrichers
+- Fixed issue with negative item orders in SQ Investigation pages
+
 ## Version 5.1.3
 - Added `Collapse Sidebar` button
 - Reduced padding in SQ Investigation pages
