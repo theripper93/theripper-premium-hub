@@ -1,3 +1,6 @@
+## Version 0.12.1
+- Fixed other issues with Affected Users setting
+
 ## Version 0.12.0
 - Fixed issue with Affected Users setting
 
