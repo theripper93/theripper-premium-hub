@@ -1,3 +1,6 @@
+## Version 4.0.2
+- Fixed Hide in combat not working with Docked mode
+
 ## Version 4.0.1
 - Replaced AI assets with human-made artwork
 
