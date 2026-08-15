@@ -1,3 +1,7 @@
+## Version 4.0.4
+- Fixed template/region on different grid sizes
+- Fixed issue with `Delete Placed Regions` button
+
 ## Version 4.0.3
 - Changed Target on Change and Target on Placement default to active
 - Exported API for macros
