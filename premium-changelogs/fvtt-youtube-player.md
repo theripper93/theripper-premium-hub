@@ -1,3 +1,6 @@
+## Version 4.0.1
+- Fixed Import/Export Playlist functionality
+
 ## Version 4.0.0
 - Updated to V14
 
