@@ -1,3 +1,10 @@
+## Version 0.13.0
+- Added ability to control Camera with Gamepad
+- Added ability to run Macros with Gamepad buttons (A, B, X, Y)
+- Added `Configure Gamepad` menu in settings
+- Fixed FoW painting not closing on Stage Master close
+- Fixed Director's state not updating after Stage Master restart
+
 ## Version 0.12.1
 - Fixed other issues with Affected Users setting
 
