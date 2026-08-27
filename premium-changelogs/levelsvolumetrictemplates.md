@@ -1,3 +1,7 @@
+## Version 4.0.5
+- Reworked Template/Region placement
+- Improved compatibility with third party modules
+
 ## Version 4.0.4
 - Fixed template/region on different grid sizes
 - Fixed issue with `Delete Placed Regions` button
