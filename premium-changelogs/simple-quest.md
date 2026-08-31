@@ -1,3 +1,6 @@
+## Version 5.1.5
+- Fixed Achievement tab permission notifications
+
 ## Version 5.1.4
 - Fixed issue with custom Enrichers
 - Fixed issue with negative item orders in SQ Investigation pages
