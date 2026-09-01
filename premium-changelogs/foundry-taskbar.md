@@ -1,3 +1,6 @@
+## Version 6.0.1
+- Improved performance for module/content heavy worlds
+
 ## Version 6.0.0
 - Updated to V14
 
