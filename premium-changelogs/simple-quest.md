@@ -1,3 +1,6 @@
+## Version 5.1.6
+- Improved performance for module/content heavy worlds
+
 ## Version 5.1.5
 - Fixed Achievement tab permission notifications
 
