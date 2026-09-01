@@ -1,3 +1,6 @@
+## Version 4.0.3
+- Improved performance for module/content heavy worlds
+
 ## Version 4.0.2
 - Fixed Hide in combat not working with Docked mode
 
