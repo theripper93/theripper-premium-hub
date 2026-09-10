@@ -1,3 +1,6 @@
+## Version 4.0.4
+- Fixed Rideable integration's button spacing
+
 ## Version 4.0.3
 - Improved performance for module/content heavy worlds
 
