@@ -1,3 +1,6 @@
+## Version 5.1.7
+- Fixed some Investigation Board's items crashing when color field is empty
+
 ## Version 5.1.6
 - Improved performance for module/content heavy worlds
 
