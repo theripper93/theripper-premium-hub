@@ -1,3 +1,6 @@
+## Version 2.0.2
+- Fixed version limit on 2.0.x (v14 only)
+
 ## Version 2.0.1
 - Fixed journal embed in `Lies Beneath the Light`
 
