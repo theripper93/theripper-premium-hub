@@ -1,3 +1,6 @@
+## Version 6.0.2
+- Fixed `Move to Hovered Location` (M key)
+
 ## Version 6.0.1
 - Fixed tooltip size with different grid sizes
 
