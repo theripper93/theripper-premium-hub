@@ -1,3 +1,6 @@
+## Version 5.0.1
+- Changed scale precision to 2 decimals to match Foundry
+
 ## Version 5.0.0
 - Updated to V14
 
