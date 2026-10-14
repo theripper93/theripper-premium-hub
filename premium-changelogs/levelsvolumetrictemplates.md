@@ -1,3 +1,6 @@
+## Version 4.0.6
+- Fixed template placement throwing an error
+
 ## Version 4.0.5
 - Reworked Template/Region placement
 - Improved compatibility with third party modules
