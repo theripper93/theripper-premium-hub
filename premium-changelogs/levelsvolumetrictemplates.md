@@ -1,3 +1,6 @@
+## Version 4.0.7
+- Added defaults to placed region's elevation when system doesn't provide them
+
 ## Version 4.0.6
 - Fixed template placement throwing an error
 
