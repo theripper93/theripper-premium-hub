@@ -1,3 +1,6 @@
+## Version 5.1.8
+- Fixed `sceneToMap` macro
+
 ## Version 5.1.7
 - Fixed some Investigation Board's items crashing when color field is empty
 
