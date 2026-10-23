@@ -1,3 +1,6 @@
+## Version 3.0.4
+- Tokens under the Fog are now always hidden, Tokens in revealed areas ar e always visible
+
 ## Version 3.0.3
 - Fixed tokens not auto rotating when moving
 
