@@ -1,3 +1,9 @@
+## Version 6.1.0
+- Added ability to select multiple skills for Epic Rolls (shift/ctrl + click)
+- Added toggle for Private Rolls
+- Added configurable hotkey to open Epic Rolls window
+- Added ability to open Epic Rolls window from inline rolls requests (new setting)
+
 ## Version 6.0.0
 - Updated to V14
 
