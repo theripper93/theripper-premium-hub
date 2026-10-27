@@ -1,3 +1,10 @@
+## Version 5.2.0
+- Replaced global search with new Search panel, with improved performance and better searching capabilities
+- Investigation Board now has Copy/Paste functionality between Boards
+- If an image URL is copied, it's now possible to paste it as Image in Investigation Board
+- It is now possible to select multiple items to copy/move them by holding shift and clicking/dragging mouse
+- Performance on Investigation Boards should now be better
+
 ## Version 5.1.8
 - Fixed `sceneToMap` macro
 
