@@ -1,3 +1,6 @@
+## Version 5.2.1
+- Added missing localization keys
+
 ## Version 5.2.0
 - Replaced global search with new Search panel, with improved performance and better searching capabilities
 - Investigation Board now has Copy/Paste functionality between Boards
