@@ -1,3 +1,8 @@
+## Version 5.3.0
+- New page type: SQ Loot
+- Prepare the loot for your players ahead of time
+- Award it to the deserving ones only
+
 ## Version 5.2.1
 - Added missing localization keys
 
