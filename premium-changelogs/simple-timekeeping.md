@@ -1,3 +1,12 @@
+## Version 3.0.0
+- New Feature: Calendar View. With events, moons, and more!
+- New Feature: Calendar Edit. Edit your custom calendar in a window instead of scribbling JSONs
+- Reworked: Moons and Biome are now easily customizable in Calendar Editor
+- Moons can now be died with a hue
+- It's now possible to have day specific moons (like a Red moon once a month)
+- Added ability to have a random moon cycle (like WH Morrslieb)
+- Added chat notifications on day of events
+
 ## Version 2.0.3
 - Added `@st-event[uuid]` text enricher
 
