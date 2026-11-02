@@ -1,3 +1,6 @@
+## Version 6.0.2
+- Fixed GLB viewer not showing when 3D Canvas scene is active
+
 ## Version 6.0.1
 - Fixed multiple Apply buttons in forms
 
