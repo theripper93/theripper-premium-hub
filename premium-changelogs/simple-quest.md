@@ -1,3 +1,9 @@
+## Version 5.4.0
+- New Page: SQ Shop
+- Have a full market of merchants ready to deploy
+- One click trades
+- Multi system currency integration
+
 ## Version 5.3.0
 - New page type: SQ Loot
 - Prepare the loot for your players ahead of time
