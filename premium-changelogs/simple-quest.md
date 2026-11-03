@@ -1,3 +1,7 @@
+## Version 5.4.2
+- Items sold to a shop now return to their original stock when unchanged.
+- Out-of-stock items are now hidden from the shop view.
+
 ## Version 5.1.6
 - Improved performance for module/content heavy worlds
 
