@@ -1,3 +1,6 @@
+## Version 5.4.1
+- Improved currency management in shops for some systems
+
 ## Version 5.4.0
 - New Page: SQ Shop
 - Have a full market of merchants ready to deploy
