@@ -1,3 +1,7 @@
+## Version 5.4.3
+- Increased item drop area to full page in SQ Shop Edit
+- Alt+Click now hides/shows hideable elements in all pages
+
 ## Version 5.4.1
 - Improved currency management in shops for some systems
 
