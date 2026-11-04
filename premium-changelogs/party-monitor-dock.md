@@ -1,3 +1,7 @@
+## Version 5.0.0
+- Party HUD no longer requires Carousel Combat Tracker to function
+- Settings that depended on CCT are now available in both modules and automatically synced
+
 ## Version 4.0.4
 - Fixed Rideable integration's button spacing
 
