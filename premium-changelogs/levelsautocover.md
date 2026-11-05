@@ -1,3 +1,9 @@
+## Version 5.0.0
+- Remastered graphics with Cover Badges and highlights on what is providing cover
+- New Feature: Cover Preview, hold V to check cover from different spots
+- New Feature: Tactical View, hold Alt to show reachable movement areas. Move to cursor with a single click.
+- System Integrations: systems that have native cover active effects should apply those, while others get a configurable active effect on each cover level
+
 ## Version 4.0.1
 - Fixed cover not calculating correctly with 3D Canvas
 
