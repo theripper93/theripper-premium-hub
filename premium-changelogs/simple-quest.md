@@ -1,3 +1,7 @@
+## Version 5.4.5
+- Further unified SQ Loot and SQ Shop edit pages
+- Journal Page Popout functionalites have been added to Simple Quest
+
 ## Version 5.4.4
 - Dragging spells to SQ Loot or SQ Shop now transforms them to Spell Scrolls for supported systems
 - Unified Edit page style for SQ Loot and SQ Shop
