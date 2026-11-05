@@ -1,3 +1,7 @@
+## Version 5.4.4
+- Dragging spells to SQ Loot or SQ Shop now transforms them to Spell Scrolls for supported systems
+- Unified Edit page style for SQ Loot and SQ Shop
+
 ## Version 5.4.3
 - Increased item drop area to full page in SQ Shop Edit
 - Alt+Click now hides/shows hideable elements in all pages
