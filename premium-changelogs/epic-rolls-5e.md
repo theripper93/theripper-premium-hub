@@ -1,3 +1,8 @@
+## Version 7.0.0
+- `Epic Rolls 5e` is now `Epic Rolls` and it's system agnostic
+- TheRipper93's System Abstraction (RSA) provides full features for all supported systems
+- Unsupported systems still get a formula roll fallback
+
 ## Version 6.1.0
 - Added ability to select multiple skills for Epic Rolls (shift/ctrl + click)
 - Added toggle for Private Rolls
