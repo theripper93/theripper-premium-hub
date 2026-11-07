@@ -1,3 +1,9 @@
+## Version 6.1.0
+- drag and drop images now works on token layer and sounds in sounds layer
+- added right click menu on file with previous copy url option and place on scene \ set as background
+- filepicker can now be resized with a handle instead of the resize options
+- improved previews
+
 ## Version 6.0.1
 - Fixed multiple Apply buttons in forms
 
