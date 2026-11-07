@@ -1,3 +1,6 @@
+## Version 5.0.1
+- fixed issues with area targeting
+
 ## Version 4.0.1
 - Fixed cover not calculating correctly with 3D Canvas
 
