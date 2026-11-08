@@ -1,3 +1,7 @@
+## Version 1.0.1
+- Shared Camera in clients is now fitted to the area not covered by sidebar
+- New Setting: Adapts to Sidebar, default on
+
 ## Version 1.0.0
 - Supporter Release 1.0.0
 - Fixed issues at Scene/Level change
