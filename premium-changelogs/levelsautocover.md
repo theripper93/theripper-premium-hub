@@ -1,3 +1,7 @@
+## Version 5.0.2
+- Changed default behavior to only calculate cover on movement blocking surfaces
+- Added setting to change between `move`, `sight`, `both`
+
 ## Version 5.0.0
 - Remastered graphics with Cover Badges and highlights on what is providing cover
 - New Feature: Cover Preview, hold V to check cover from different spots
