@@ -1,3 +1,6 @@
+## Version 4.0.0
+- Added new dice themes
+
 ## Version 3.0.0
 - Updated to V14
 
