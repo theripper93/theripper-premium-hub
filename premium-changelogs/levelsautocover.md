@@ -1,3 +1,6 @@
+## Version 5.1.1
+- Fixed menu scrolling
+
 ## Version 5.1.0
 - Improved tactical view awareness of terrain and blocking tokens if supported by the game system
 
