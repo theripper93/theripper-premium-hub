@@ -1,3 +1,6 @@
+## Version 6.1.1
+- updated to use lbwrapper if present for window resizing
+
 ## Version 6.1.0
 - drag and drop images now works on token layer and sounds in sounds layer
 - added right click menu on file with previous copy url option and place on scene \ set as background
