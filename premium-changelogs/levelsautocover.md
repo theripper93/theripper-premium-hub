@@ -1,3 +1,6 @@
+## Version 5.1.0
+- Improved tactical view awareness of terrain and blocking tokens if supported by the game system
+
 ## Version 5.0.1
 - fixed issues with area targeting
 
