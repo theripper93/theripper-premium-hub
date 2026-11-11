@@ -1,3 +1,17 @@
+## Version 6.0.0
+- Added multiple checks per page, all of which must succeed
+- Added a Pulls per Character limit
+- Added respawn modes: full reset or one pull regained per interval
+- Added an option for failed attempts to use a pull
+- Added critical successes with bonus pulls, a quantity multiplier and a critical margin
+- Added a Mishap Table drawn on failure
+- Added Player Visibility: show odds, hide odds or hide items until gathered
+- Added Gatherer Node region behavior: a Gather button appears for tokens inside the region
+- Added six minigames: Classic, Fishing, Mining, Herbalism, Hunting and Harvesting
+- Added Harvest by Creature Type with weighted random pages and pulls per type
+- Added a Harvest button above defeated creatures once combat is over
+- Requires Foundry v14 and TheRipper93's System Abstraction.
+
 ## Version 5.0.3
 - Fixed Gathering spots not updating on API calls
 - Fixed Gathering spots not resetting on time advancement
