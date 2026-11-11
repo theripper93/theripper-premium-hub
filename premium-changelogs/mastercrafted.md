@@ -1,3 +1,21 @@
+## Version 7.0.0
+- New Recipe Manager: book tree, card grid of recipes and an inline recipe view.
+- Recipe Manager tabs: All, Processes, and one per crafting type in use.
+- Crafting types: alchemy, smithing, cooking, woodworking, tailoring, enchanting, jewelcrafting, scribing.
+- Crafting Station region behavior: recipes can require the actor's token to stand at a station of their type.
+- Minigames for all 8 crafting types; quality depends on how well they are played.
+- Process pages: chain recipes into stages that unlock in order.
+- Modification pages: improve existing items with level tracks, value changes and name prefixes/suffixes.
+- Timed crafting queues: parallel, per actor or global, with pause, resume, finish and cancel.
+- Timed crafts panel in the Recipe Manager.
+- Batch crafting: craft a recipe several times at once, with checks rolled once.
+- Choose which items to use when an ingredient can be paid with different items.
+- Currency as an ingredient or product, with change made automatically.
+- Multiple crafting checks per recipe, rolled in order, with result, successes, roll-under or level-of-success thresholds.
+- Results visibility: always visible, hidden until crafted, or always hidden.
+- Tabbed edit sheets for recipes, processes and modifications.
+- Requires Foundry v14 and TheRipper93's System Abstraction.
+
 ## Version 6.0.5
 - Fixed style issues when Recipe page was opened outside of Journal or Mastercrafted app
 
