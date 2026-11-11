@@ -1,3 +1,7 @@
+## Version 7.0.1
+- Improved item style in recipe list
+- Fixed Progress and Modification pages detection in "Only Craftable" filter
+
 ## Version 7.0.0
 - New Recipe Manager: book tree, card grid of recipes and an inline recipe view.
 - Recipe Manager tabs: All, Processes, and one per crafting type in use.
