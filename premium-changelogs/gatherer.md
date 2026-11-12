@@ -1,3 +1,6 @@
+## Version 6.0.1
+- Added option to Gatherer pages config: Gather Mode, Roll or Choose. Roll draws from the table as usual, Choose lets the user select which item they're going for.
+
 ## Version 6.0.0
 - Added multiple checks per page, all of which must succeed
 - Added a Pulls per Character limit
