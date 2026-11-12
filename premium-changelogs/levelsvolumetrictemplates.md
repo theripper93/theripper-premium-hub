@@ -1,3 +1,6 @@
+## Version 4.0.8
+- Fixed issues with placeRegion calls missing arguments crashing the module
+
 ## Version 4.0.5
 - Reworked Template/Region placement
 - Improved compatibility with third party modules
