@@ -1,3 +1,6 @@
+## Version 7.0.2
+- New Setting: Timed Crafting Progress. Choose if advancing Timed Crafting manually or through world time
+
 ## Version 7.0.1
 - Improved item style in recipe list
 - Fixed Progress and Modification pages detection in "Only Craftable" filter
