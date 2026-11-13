@@ -1,3 +1,6 @@
+## Version 3.0.1
+- Weather effects updates now occur only on relevant scenes
+
 ## Version 2.0.3
 - Added `@st-event[uuid]` text enricher
 
