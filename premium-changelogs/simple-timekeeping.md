@@ -1,3 +1,6 @@
+## Version 3.0.2
+- improved moon api for use with 3d canvas
+
 ## Version 3.0.1
 - Weather effects updates now occur only on relevant scenes
 
