@@ -1,3 +1,6 @@
+## Version 4.1.2
+- Fixed looping issue for videos outside playlists
+
 ## Version 4.1.1
 - fixed fade in\out sometimes not playing the next track
 
