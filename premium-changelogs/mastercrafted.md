@@ -1,3 +1,6 @@
+## Version 7.0.3
+- Fixed old items with tags not being usable for recipes
+
 ## Version 7.0.2
 - New Setting: Timed Crafting Progress. Choose if advancing Timed Crafting manually or through world time
 
