@@ -1,3 +1,6 @@
+## Version 4.1.1
+- fixed fade in\out sometimes not playing the next track
+
 ## Version 4.1.0
 - Scene and combat soundtracks: bind a playlist or track to a scene so activating the scene changes the music. Battle music plays when combat starts, and the previous track resumes when it ends.
 - playlist: shuffle, loop, next and previous controls, plus per-track start and end time. Playlist panel redesigned to better fit content
