@@ -1,3 +1,6 @@
+## Version 5.4.6
+- Fixed issue with pages inside subfolders in My Journal and Party Journal tabs
+
 ## Version 5.4.5
 - Further unified SQ Loot and SQ Shop edit pages
 - Journal Page Popout functionalites have been added to Simple Quest
