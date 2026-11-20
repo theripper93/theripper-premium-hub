@@ -1,3 +1,6 @@
+## Version 10.0.0
+- Mapmaker update
+
 ## Version 9.0.3
 - Fixed some Build Panel apps not saving scroll position
 
