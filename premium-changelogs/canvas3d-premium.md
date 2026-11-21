@@ -1,3 +1,7 @@
+## Version 10.0.1
+- Allow roof recolor
+- Minor fixes
+
 ## Version 10.0.0
 - Mapmaker update
 
