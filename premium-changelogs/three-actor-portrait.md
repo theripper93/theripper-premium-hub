@@ -1,3 +1,6 @@
+## Version 5.0.1
+- Fixed "Save Pose" corrupting portrait
+
 ## Version 4.0.0
 - Updated to V14
 
