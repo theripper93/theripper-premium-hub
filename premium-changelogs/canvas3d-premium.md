@@ -1,3 +1,6 @@
+## Version 10.0.2
+- Added modern and one additional scifi theme
+
 ## Version 10.0.1
 - Allow roof recolor
 - Minor fixes
