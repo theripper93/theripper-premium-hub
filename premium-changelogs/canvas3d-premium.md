@@ -1,3 +1,6 @@
+## Version 10.0.5
+- add bridge support
+
 ## Version 10.0.4
 - minor bugfixes
 
