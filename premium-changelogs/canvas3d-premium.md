@@ -1,3 +1,6 @@
+## Version 10.0.4
+- minor bugfixes
+
 ## Version 10.0.3
 - Added channels and sewage water
 
