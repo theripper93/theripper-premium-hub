@@ -1,3 +1,6 @@
+## Version 5.4.7
+- Added features abstractions registration
+
 ## Version 5.4.6
 - Fixed issue with pages inside subfolders in My Journal and Party Journal tabs
 
