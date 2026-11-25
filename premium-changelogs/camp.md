@@ -1,3 +1,6 @@
+## Version 0.3.1
+- Added features abstractions' registration
+
 ## Version 0.3.0
 - Reworked module to a 2D Camp builder
 - Build camps, strongholds, settlements with custom rooms
