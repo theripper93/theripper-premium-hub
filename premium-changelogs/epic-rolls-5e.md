@@ -1,3 +1,6 @@
+## Version 7.0.1
+- Added features abstractions registration
+
 ## Version 7.0.0
 - `Epic Rolls 5e` is now `Epic Rolls` and it's system agnostic
 - TheRipper93's System Abstraction (RSA) provides full features for all supported systems
