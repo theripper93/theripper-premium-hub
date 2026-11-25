@@ -1,3 +1,6 @@
+## Version 7.0.4
+- Added features abstractions registration
+
 ## Version 7.0.3
 - Fixed old items with tags not being usable for recipes
 
