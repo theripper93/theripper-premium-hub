@@ -1,3 +1,6 @@
+## Version 6.0.2
+- Added features abstractions registration
+
 ## Version 6.0.1
 - Added option to Gatherer pages config: Gather Mode, Roll or Choose. Roll draws from the table as usual, Choose lets the user select which item they're going for.
 
