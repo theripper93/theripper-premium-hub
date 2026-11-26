@@ -1,3 +1,6 @@
+## Version 10.0.6
+- added sewer theme
+
 ## Version 10.0.5
 - add bridge support
 
