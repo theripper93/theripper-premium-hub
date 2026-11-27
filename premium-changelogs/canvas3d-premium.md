@@ -1,3 +1,7 @@
+## Version 10.0.7
+- fix stair in custom themes
+- added holes as stair type
+
 ## Version 10.0.6
 - added sewer theme
 
