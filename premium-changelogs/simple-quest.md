@@ -1,6 +1,50 @@
-## Version 5.4.2
-- Items sold to a shop now return to their original stock when unchanged.
-- Out-of-stock items are now hidden from the shop view.
+## Version 5.4.7
+- Added features abstractions registration
+
+## Version 5.4.6
+- Fixed issue with pages inside subfolders in My Journal and Party Journal tabs
+
+## Version 5.4.5
+- Further unified SQ Loot and SQ Shop edit pages
+- Journal Page Popout functionalites have been added to Simple Quest
+
+## Version 5.4.4
+- Dragging spells to SQ Loot or SQ Shop now transforms them to Spell Scrolls for supported systems
+- Unified Edit page style for SQ Loot and SQ Shop
+
+## Version 5.4.3
+- Increased item drop area to full page in SQ Shop Edit
+- Alt+Click now hides/shows hideable elements in all pages
+
+## Version 5.4.1
+- Improved currency management in shops for some systems
+
+## Version 5.4.0
+- New Page: SQ Shop
+- Have a full market of merchants ready to deploy
+- One click trades
+- Multi system currency integration
+
+## Version 5.3.0
+- New page type: SQ Loot
+- Prepare the loot for your players ahead of time
+- Award it to the deserving ones only
+
+## Version 5.2.1
+- Added missing localization keys
+
+## Version 5.2.0
+- Replaced global search with new Search panel, with improved performance and better searching capabilities
+- Investigation Board now has Copy/Paste functionality between Boards
+- If an image URL is copied, it's now possible to paste it as Image in Investigation Board
+- It is now possible to select multiple items to copy/move them by holding shift and clicking/dragging mouse
+- Performance on Investigation Boards should now be better
+
+## Version 5.1.8
+- Fixed `sceneToMap` macro
+
+## Version 5.1.7
+- Fixed some Investigation Board's items crashing when color field is empty
 
 ## Version 5.1.6
 - Improved performance for module/content heavy worlds

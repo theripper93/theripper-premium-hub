@@ -28,6 +28,7 @@
   "id": "theripper-premium-hub",
   "compatibility": {
     "minimum": "14",
-    "verified": "14"
+    "verified": "14",
+    "maximum": "14"
   }
 }

@@ -1,3 +1,6 @@
+## Version 6.0.2
+- Fixed error with apps that edit/hide window header
+
 ## Version 6.0.1
 - Improved performance for module/content heavy worlds
 

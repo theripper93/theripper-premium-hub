@@ -1,3 +1,12 @@
+## Version 1.0.1
+- Shared Camera in clients is now fitted to the area not covered by sidebar
+- New Setting: Adapts to Sidebar, default on
+
+## Version 1.0.0
+- Supporter Release 1.0.0
+- Fixed issues at Scene/Level change
+- Fixed issues with FoW visibility for GM
+
 ## Version 0.13.0
 - Added ability to control Camera with Gamepad
 - Added ability to run Macros with Gamepad buttons (A, B, X, Y)

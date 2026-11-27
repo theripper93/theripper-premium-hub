@@ -30,14 +30,21 @@ function onTokenPreUpdate(tokenDocument, updates) {
             originalX: tokenDocument.x,
             originalY: tokenDocument.y,
         });
-        const rotation = getRotation(tokenDocument, {
-            x: updates.x ?? tokenDocument.x,
-            y: updates.y ?? tokenDocument.y,
-            width: tokenDocument.width,
-            height: tokenDocument.height,
-            parent: tokenDocument.parent,
-        });
-        if (rotation !== false) updates.rotation = rotation;
+        const target = game.user.targets.values().next().value;
+        const targetRotation = target?.document ? getRotation(tokenDocument, target.document) : false;
+
+        if (targetRotation !== false) {
+            updates.rotation = targetRotation;
+        }
+
+        // const rotation = getRotation(tokenDocument, target?.document ?? {
+        //     x: updates.x ?? tokenDocument.x,
+        //     y: updates.y ?? tokenDocument.y,
+        //     width: tokenDocument.width,
+        //     height: tokenDocument.height,
+        //     parent: tokenDocument.parent,
+        // });
+        // if (rotation !== false) updates.rotation = rotation;
     }
 }
 

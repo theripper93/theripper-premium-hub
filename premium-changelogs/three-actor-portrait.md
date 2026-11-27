@@ -1,6 +1,9 @@
 ## Version 5.0.2
 - minor bugfixes
 
+## Version 5.0.1
+- Fixed "Save Pose" corrupting portrait
+
 ## Version 5.0.0
 - Updated THREEJS to 187
 - New 3d model in journal feature to easly add 3d embedded models in journals using the prosemirror editor

@@ -1,3 +1,6 @@
+## Version 3.0.1
+- Fixed issue where all tiles are blurred at level change
+
 ## Version 3.0.0
 - Updated to v14
 
