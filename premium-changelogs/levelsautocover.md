@@ -1,3 +1,6 @@
+## Version 5.2.0
+- fixed 3d canvas support
+
 ## Version 5.1.1
 - Fixed menu scrolling
 
